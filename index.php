@@ -29,8 +29,8 @@
   />
 
   <!-- enroll-process css files  -->
-  <!-- <link id="pagestyle" href="assets/css/enroll-process.css" rel="stylesheet" /> -->
-  <!-- <link id="pagestyle" href="assets/css/enroll-theme.css" rel="stylesheet" /> -->
+  <link id="pagestyle" href="assets/css/enroll-process.css" rel="stylesheet" />
+  <link id="pagestyle" href="assets/css/enroll-theme.css" rel="stylesheet" />
 
 </head>
   <body>
@@ -119,7 +119,7 @@
       <!-- blog section end  -->
       <!-- course section start  -->
       <div class="position-relative overflow-hidden course-section">
-        <img src="assets/img/shapes/pattern-lines.svg" alt="pattern-lines" class="position-absolute w-100 opacity-6">
+        <img src="assets/img/pattern-lines.svg" alt="pattern-lines" class="position-absolute w-100 opacity-6">
         <div class="container mb-5">
           <div class="row">
             <div class="col-md-8 col-lg-12 mx-auto text-center">
@@ -271,12 +271,47 @@
       </div>
       <!-- instrcutor section end  -->
       <!-- enroll process start -->
-      <section class="website-builder enroll-process">
-            <div class="container">
-                <h3 class="section-center__title">Enrollment Process</h3>
-                
-            </div>
-        </section>
+      <div class="enroll-process container">
+        <div class="">
+            <h3 class="section-center__title">Enrollment Process</h3>
+        </div>
+        <div class="timeline ">
+                <ul class="reset-marin">
+                    <span class="default-line" style="height: 1687px;"></span>
+                    <span class="draw-line" style="height: 187.422px;"></span>
+                    <li class="row first-row in-view" data-before="1">
+                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_image-1  reset-padding"><img src="./assets/img/1.png"></div>
+                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent ">
+                          <h5 class="card-title">Apply Us</h5>
+                          <a href="#" class="btn apply-now">Apply Now</a>
+                        </div>
+                    </li>
+                    <li class="row hidden reversed-condent" data-before="2">
+                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent condent-left-side">
+                          <img src='./assets/img/2-icon.png' />
+                          <h5 class="card-title">Attend the orientation session</h5>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_image-2"><img src="./assets/img/2.png"></div>
+                    </li>
+                    <li class="row hidden" data-before="3">
+                      <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-1"><img src="./assets/img/3.png"></div>
+                      <div class="col-lg-6 col-md-6  col-sm-12 timeline_condent">
+                        <img src='./assets/img/3-icon.png' />
+                        <h5 class="card-title">Clear the selection process</h5>
+                      </div>
+                    </li>
+                    <li class="row hidden reversed-condent" data-before="4">
+                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent condent-left-side ">
+                          <img src='./assets/img/4-icon.png' />
+                          <h5 class="card-title">Sign our ISA agreement</h5>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-2 timeline-card-img"><img src="./assets/img/4.png"></div>
+                    </li>
+                </div>
+              </div>
+            </ul>
+          </div>
+        </div>
 
       <!-- enroll process end  -->
       <!-- google review section start  -->
@@ -352,8 +387,8 @@
     <!-- Owl Carousel -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
     <!-- enroll process js  -->
-    <!-- <script src="./assets/js/main.js"></script>
-    <script src="assets/js/enroll-process.js"></script> -->
+     <script src="./assets/js/main.js"></script>
+    <!--<script src="assets/js/enroll-process.js"></script> -->
 
     <script type="text/javascript">
    var $owl = $('.owl-carousel');
