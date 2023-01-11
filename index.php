@@ -22,12 +22,10 @@
   <!-- CSS Files -->
   <link id="pagestyle" href="assets/css/material-kit-pro.css?v=3.0.3" rel="stylesheet" />
   <link id="pagestyle" href="assets/css/style.css" rel="stylesheet" />
-
+  <!-- owlcarousel cdn link  -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous"
-  />
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous"/>
   <!-- enroll-process css files  -->
   <link id="pagestyle" href="assets/css/enroll-process.css" rel="stylesheet" />
   <link id="pagestyle" href="assets/css/enroll-theme.css" rel="stylesheet" />
@@ -98,7 +96,7 @@
     <!-- main section start  -->
     <section>
       <!-- why-karka section start  -->
-      <div class="card card-body shadow-xl mx-3 mx-md-4 mt-n6 why-karka">
+      <div class="card card-body shadow-xl mx-3 mx-md-4 mt-n8 why-karka">
         <div class="container">
           <div class="row align-items-center">
             <div class="col-lg-4">
@@ -383,29 +381,28 @@
   <script src="assets/js/material-kit-pro.min.js?v=3.0.3" type="text/javascript"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
     
-    <!-- custom JS code after importing jquery and owl -->
-    <!-- Owl Carousel -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-    <!-- enroll process js  -->
-     <script src="./assets/js/main.js"></script>
-    <!--<script src="assets/js/enroll-process.js"></script> -->
+  <!-- custom JS code after importing jquery and owl -->
+  <!-- Owl Carousel -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+  <!-- enroll process js  -->
+  <script src="./assets/js/main.js"></script>
 
-    <script type="text/javascript">
-   var $owl = $('.owl-carousel');
-    $owl.children().each( function( index ) {
-      $(this).attr( 'data-position', index ); // NB: .attr() instead of .data()
-    });
+  <script type="text/javascript">
+    var $owl = $('.owl-carousel');
+      $owl.children().each( function( index ) {
+        $(this).attr( 'data-position', index ); // NB: .attr() instead of .data()
+      });
 
-    $owl.owlCarousel({
-      center: true,
-      loop: true,
-      items: 3,
-    });
+      $owl.owlCarousel({
+        center: true,
+        loop: true,
+        items: 3,
+      });
 
-    $(document).on('click', '.owl-item>div', function() {
-      // see https://owlcarousel2.github.io/OwlCarousel2/docs/api-events.html#to-owl-carousel
-      var $speed = 300;  // in ms
-      $owl.trigger('to.owl.carousel', [$(this).data( 'position' ), $speed] );
-    });
+      $(document).on('click', '.owl-item>div', function() {
+        // see https://owlcarousel2.github.io/OwlCarousel2/docs/api-events.html#to-owl-carousel
+        var $speed = 300;  // in ms
+        $owl.trigger('to.owl.carousel', [$(this).data( 'position' ), $speed] );
+      });
   </script>
 </html>
