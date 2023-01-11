@@ -2,7 +2,8 @@
 <nav class="navbar navbar-expand-lg z-index-3 w-100 shadow-none my-3  navbar-transparent ">
     <div class="container">
       <a class="navbar-brand d-none d-md-block text-dark" href="index.php" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
-        <img src='assets/img/karka-logo.png' alt=''>
+        <img src='assets/img/karka-logo.png' alt='' class='black-logo'>
+        <img src='assets/img/karka-white.png' class='white-logo'/>
       </a>
       <a href="#" class="btn btn-sm apply-now mb-0 ms-auto d-lg-none d-block">Apply Now</a>
       <button class="navbar-toggler shadow-none ms-2 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">

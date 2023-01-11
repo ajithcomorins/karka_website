@@ -7,9 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
   <link rel="icon" type="image/png" href="assets/img/karka-logo.png">
-  <title>
-    Karka_Acadamy
-  </title>
+  <title>Karka_Acadamy</title>
   <!--     Fonts and icons     -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
   <!-- Nucleo Icons -->
@@ -33,7 +31,7 @@
 </head>
   <body>
     <!-- header section start -->
-    <header>
+    <header class='home'>
         <?php include 'include/header.php' ?>
           <div id="carouselExampleControls" class="carousel slide carousel-mar" data-bs-ride="carousel">
             <div class="carousel-inner">
@@ -278,33 +276,36 @@
                     <span class="default-line" style="height: 1687px;"></span>
                     <span class="draw-line" style="height: 187.422px;"></span>
                     <li class="row first-row in-view" data-before="1">
-                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_image-1  reset-padding"><img src="./assets/img/1.png"></div>
+                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_image-1  reset-padding"><img src="./assets/img/timeline-pic-1.png"></div>
                         <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent ">
-                          <h5 class="card-title">Apply Us</h5>
-                          <a href="#" class="btn apply-now">Apply Now</a>
+                            <h2>Lorem ipsum dolor sit</h2>
+                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
                         </div>
                     </li>
                     <li class="row hidden reversed-condent" data-before="2">
-                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent condent-left-side">
-                          <img src='./assets/img/2-icon.png' />
-                          <h5 class="card-title">Attend the orientation session</h5>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_image-2"><img src="./assets/img/2.png"></div>
+                      <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent ">
+                          <h2>Lorem ipsum dolor sit</h2>
+                          <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
+                      </div>
+                      <div class="col-lg-6 col-md-6 col-sm-12 timeline_image-2"><img src="./assets/img/timeline-pic-2.png"></div>
                     </li>
                     <li class="row hidden" data-before="3">
-                      <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-1"><img src="./assets/img/3.png"></div>
-                      <div class="col-lg-6 col-md-6  col-sm-12 timeline_condent">
-                        <img src='./assets/img/3-icon.png' />
-                        <h5 class="card-title">Clear the selection process</h5>
+                      <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-1"><img src="./assets/img/timeline-pic-3.png"></div>
+                      <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent ">
+                          <h2>Lorem ipsum dolor sit</h2>
+                          <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
                       </div>
                     </li>
                     <li class="row hidden reversed-condent" data-before="4">
-                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent condent-left-side ">
-                          <img src='./assets/img/4-icon.png' />
-                          <h5 class="card-title">Sign our ISA agreement</h5>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-2 timeline-card-img"><img src="./assets/img/4.png"></div>
+                      <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent ">
+                          <h2>Lorem ipsum dolor sit</h2>
+                          <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
+                      </div>
+                      <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-2 timeline-card-img"><img src="./assets/img/timeline-pic-2.png"></div>
                     </li>
+                    <div class="col-md-6 col-lg-12 col-sm-12 col timeline_button text-center ">
+                      <button type="button" class="click-mail" data-toggle="modal" data-target="#exampleModal-2">Let's Build <i class="fa fa-arrow-right ml-2" aria-hidden="true"></i></button>
+                    <div>
                 </div>
               </div>
             </ul>

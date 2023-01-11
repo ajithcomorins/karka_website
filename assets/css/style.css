@@ -7,6 +7,12 @@
 }
 /* index.php css start */
 /* header navbar css start  */
+.home .white-logo{
+    display: none;
+}
+.fee-section .black-logo{
+    display: none;
+}
 .nav-page a{
     font-family: 'Roboto';
     font-style: normal;
@@ -381,6 +387,14 @@
     padding-top: 125px !important;
     padding-bottom: 75px !important;
 }
+footer p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 140%;
+    color: #000000;
+}
 footer a{
     margin-right: 40px !important;
     font-family: 'Roboto' !important;
@@ -577,3 +591,116 @@ section{
     color: #7B809A;
 }
 /* section css end  */
+/* fee-app css end */
+
+/* bootcamp css start  */
+.bootcamp-title{
+    background: #6D416D !important;
+    opacity: 0.8 !important;
+}
+.bootcamp-title h2{
+    padding-top: 168px;
+    padding-bottom: 218px;
+    text-align: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFF;
+}
+/* bootcamp content css start  */
+.bootcamp-karka{
+    background: #FFF !important;
+    border-radius: 12px !important;
+}
+.bootcamp-karka{
+    padding: 53px 61px;
+    margin-bottom: 103px !important;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #100F0F;
+}
+/* bootcamp content css end  */
+/* .bootcamp-course css start  */
+.boot-background{
+    background-position: 35% !important;
+}
+.course-content h3{
+    margin-top: 68px;
+    margin-bottom: 90px !important;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.course-content p{
+    margin-bottom: 59px !important;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.course-content button{
+    padding: 13px 22px;
+    margin-bottom: 69px;
+    background: linear-gradient(0deg, #FFF9FF, #FFF9FF);
+    box-shadow: 0px 2px 6px rgba(220, 34, 101, 0.36);
+    border-radius: 8px;
+    border: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+}
+.bootcamp-top-1{
+    margin-bottom: 196px;
+}
+.bootcamp-content h2{
+    margin-bottom: 6px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 47px;
+    color: #344767;
+}
+.bootcamp-content p {
+    margin-bottom: 21px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7B809A;
+}
+.bootcamp-content h5{
+    margin-bottom: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 38px;
+    color: #344767;
+}
+.bootcamp-step h5{
+    margin-bottom: 30px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #344767;
+}
+/* bootcamp css end  */

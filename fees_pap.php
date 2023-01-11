@@ -171,7 +171,7 @@
                 </div>
                 </div>
             </div>
-      </div>
+        </div>
     </section>
     <!-- section end  -->
     <!-- footer section start  -->
@@ -198,4 +198,5 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTTfWur0PDbZWPr7Pmq8K3jiDp0_xUziI"></script>
     <script src="assets/js/material-kit-pro.min.js?v=3.0.3" type="text/javascript"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+
 </html>

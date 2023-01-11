@@ -664,3 +664,12 @@ background-color: #6D416D !important;
 padding: 0 !important;
 margin: 30px 0px !important;
 }
+
+.timeline_button button{
+  border: none;
+    padding: 24px 59px;
+    border-radius: 8px;
+    color: white;
+    background-color: #6D416D;
+    font-size: 26px;
+}
