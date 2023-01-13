@@ -1,6 +1,6 @@
 <footer class='container footer-section'>
     <div class='float-start'>
-        <p>Copyright © 2022 Material by Creative Tim.</p>
+        <p>Copyright © 2023 Karka Acadamy</p>
     </div>
     <div class="float-end">
         <a href="" target="_blank" class="text-decoration-none">Home</a>            

@@ -24,7 +24,7 @@
 </head>
 <body>
     <!-- header section start -->
-    <header>
+    <header class='bootcamp'>
         <?php include 'include/header.php' ?>
         <div class='bootcamp-title'>
         <h2>KARKA’s BOOTCAMP</h2>

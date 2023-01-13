@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-lg z-index-3 w-100 shadow-none my-3  navbar-transparent ">
     <div class="container">
       <a class="navbar-brand d-none d-md-block text-dark" href="index.php" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom" target="_blank">
-        <img src='assets/img/karka-logo.png' alt='' class='black-logo'>
+        <img src='assets/img/karka-logos.png' alt='' class='black-logo'>
         <img src='assets/img/karka-white.png' class='white-logo'/>
       </a>
       <a href="#" class="btn btn-sm apply-now mb-0 ms-auto d-lg-none d-block">Apply Now</a>
@@ -34,15 +34,15 @@
             </a>
           </li>
           <li class="nav-item dropdown list-mar">
-            <a class="nav-link ps-2 d-flex cursor-pointer align-items-center" role="button">
+            <a href='fullstack.php' class="nav-link ps-2 d-flex cursor-pointer align-items-center" role="button">
             <i class="material-icons opacity-6 me-2">dashboard</i>
-              Contact Us
+              Blog
             </a>
           </li>
           <li class="nav-item dropdown list-mar">
             <a class="nav-link ps-2 d-flex cursor-pointer align-items-center" role="button">
             <i class="material-icons opacity-6 me-2">dashboard</i>
-              Blog
+              Contact Us
             </a>
           </li>
         </ul>

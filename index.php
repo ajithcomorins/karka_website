@@ -181,7 +181,7 @@
               </div>
             </div>
             <div class='all-course text-center pb-5'>
-              <button type="button" class="btn apply-now mt-4 owl-item" >All Courses <img src='./assets/img/arrow-left.png' /></button>
+              <button type="button" class="btn apply-now mt-4 owl-item icon-move-right" >All Courses <i class="fas fa-arrow-right text-xs ms-1"></i></button>
             </div>
           </div>
         </div>
