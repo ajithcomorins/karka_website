@@ -46,12 +46,12 @@
                           <p>100% Guaranteed developer jobs in top IT companies as high as <b class='rs-laks'>Rs 4 lakhs per year or even more</b></p>
                         </div>
                         <div class="buttons">
-                          <button type="button" class="btn apply-now mt-4">Apply now</button>
+                          <button type="button" class="btn apply-now mt-4"><a class='text-decoration-none' href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform' >Apply now</a></button>
                           <button type="button" class="btn read-more mt-4">READ MORE</button>
                         </div>
                       </div>
                       <div class="col-lg-6">
-                        <img class="w-100 border-radius-lg shadow mt-0 mt-lg-7" src="assets/img/course-img.png" alt="flower-1" loading="lazy">
+                        <img class="w-100 border-radius-lg shadow mt-0 mt-lg-7 mt-4" src="assets/img/course-img.png" alt="flower-1" loading="lazy">
                       </div>
                     </div>
                   </div>
@@ -68,7 +68,7 @@
                           <p>100% Guaranteed developer jobs in top IT companies as high as <b class='rs-laks'>Rs 4 lakhs per year or even more</b></p>
                         </div>
                         <div class="buttons">
-                          <button type="button" class="btn apply-now mt-4">Apply now</button>
+                          <button type="button" class="btn apply-now mt-4"><a class='text-decoration-none' href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform' >Apply now</a></button>
                           <button type="button" class="btn read-more mt-4">READ MORE</button>
                         </div>
                       </div>
@@ -205,13 +205,13 @@
             </div>
           </div>
           <div class="row justify-content-center">
-            <div class="col-lg-5 col-12 card-gap">
+            <div class="col-lg-5 col-12">
               <div class="card card-profile mt-4 ">
                 <div class="row">
                   <div class="col-lg-6 col-md-6 col-12 mt-n5">
                     <a href="javascript:;">
                       <div class="instructor-img">
-                        <img class="w-100 border-radius-md" src="./assets/img/ramesh.png" alt="image">
+                        <img class="w-100 border-radius-md" src="./assets/img/ramesh-in.png" alt="image">
                       </div>
                     </a>
                   </div>
@@ -230,7 +230,7 @@
                   <div class="col-lg-6 col-md-6 col-12 mt-n5">
                     <a href="javascript:;">
                       <div class="instructor-img">
-                        <img class="w-100 border-radius-md" src="./assets/img/ramesh.png" alt="image">
+                        <img class="w-100 border-radius-md" src="./assets/img/sateesh-in.png" alt="image">
                       </div>
                     </a>
                   </div>
@@ -249,7 +249,7 @@
                   <div class="col-lg-6 col-md-6 col-12 mt-n5">
                     <a href="javascript:;">
                       <div class="instructor-img">
-                        <img class="w-100 border-radius-md" src="./assets/img/ramesh.png" alt="image">
+                        <img class="w-100 border-radius-md" src="./assets/img/perumal-in.png" alt="image">
                       </div>
                     </a>
                   </div>
@@ -351,7 +351,7 @@
           </div>
         </div>
         <div class='text-center more-review'>
-          <a href='#' class='text-decoration-none'>more review <img src='./assets/img/arrow-left.png' /></a>
+          <a href='#' class='text-decoration-none icon-move-right'>more review</a><i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
         </div>
       </div>
       

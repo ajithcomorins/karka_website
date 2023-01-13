@@ -16,6 +16,9 @@
 .bootcamp .white-logo{
     display: none;
 }
+.about-us .white-logo{
+    display: none;
+}
 .nav-page a{
     font-family: 'Roboto';
     font-style: normal;
@@ -42,7 +45,15 @@
     box-shadow: 0px 2px 6px rgba(109, 65, 109, 0.25) !important;
     border-radius: 8px !important;
 }
-
+.apply-now a{
+    font-family: 'Roboto' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 20px !important;
+    line-height: 140% !important;
+    text-align: right !important;
+    color: #FFFFFF !important;
+}
 /* header navbar css end  */
 /* main section css start  */
 /* header carousel section  css start */
@@ -774,12 +785,45 @@ section{
 }
 /* header css end  */
 /* overview css start  */
+
+/* navbar fixed css start */
+.header.sticky-element{
+    position: fixed;
+    width:100%;
+    top: 60px;
+    z-index: 999;
+    animation: smoothScroll 1s forwards
+}
+.sticky-element .full-nav a{
+    padding: 20px 0px !important;
+}
+@keyframes smoothScroll {
+	0% {
+		transform: translateY(-40px);
+	}
+	100% {
+		transform: translateY(0px);
+	}
+}
+
+@keyframes reverseScroll {
+	0% {
+    transform: translateY(0px);
+	}
+	100% {
+		transform: translateY(-2px);
+	}
+}
+/* navbar fixed css end  */
 .overview-top{
     margin-top:37px;
     margin-bottom: 113px;
     background: #FFFFFF;
     box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
     border-radius: 12px;
+}
+.over-top{
+    margin-top: 150px;
 }
 .overview-title h3{
     margin-bottom: 29px;
@@ -864,6 +908,9 @@ section{
 .placement-top{
     margin-top: 163px;
 }
+.place-top{
+    margin-top: 200px !important;
+}
 .card-color{
     background: linear-gradient(180deg, #876187 0%, #6D416D 100%);
     box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.25);
@@ -898,7 +945,7 @@ section{
     color: #FFFFFF;
 }
 .placement-card h5{
-    margin-top: 25px;
+    margin-top: 15px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
@@ -948,6 +995,7 @@ section{
     margin-bottom: 136px;
 }
 .fee-titles h2{
+    padding-top: 100px;
     margin-bottom: 13px;
     font-family: 'Roboto Slab';
     font-style: normal;
@@ -1014,15 +1062,16 @@ section{
     margin-top: 136px !important;
     margin-bottom: 177px !important;
 }
-.benefit-section h2{
-    margin-bottom: 69px;
-    font-family: 'Roboto Slab';
+.benifit-section h2{
+    padding-top: 100px;
+    padding-bottom: 30px;
+    font-family: 'Roboto Slab' !important;
     font-style: normal;
     font-weight: 700;
-    font-size: 28px;
+    font-size: 28px !important;
     line-height: 37px;
     text-align: center !important;
-    color: #344767;
+    color: #344767 !important;
 }
 .benefit-section table thead tr th{
     font-family: 'Roboto' !important;
@@ -1113,6 +1162,7 @@ tbody tr td span{
     margin-top: 115px;
 }
 .mentor-section h2{
+    padding-top: 100px;
     margin-bottom: 92px;
     font-family: 'Roboto Slab';
     font-style: normal;
@@ -1142,6 +1192,14 @@ tbody tr td span{
 /* curriculam css start  */
 .curriculam-section {
     margin-top: 195px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+}
+.curriculam-title{
+    padding-top: 100px;
 }
 .bg-curriculam{
     background: linear-gradient(180deg, #876187 0%, #6D416D 100%);
@@ -1199,4 +1257,116 @@ tbody tr td span{
     text-align: right;
     color: #000000;
 }
+/* curriculam css end  */
+/* fqa css start  */
+.faq-section{
+    margin-top: 190px;
+}
+.faq-start{
+    margin-top: 110px;
+}
+.bg-faq{
+    background: linear-gradient(180deg, #876187 0%, #6D416D 100%) !important;
+    box-shadow: 0px 2px 6px rgba(40, 129, 235, 0.36) !important;
+    border-radius: 8px !important;
+}
+.bg-faq h6{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+    color: #344767;
+}
+.bg-faq p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #7B809A;
+}
+/* fqa css end  */
+/* about_us css start  */
+.about-title h2{
+    margin-top: 102px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 54px;
+    color: #FFFCFC;
+}
+.about-title p {
+    margin-top: 81px;
+    margin-bottom: 140px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 30px;
+    color: #FFFDFD;
+    
+}
+.about-card{
+    background: #FFFFFF !important;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 2px 6px rgba(151, 172, 198, 0.25) !important;
+    border-radius: 12px !important;
+}
+.bg-about{
+    background: linear-gradient(180deg, #876187 99.99%, #DA1F63 100%);
+    box-shadow: 0px 2px 6px rgba(220, 34, 101, 0.36);
+    border-radius: 8px;
+}
+.about-us h5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    color: #F9FBFF;
+}
+.about-us .sub-para{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 30px;
+    color: #FFFDFD !important;
+}
+.about-us p{
+    padding: 50px 30px 30px 30px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: #000000;
+}
+.about-founder{
+    margin-top: 217px;
+}
+.about-founder h3{
+    margin-top: 80px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: #344767;
+}
+.about-founder p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+}
+/* about_us end  */
 /* fullstack css end  */
+
+/* mobile view css  */
+.navbar-collapse.show {
+    background: #876187 !important;
+}

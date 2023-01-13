@@ -39,17 +39,16 @@
                 </div>
             </div>
         </div>
-        <div class='position-sticky z-index-sticky top-0'>
+        <div class='header' id='header'>
             <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n6 overflow-hidden">
                 <div class="container position-relative">
-                    <div class='postions'>
-                        <div class="row justify-content-center align-items-center">
-                            <nav class="navbar navbar-expand-lg navbar-light fullstack-nav">
-                                <div class="container-fluid">
-                                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                                    <span class="navbar-toggler-icon"></span>
-                                    </button>
-                                    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="row justify-content-center align-items-center">
+                        <nav class="navbar navbar-expand-lg navbar-light fullstack-nav">
+                            <div class="container-fluid">
+                                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                                </button>
+                                <div class="collapse navbar-collapse" id="navbarNavAltMarkup topheader">
                                     <div class="full-nav d-flex justify-content-between w-100">
                                         <a class="nav-link active" aria-current="page" href="#overview">Overview</a>
                                         <a class="nav-link" href="#placement">Placement</a>
@@ -58,12 +57,11 @@
                                         <a class="nav-link" href="#pricinadmission">PricinAdmission Process</a>
                                         <a class="nav-link" href="#mentor">Mentors</a>
                                         <a class="nav-link" href="#curriculam">Curriculum</a>
-                                        <a class="nav-link" href="#">FAQs</a>
-                                    </div>
+                                        <a class="nav-link" href="#faq">FAQs</a>
                                     </div>
                                 </div>
-                            </nav>
-                        </div>
+                            </div>
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -75,7 +73,7 @@
         <!-- overview section start  -->
         <div class="container" id='overview'>
             <div class="row text-center overview-title">
-                <div class="col-lg-8 mx-auto">
+                <div class="col-lg-8 mx-auto over-top">
                     <h3>Zero to Mastery as FullStack Web<br/>Developer in 5 Months</h3>
                     <p class="font-weight-normal">This bootcamp is designed for anyone with an interest in coding, whether you have zero previous knowledge or experience, or  somewhere in between. In just 20 weeks, our learning lab based bootcamp will take you from the foundations to advanced practical skills.</p>
                 </div>
@@ -185,60 +183,62 @@
         <!-- overview section end  -->
         <!-- placement section start  -->
         <div class="placement-top" id='placement'>
-            <div class="py-7 card-color">
-                <div class='container'>
-                    <div class='placement-title'>
-                        <h4>The Ultimate Bootcamp to Do More, Earn More,<br/>and Achieve Dream Job.</h4>
-                    </div>
-                    <div class="row align-items-center m-0">
-                        <div class="col-lg-6 placement-subcontent">
-                            <div class="row justify-content-start">
-                            <div class="col-md-6">
-                                <div class="info">
-                                    <img src= './assets/img/earth.png' />
-                                    <h5 class="text-white">100% Guaranteed Job</h5>
-                                    <p class="text-white opacity-8">We get insulted by others, lose trust for those We get back freezes</p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="info">
-                                    <img src= './assets/img/currency-usd.png' />
-                                    <h5 class="text-white">99% Placement Rate</h5>
-                                    <p class="text-white opacity-8">We get insulted by others, lose trust for those We get back freezes</p>
-                                </div>
-                            </div>
-                            </div>
-                            <div class="row justify-content-start mt-4">
-                            <div class="col-md-6">
-                                <div class="info">
-                                    <img src= './assets/img/dots-circle.png' />
-                                    <h5 class="text-white">6 LPA Average Salary</h5>
-                                    <p class="text-white opacity-8">We get insulted by others, lose trust for</p>
-                                </div>
-                            </div>
-                            <div class="col-md-6 placement-card">
-                                <div class="info">
-                                    <img src= './assets/img/chart-timeline.png' /></i>
-                                    <h5 class="text-white">15 L Highest CTC</h5>
-                                    <p class="text-white opacity-8">those We get back freezes</p>
-                                </div>
-                            </div>
-                            </div>
+            <div class='place-top'>
+                <div class="py-7 card-color">
+                    <div class='container'>
+                        <div class='placement-title'>
+                            <h4>The Ultimate Bootcamp to Do More, Earn More,<br/>and Achieve Dream Job.</h4>
                         </div>
-                        <div class="col-lg-4 ms-auto">
-                            <div class="card mb-lg-5">
-                            <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
-                                <a class="d-block blur-shadow-image">
-                                <img src="./assets/img/mask.png" alt="img-colored-shadow" class="img-fluid border-radius-lg w-100">
-                                </a>
+                        <div class="row align-items-center m-0">
+                            <div class="col-lg-6 placement-subcontent">
+                                <div class="row justify-content-start">
+                                <div class="col-md-6">
+                                    <div class="info">
+                                        <img src= './assets/img/earth.png' />
+                                        <h5 class="text-white">100% Guaranteed Job</h5>
+                                        <p class="text-white opacity-8">We get insulted by others, lose trust for those We get back freezes</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="info">
+                                        <img src= './assets/img/currency-usd.png' />
+                                        <h5 class="text-white">99% Placement Rate</h5>
+                                        <p class="text-white opacity-8">We get insulted by others, lose trust for those We get back freezes</p>
+                                    </div>
+                                </div>
+                                </div>
+                                <div class="row justify-content-start mt-4">
+                                <div class="col-md-6">
+                                    <div class="info">
+                                        <img src= './assets/img/dots-circle.png' />
+                                        <h5 class="text-white">6 LPA Average Salary</h5>
+                                        <p class="text-white opacity-8">We get insulted by others, lose trust for</p>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 placement-card">
+                                    <div class="info">
+                                        <img src= './assets/img/chart-timeline.png' /></i>
+                                        <h5 class="text-white">15 L Highest CTC</h5>
+                                        <p class="text-white opacity-8">those We get back freezes</p>
+                                    </div>
+                                </div>
+                                </div>
                             </div>
-                            <div class="card-body">
-                                <h4>CTC as high as 4 Lakhs</h4>
-                                <p>Begin your career from scrach and get on the fast track to become an in-demand  Full Stack Web Developer. Karka ensures 100% placements to students with CTC as high as 4 lakhs and more.</p>
-                                <a href="javascript:;" class="text-primary icon-move-right">More about us
-                                <i class="fas fa-arrow-right  ms-1"></i>
-                                </a>
-                            </div>
+                            <div class="col-lg-4 ms-auto">
+                                <div class="card mb-lg-5">
+                                <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+                                    <a class="d-block blur-shadow-image">
+                                    <img src="./assets/img/mask.png" alt="img-colored-shadow" class="img-fluid border-radius-lg w-100">
+                                    </a>
+                                </div>
+                                <div class="card-body">
+                                    <h4>CTC as high as 4 Lakhs</h4>
+                                    <p>Begin your career from scrach and get on the fast track to become an in-demand  Full Stack Web Developer. Karka ensures 100% placements to students with CTC as high as 4 lakhs and more.</p>
+                                    <a href="javascript:;" class="text-primary icon-move-right">More about us
+                                    <i class="fas fa-arrow-right  ms-1"></i>
+                                    </a>
+                                </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -725,12 +725,12 @@
         <!-- Curriculum section start  -->
         <div class="curriculam-section" id='curriculam'>
             <div class="container">
-                <h3 class="text-center">Here’s how your next 5 month looks like</h3>
+                <h3 class="text-center curriculam-title">Here’s how your next 5 month looks like</h3>
                 <div class='curriculam-top'>
                     <div class="row mb-5">
                         <div class="col-lg-4 col-md-6">
                             <div class="card card-background align-items-start h-100">
-                                <div class="card-body text-center z-index-3 curriculam-card">
+                                <div class="card-body text-center z-index-3 curriculam-card mx-auto">
                                     <i class="material-icons text-white text-3xl mb-3 d-flex">import_contacts</i>
                                     <h5 class="text-white mb-1">Module 1</h5>
                                     <h4 class='text-white'>Foundations of Web<br/>Applications</h4>
@@ -740,7 +740,7 @@
                                 <span class="mask bg-curriculam border-radius-xl z-index-2 opacity-7"></span>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 d-flex flex-column">
+                        <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-2">
                             <div class="card h-100 card-background align-items-start">
                             <div class="card-body z-index-3">
                                 <i class="material-icons text-white text-3xl">import_contacts</i>
@@ -764,7 +764,7 @@
                             <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 d-flex flex-column">
+                        <div class="col-lg-4 col-md-6 d-flex flex-column mb-2">
                             <div class="card card-background align-items-start">
                             <div class="card-body z-index-3">
                                 <i class="material-icons text-white text-3xl">festival</i>
@@ -793,6 +793,104 @@
             </div>
         </div>
         <!-- Curriculum section end  -->
+        <!-- FQA section start  -->
+        <div class="faq-section" id='faq'>
+            <div class="container">
+            <div class="row">
+                <div class="col-md-10 mx-auto faq-start">
+                <div class="card">
+                    <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2 bg-transparent">
+                        <div class="bg-faq shadow-danger border-radius-lg p-4">
+                            <h4 class="text-white mb-0">FAQ</h4>
+                            <p class="text-white opacity-8 mb-0">Last modified: Aug 30 2021</p>
+                        </div>
+                    </div>
+                    <div class="accordion p-3" id="accordionPricing">
+                    <div class="accordion-item mb-3">
+                        <h6 class="accordion-header" id="headingOne">
+                        <button class="accordion-button border-bottom font-weight-bold text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                            How do I order?
+                            <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                            <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                        </button>
+                        </h6>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionPricing" style="">
+                        <div class="accordion-body text-sm opacity-8">
+                            We’re not always in the position that we want to be at. We’re constantly growing. We’re constantly making mistakes. We’re constantly trying to express ourselves and actualize our dreams. If you have the opportunity to play this game of life you need to appreciate every moment. A lot of people don’t appreciate the moment until it’s passed.
+                            <br><br>
+                            There’s nothing I really wanted to do in life that I wasn’t able to get good at. That’s my skill. I’m not really specifically talented at anything except for the ability to learn. That’s what I do. That’s what I’m here for. Don’t be afraid to be wrong because you can’t learn anything from a compliment.
+                        </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item mb-3">
+                        <h6 class="accordion-header" id="headingTwo">
+                        <button class="accordion-button border-bottom font-weight-bold text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            How can i make the payment?
+                            <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                            <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                        </button>
+                        </h6>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionPricing" style="">
+                        <div class="accordion-body text-sm opacity-8">
+                            It really matters and then like it really doesn’t matter. What matters is the people who are sparked by it. And the people who are like offended by it, it doesn’t matter. Because it's about motivating the doers. Because I’m here to follow my dreams and inspire other people to follow their dreams, too.
+                            <br>
+                            We’re not always in the position that we want to be at. We’re constantly growing. We’re constantly making mistakes. We’re constantly trying to express ourselves and actualize our dreams. If you have the opportunity to play this game of life you need to appreciate every moment. A lot of people don’t appreciate the moment until it’s passed.
+                        </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item mb-3">
+                        <h6 class="accordion-header" id="headingThree">
+                        <button class="accordion-button border-bottom font-weight-bold text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                            How much time does it take to receive the order?
+                            <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                            <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                        </button>
+                        </h6>
+                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionPricing">
+                        <div class="accordion-body text-sm opacity-8">
+                            The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out. But the time is now to be okay to be the greatest you. Would you believe in what you believe in, if you were the only one who believed it?
+                            If everything I did failed - which it doesn't, it actually succeeds - just the fact that I'm willing to fail is an inspiration. People are so scared to lose that they don't even try. Like, one thing people can't say is that I'm not trying, and I'm not trying my hardest, and I'm not trying to do the best way I know how.
+                        </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item mb-3">
+                        <h6 class="accordion-header" id="headingFour">
+                        <button class="accordion-button border-bottom font-weight-bold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                            Can I resell the products?
+                            <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                            <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                        </button>
+                        </h6>
+                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionPricing">
+                        <div class="accordion-body text-sm opacity-8">
+                            I always felt like I could do anything. That’s the main thing people are controlled by! Thoughts- their perception of themselves! They're slowed down by their perception of themselves. If you're taught you can’t do anything, you won’t do anything. I was taught I could do everything.
+                            <br><br>
+                            If everything I did failed - which it doesn't, it actually succeeds - just the fact that I'm willing to fail is an inspiration. People are so scared to lose that they don't even try. Like, one thing people can't say is that I'm not trying, and I'm not trying my hardest, and I'm not trying to do the best way I know how.
+                        </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item mb-3">
+                        <h6 class="accordion-header" id="headingFifth">
+                        <button class="accordion-button border-bottom font-weight-bold text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFifth" aria-expanded="false" aria-controls="collapseFifth">
+                            Where do I find the shipping details?
+                            <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                            <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                        </button>
+                        </h6>
+                        <div id="collapseFifth" class="accordion-collapse collapse" aria-labelledby="headingFifth" data-bs-parent="#accordionPricing">
+                        <div class="accordion-body text-sm opacity-8">
+                            There’s nothing I really wanted to do in life that I wasn’t able to get good at. That’s my skill. I’m not really specifically talented at anything except for the ability to learn. That’s what I do. That’s what I’m here for. Don’t be afraid to be wrong because you can’t learn anything from a compliment.
+                            I always felt like I could do anything. That’s the main thing people are controlled by! Thoughts- their perception of themselves! They're slowed down by their perception of themselves. If you're taught you can’t do anything, you won’t do anything. I was taught I could do everything.
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+            </div>
+        </div>
+        <!-- FQA section end  -->
     </section>
     <!-- section end  -->
     <!-- footer section start  -->
@@ -819,5 +917,20 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTTfWur0PDbZWPr7Pmq8K3jiDp0_xUziI"></script>
     <script src="assets/js/material-kit-pro.min.js?v=3.0.3" type="text/javascript"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+    
+    <script type="text/javascript">
+        $(window).scroll(function(){
+            if ($(window).scrollTop() >= 600) {
+                $('.header').addClass('sticky-element');
+            }
+            else {
+                $('.header').removeClass('sticky-element');
+            }
+		});
 
+        $( '#topheader .full-nav a' ).on( 'click', function () {
+            $( '#topheader .full-nav' ).find( 'a.active' ).removeClass( 'active' );
+            $( this ).parent( 'a' ).addClass( 'active' );
+        });
+    </script>
 </html>
