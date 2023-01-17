@@ -47,7 +47,7 @@
                             <p class="lead text-white mb-5">
                                 PAP is a payment arrangement implemented through an Income Sharing Agreement(ISA) which is a legal contract between you and Karka Academy. This makes a result based skill development. If you do not get placed within 6 months of completion of the program, you do not need to pay us the fee.
                             </p>
-                            <button type="button" class="what-apply">Apply Now</button>
+                            <button type="button" class="what-apply" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform'">Apply Now</button>
                         </div>
                     </div>
                     <div class="col-lg-5 position-absolute start-50 end-0 me-n12 w-75">

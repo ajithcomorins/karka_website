@@ -73,7 +73,7 @@
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a Fullstack Web Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
-                            <a herf='#'><button>Know more</button></a>
+                            <a href='./fullstack.php'><button>Know more</button></a>
                         </div>
                     </div>
                     </div>
@@ -90,12 +90,12 @@
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a Fullstack Web Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
-                            <a herf='#'><button>Know more</button></a>
+                            <a href='./fullstack.php'><button>Know more</button></a>
                         </div>
                     </div>
                     </div>
                 </div>
-                <div class="col-md-7 ms-md-5 pr-5 bootcamp-content">
+                <div class="col-md-6 ms-md-5 pr-5 bootcamp-content">
                     <div class='col-lg-11 agree-step'>
                         <h2>MOBILE APP DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
@@ -152,7 +152,7 @@
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a Fullstack Web Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
-                            <a herf='#'><button>Know more</button></a>
+                            <a href='./fullstack.php'><button>Know more</button></a>
                         </div>
                     </div>
                     </div>
@@ -168,12 +168,12 @@
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a Fullstack Web Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
-                            <a herf='#'><button>Know more</button></a>
+                            <a href='./fullstack.php'><button>Know more</button></a>
                         </div>
                     </div>
                     </div>
                 </div>
-                <div class="col-md-7 ms-md-5 pr-5 bootcamp-content">
+                <div class="col-md-6 ms-md-5 pr-5 bootcamp-content">
                     <div class='col-lg-11 agree-step'>
                         <h2>UI/UX DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>

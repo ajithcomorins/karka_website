@@ -73,7 +73,7 @@
                         </div>
                       </div>
                       <div class="col-lg-6">
-                        <img class="w-100 border-radius-lg shadow" src="assets/img/pap-img.png" alt="flower-1" loading="lazy">
+                        <img class="w-100 border-radius-lg shadow mt-4" src="assets/img/pap-img.png" alt="flower-1" loading="lazy">
                       </div>
                     </div>
                   </div>
@@ -118,7 +118,7 @@
         <img src="assets/img/pattern-lines.svg" alt="pattern-lines" class="position-absolute w-100 opacity-6">
         <div class="container mb-5">
           <div class="row">
-            <div class="col-md-8 col-lg-12 mx-auto text-center">
+            <div class="col-md-12 col-lg-12 mx-auto text-center">
               <h3 class="text-white">Courses</h3>
               <p class="text-white">This bootcamp oriented course is designed for anyone with an interest in learning. Delivered from our learning lab, the bootcamp will take you from the foundations to practical industry skills.</p>
             </div>
@@ -137,7 +137,7 @@
                   <h5>No Upfront Fee</h5>
                   <h4 class="post-title">Full Stack Web Development</h4>
                   <p class="post-description">Full-stack web developer creates complete end to end web applications. They work on the front-end, backend, database and debug the applications.</p>
-                  <a href="#" class="read-more">More Details</a>
+                  <a href="./fullstack.php" class="read-more">More Details</a>
                 </div>
               </div>
               <div>
@@ -149,7 +149,7 @@
                   <h5>No Upfront Fee</h5>
                   <h4 class="post-title">Mobile App Development</h4>
                   <p class="post-description">Mobile apps have transformed the way we live. Building a great well groomed mobile apps can lead the market.</p>
-                  <a href="#" class="read-more">More Details</a>
+                  <a href="./bootcamp.php" class="read-more">More Details</a>
                 </div>
               </div>
               </div>
@@ -162,7 +162,7 @@
                   <h5>No Upfront Fee</h5>
                   <h4 class="post-title">Frontend Web Development</h4>
                   <p class="post-description">Combining design, technology, and programming to code a website's appearance.</p>
-                  <a href="#" class="read-more">More Details</a>
+                  <a href="./bootcamp.php" class="read-more">More Details</a>
                 </div>
               </div>
               </div>
@@ -175,13 +175,13 @@
                   <h5>No Upfront Fee</h5>
                   <h4 class="post-title">UI/UX Development</h4>
                   <p class="post-description">Mobile apps have transformed the way we live. Building a great well groomed mobile apps can lead the market.</p>
-                  <a href="#" class="read-more">More Details</a>
+                  <a href="./bootcamp.php" class="read-more">More Details</a>
                 </div>
               </div>
               </div>
             </div>
-            <div class='all-course text-center pb-5'>
-              <button type="button" class="btn apply-now mt-4 owl-item icon-move-right" >All Courses <i class="fas fa-arrow-right text-xs ms-1"></i></button>
+            <div class='all-course text-center'>
+              <button type="button" class="btn apply-now mt-4 owl-item icon-move-right" onclick="window.location.href='./bootcamp.php'">All Courses <i class="fas fa-arrow-right text-xs ms-1"></i></button>
             </div>
           </div>
         </div>
@@ -199,7 +199,7 @@
       <div class="pb-5 position-relative instructor">
         <div class="container">
           <div class="row mb-5">
-            <div class="col-md-12 col-lg-12 text-start mb-5 mt-5 instructor-title">
+            <div class="col-md-12 col-lg-12 text-start mb-5 mt-4 instructor-title">
               <h3 class="text-white z-index-1 position-relative">Know Your Instructors</h3>
               <p class="text-white opacity-8 mb-0">Your instructors who are industry practitioners help you reach your full potential and achieve your goals. They provide guidance & support for your career, and they provide mentorship and insight whenever you need it. Know them now !</p>
             </div>
@@ -208,15 +208,15 @@
             <div class="col-lg-5 col-12">
               <div class="card card-profile mt-4 ">
                 <div class="row">
-                  <div class="col-lg-6 col-md-6 col-12 mt-n5">
+                  <div class="col-lg-6 col-md-3 col-12 mt-n5">
                     <a href="javascript:;">
-                      <div class="instructor-img">
+                      <div class="instructor-img text-center">
                         <img class="w-100 border-radius-md" src="./assets/img/ramesh-in.png" alt="image">
                       </div>
                     </a>
                   </div>
-                  <div class="col-lg-6 col-md-6 col-12">
-                    <div class="card-body p-0">
+                  <div class="col-lg-6 col-md-9 col-12">
+                    <div class="card-body p-4 text-center">
                       <h5 class="instructor-img">Ramesh Varghese</h5>
                       <h6 class="text-info">11+ Years<br/>Ex-SMHack</h6>
                     </div>
@@ -225,17 +225,17 @@
               </div>
             </div>
             <div class="col-lg-5 col-12">
-              <div class="card card-profile mt-lg-4 mt-5">
+              <div class="card card-profile mt-lg-4 mt-6">
                 <div class="row">
-                  <div class="col-lg-6 col-md-6 col-12 mt-n5">
+                  <div class="col-lg-6 col-md-3 col-12 mt-n5">
                     <a href="javascript:;">
-                      <div class="instructor-img">
+                      <div class="instructor-img text-center">
                         <img class="w-100 border-radius-md" src="./assets/img/sateesh-in.png" alt="image">
                       </div>
                     </a>
                   </div>
-                  <div class="col-lg-6 col-md-6 col-12">
-                    <div class="card-body p-0">
+                  <div class="col-lg-6 col-md-9 col-12">
+                    <div class="card-body p-4 text-center">
                       <h5 class="instructor-img">Sateesh Kumar</h5>
                       <h6 class="text-info">15+ Years<br/>Ex-Yatra.com</h6>
                     </div>
@@ -244,17 +244,17 @@
               </div>
             </div>
             <div class="col-lg-5 col-12 mt-5">
-              <div class="card card-profile mt-lg-4 mt-5">
+              <div class="card card-profile mt-lg-4 mt-4">
                 <div class="row">
-                  <div class="col-lg-6 col-md-6 col-12 mt-n5">
+                  <div class="col-lg-6 col-md-3 col-12 mt-n5">
                     <a href="javascript:;">
-                      <div class="instructor-img">
+                      <div class="instructor-img text-center">
                         <img class="w-100 border-radius-md" src="./assets/img/perumal-in.png" alt="image">
                       </div>
                     </a>
                   </div>
-                  <div class="col-lg-6 col-md-6 col-12">
-                    <div class="card-body p-0">
+                  <div class="col-lg-6 col-md-9 col-12">
+                    <div class="card-body p-4 text-center">
                       <h5 class="instructor-img">Sivanancha Perumal</h5>
                       <h6 class="text-info">8+ Years</h6>
                     </div>
@@ -269,7 +269,7 @@
       <!-- enroll process start -->
       <div class="enroll-process container">
         <div class="">
-            <h3 class="section-center__title">Enrollment Process</h3>
+            <h3 class="section-center__title text-center">Enrollment Process</h3>
         </div>
         <div class="timeline ">
                 <ul class="reset-marin">
@@ -303,7 +303,7 @@
                       </div>
                       <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-2 timeline-card-img"><img src="./assets/img/timeline-pic-2.png"></div>
                     </li>
-                    <div class="col-md-6 col-lg-12 col-sm-12 col timeline_button text-center ">
+                    <div class="col-md-12 col-lg-12 col-sm-12 col timeline_button text-center ">
                       <button type="button" class="click-mail" data-toggle="modal" data-target="#exampleModal-2">Let's Build <i class="fa fa-arrow-right ml-2" aria-hidden="true"></i></button>
                     <div>
                 </div>
@@ -351,7 +351,7 @@
           </div>
         </div>
         <div class='text-center more-review'>
-          <a href='#' class='text-decoration-none icon-move-right'>more review</a><i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
+          <a href='https://www.google.com/search?gs_ssp=eJwFwTEOgCAMAMC4mrg6szjTpoKEJ_iLYsEBjQmQiL_3bpz0qREvV1uvRWDwC3QKsCY0IhGYyW4eupgYiBDQBgdGYJ8zl8yqPqm9XKLigyXe3w-PNhgz&q=karka+software+academy&oq=karka&aqs=chrome.1.69i57j46i39i175i199j46i433i512j0i512j46i512j69i60l3.2843j0j7&sourceid=chrome&ie=UTF-8' class='text-decoration-none icon-move-right'>more review</a><i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
         </div>
       </div>
       

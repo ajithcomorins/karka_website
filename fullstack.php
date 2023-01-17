@@ -35,13 +35,13 @@
                     <p><b>A 5 month, full-time(6 hrs per day), learning lab (classroom) based</b> bootcamp that land you as a full stack Developer.</p>
                     <p>Earn as high as    4 lakhs per year or even more</p>
                     <h6>Next batch starts mid Jan 2023</h6>
-                    <button>Apply Now</button>
+                    <button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform'">Apply Now</button>
                 </div>
             </div>
         </div>
         <div class='header' id='header'>
             <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n6 overflow-hidden">
-                <div class="container position-relative">
+                <div class="container position-relative p-0">
                     <div class="row justify-content-center align-items-center">
                         <nav class="navbar navbar-expand-lg navbar-light fullstack-nav">
                             <div class="container-fluid">
@@ -605,68 +605,68 @@
                         <div class="col-lg-4 p-md-0 mx-auto z-index-2">
                             <div class="card">
                                 <div class="card-body mx-auto">
-                                    <div class="justify-content-start d-flex px-2 py-1 mb-4">
-                                        <div>
+                                    <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                        <div class='col-lg-4'>
                                             <img src='./assets/img/admission-li.png' />
                                         </div>
-                                        <div class="ps-2">
+                                        <div class="ps-2 col-lg-8">
                                             <h4 class="text-sm p-3">Apply through Karka</h4>
-                                            <button class='admission-apply-now ms-3'>Apply Now</button>
+                                            <button class='admission-apply-now ms-3' onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform'">Apply Now</button>
                                         </div>
                                     </div>
-                                    <div class="justify-content-start d-flex px-2 py-1">
-                                        <div>
-                                            <img src='./assets/img/admission-li.png' />
+                                    <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                        <div class='col-lg-4'>
+                                            <img src='./assets/img/2-icon.png' />
                                         </div>
-                                        <div class="ps-2">
+                                        <div class="ps-2 col-lg-8">
                                             <h4 class="text-sm p-3">Attend the Orientation Session</h4>
                                         </div>
                                     </div>
-                                    <div class="justify-content-start d-flex px-2 py-1">
-                                        <div>
-                                            <img src='./assets/img/admission-li.png' />
+                                    <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                        <div class='col-lg-4'>
+                                            <img src='./assets/img/3-icon.png' />
                                         </div>
-                                        <div class="ps-2">
+                                        <div class="ps-2 col-lg-8">
                                             <h4 class="text-sm p-3">Clear the selection process</h4>
                                         </div>
                                     </div>
-                                    <div class="justify-content-start d-flex px-2 py-1">
-                                        <div>
-                                            <img src='./assets/img/admission-li.png' />
+                                    <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                        <div class='col-lg-4'>
+                                            <img src='./assets/img/4-icon.png' />
                                         </div>
-                                        <div class="ps-2">
+                                        <div class="ps-2 col-lg-8">
                                             <h4 class="text-sm p-3">Sign our ISA Agreement</h4>
                                         </div>
                                     </div>
-                                    <div class="justify-content-start d-flex px-2 py-1">
-                                        <div>
-                                            <img src='./assets/img/admission-li.png' />
+                                    <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                        <div class='col-lg-4'>
+                                            <img src='./assets/img/5-icon.png' />
                                         </div>
-                                        <div class="ps-2">
+                                        <div class="ps-2 col-lg-8">
                                             <h4 class="text-sm p-3">Start your bootcamp paying nothing</h4>
                                         </div>
                                     </div>
-                                    <div class="justify-content-start d-flex px-2 py-1">
-                                        <div>
-                                            <img src='./assets/img/admission-li.png' />
+                                    <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                        <div class='col-lg-4'>
+                                            <img src='./assets/img/6-icon.png' />
                                         </div>
-                                        <div class="ps-2">
+                                        <div class="ps-2 col-lg-8">
                                             <h4 class="text-sm p-3">Get skilled through our bootcamp</h4>
                                         </div>
                                     </div>
-                                    <div class="justify-content-start d-flex px-2 py-1">
-                                        <div>
-                                            <img src='./assets/img/admission-li.png' />
+                                    <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                        <div class='col-lg-4'>
+                                            <img src='./assets/img/7-icon.png' />
                                         </div>
-                                        <div class="ps-2">
+                                        <div class="ps-2 col-lg-8">
                                             <h4 class="text-sm p-3">Get placed for your skills</h4>
                                         </div>
                                     </div>
-                                    <div class="justify-content-start d-flex px-2 py-1">
-                                        <div>
-                                            <img src='./assets/img/admission-li.png' />
+                                    <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                        <div class='col-lg-4'>
+                                            <img src='./assets/img/8-icon.png' />
                                         </div>
-                                        <div class="ps-2">
+                                        <div class="ps-2 col-lg-8">
                                             <h4 class="text-sm p-3">Pay us for bootcamp that hot you job</h4>
                                         </div>
                                     </div>
@@ -686,10 +686,10 @@
                     <div  class='row m-0'>
                         <div class='col-lg-4'>
                             <div class='row'>
-                                <div class='col-lg-3 p-0'>
-                                    <img src='./assets/img/sateesh.png' />
+                                <div class='col-lg-4 p-0'>
+                                    <img src='./assets/img/sateesh.png' class='w-100'/>
                                 </div>
-                                <div class='col-lg-9 p-4'>
+                                <div class='col-lg-8 p-2'>
                                     <h4>Sateesh Kumar</h4>
                                     <p>15+ Years<br/>Ex-Yatra.com</p>
                                 </div>
@@ -697,10 +697,10 @@
                         </div>
                         <div class='col-lg-4'>
                             <div class='row'>
-                                <div class='col-lg-3 p-0'>
-                                    <img src='./assets/img/ramesh-1.png' />
+                                <div class='col-lg-4 p-0'>
+                                    <img src='./assets/img/ramesh-1.png' class='w-100'/>
                                 </div>
-                                <div class='col-lg-9 p-4'>
+                                <div class='col-lg-8 p-2'>
                                     <h4>Ramesh Varghese</h4>
                                     <p>11+ Years<br/>Ex-SMHack</p>
                                 </div>
@@ -708,10 +708,10 @@
                         </div>
                         <div class='col-lg-4'>
                             <div class='row'>
-                                <div class='col-lg-3 p-0'>
-                                    <img src='./assets/img/perumal.png' />
+                                <div class='col-lg-4 p-0'>
+                                    <img src='./assets/img/perumal.png' class='w-100'/>
                                 </div>
-                                <div class='col-lg-9 p-4'>
+                                <div class='col-lg-8 p-2'>
                                     <h4>Sivanancha Perumal</h4>
                                     <p>8+ Years<br/>Ex-SMHack</p>
                                 </div>
@@ -740,7 +740,7 @@
                                 <span class="mask bg-curriculam border-radius-xl z-index-2 opacity-7"></span>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-2">
+                        <div class="col-lg-4 col-md-6 d-flex flex-column mb-2">
                             <div class="card h-100 card-background align-items-start">
                             <div class="card-body z-index-3">
                                 <i class="material-icons text-white text-3xl">import_contacts</i>
@@ -758,7 +758,7 @@
                             </div>
                             <div class="card-footer pb-3 pt-2 z-index-3">
                                 <h5 class='text-white'>Module 3</h5>
-                                <h4 class="text-white mb-1">Frontend Framework</h4>
+                                <h4 class="text-white">Frontend Framework</h4>
                                 <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">React, JSX, Components, States, Props, Redux , Routing, axios & APIs </p>
                             </div>
                             <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
@@ -771,7 +771,7 @@
                             </div>
                             <div class="card-footer pb-3 pt-2 z-index-3">
                                 <h5 class='text-white'>Module 4</h5>
-                                <h4 class="text-white mb-1">Foundations of Backend</h4>
+                                <h4 class="text-white">Foundations of Backend</h4>
                                 <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">Programming, Data Structures,<br/>Algorithms</p>
                             </div>
                             <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
