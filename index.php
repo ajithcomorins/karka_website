@@ -181,7 +181,7 @@
               </div>
             </div>
             <div class='all-course text-center'>
-              <button type="button" class="btn apply-now mt-4 owl-item icon-move-right" onclick="window.location.href='./bootcamp.php'">All Courses <i class="fas fa-arrow-right text-xs ms-1"></i></button>
+              <button type="button" class="btn all-courses mt-4 owl-item icon-move-right" onclick="window.location.href='./bootcamp.php'">All Courses <i class="fas fa-arrow-right text-xs ms-1"></i></button>
             </div>
           </div>
         </div>
@@ -208,14 +208,14 @@
             <div class="col-lg-5 col-12">
               <div class="card card-profile mt-4 ">
                 <div class="row">
-                  <div class="col-lg-6 col-md-3 col-12 mt-n5">
-                    <a href="javascript:;">
+                  <div class="col-lg-6 col-md-4 col-12 mt-n5">
+                    <a href="https://www.linkedin.com/in/ramesh-varghese/">
                       <div class="instructor-img text-center">
                         <img class="w-100 border-radius-md" src="./assets/img/ramesh-in.png" alt="image">
                       </div>
                     </a>
                   </div>
-                  <div class="col-lg-6 col-md-9 col-12">
+                  <div class="col-lg-6 col-md-8 col-12">
                     <div class="card-body p-4 text-center">
                       <h5 class="instructor-img">Ramesh Varghese</h5>
                       <h6 class="text-info">11+ Years<br/>Ex-SMHack</h6>
@@ -227,14 +227,14 @@
             <div class="col-lg-5 col-12">
               <div class="card card-profile mt-lg-4 mt-6">
                 <div class="row">
-                  <div class="col-lg-6 col-md-3 col-12 mt-n5">
-                    <a href="javascript:;">
+                  <div class="col-lg-6 col-md-4 col-12 mt-n5">
+                    <a href="https://www.linkedin.com/in/ssateeshk/">
                       <div class="instructor-img text-center">
                         <img class="w-100 border-radius-md" src="./assets/img/sateesh-in.png" alt="image">
                       </div>
                     </a>
                   </div>
-                  <div class="col-lg-6 col-md-9 col-12">
+                  <div class="col-lg-6 col-md-8 col-12">
                     <div class="card-body p-4 text-center">
                       <h5 class="instructor-img">Sateesh Kumar</h5>
                       <h6 class="text-info">15+ Years<br/>Ex-Yatra.com</h6>
@@ -246,14 +246,14 @@
             <div class="col-lg-5 col-12 mt-5">
               <div class="card card-profile mt-lg-4 mt-4">
                 <div class="row">
-                  <div class="col-lg-6 col-md-3 col-12 mt-n5">
-                    <a href="javascript:;">
+                  <div class="col-lg-6 col-md-4 col-12 mt-n5">
+                    <a href="https://www.linkedin.com/in/sivanananchaperumal-moorthy-9b334a249/">
                       <div class="instructor-img text-center">
                         <img class="w-100 border-radius-md" src="./assets/img/perumal-in.png" alt="image">
                       </div>
                     </a>
                   </div>
-                  <div class="col-lg-6 col-md-9 col-12">
+                  <div class="col-lg-6 col-md-8 col-12">
                     <div class="card-body p-4 text-center">
                       <h5 class="instructor-img">Sivanancha Perumal</h5>
                       <h6 class="text-info">8+ Years</h6>
@@ -398,6 +398,26 @@
         center: true,
         loop: true,
         items: 3,
+        responsiveClass: true,
+        responsive: {
+            0:{
+              items: 1,
+              dots: true
+            },
+            400:{
+              items:1,
+              dots: true
+            },
+            768:{
+              items:2,
+              dots:true
+            },
+            1200:{
+              items: 3,
+              dots: false
+            }
+        }
+        
       });
 
       $(document).on('click', '.owl-item>div', function() {

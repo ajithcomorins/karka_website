@@ -40,15 +40,15 @@
             </div>
         </div>
         <div class='header' id='header'>
-            <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n6 overflow-hidden">
+            <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n4 overflow-hidden">
                 <div class="container position-relative p-0">
                     <div class="row justify-content-center align-items-center">
                         <nav class="navbar navbar-expand-lg navbar-light fullstack-nav">
                             <div class="container-fluid">
-                                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                                <button class="navbar-toggler d-sm-block d-md-none d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="navbar-toggler-icon"></span>
                                 </button>
-                                <div class="collapse navbar-collapse" id="navbarNavAltMarkup topheader">
+                                <div class="collapse navbar-collapse d-sm-none d-md-block d-lg-block" id="navbarNavAltMarkup topheader">
                                     <div class="full-nav d-flex justify-content-between w-100">
                                         <a class="nav-link active" aria-current="page" href="#overview">Overview</a>
                                         <a class="nav-link" href="#placement">Placement</a>

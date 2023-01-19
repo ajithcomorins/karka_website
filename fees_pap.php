@@ -9,9 +9,12 @@
   <link rel="icon" type="image/png" href="assets/img/karka-logo.png">
   <title>
     Karka_Acadamy
-  </title>
-  <!--     Fonts and icons     -->
+  </title>  
+  <!-- fontfamily cdn link -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap" rel="stylesheet">
   <!-- Nucleo Icons -->
   <link href="assets/css/nucleo-icons.css" rel="stylesheet" />
   <link href="assets/css/nucleo-svg.css" rel="stylesheet" />
@@ -28,8 +31,8 @@
     <header class='fee-section'>
         <div class="pap-header" style="background-image: url('assets/img/fee-bg.png');" loading="lazy">
             <?php include 'include/header.php' ?>
-            <div class="row justify-content-center back-img">
-                <div class="col-lg-8 col-sm-9 text-center mx-auto pap-content">
+            <div class="row justify-content-center back-img mt-5">
+                <div class="col-lg-8 col-md-10 text-center mx-auto-5 mt pap-content">
                     <h2 class="">KARKA’S</h2>
                     <h4>Pay After Placement Program</h4>
                     <p>We offload you from the burden of paying hefty fees to enrich your skills by top industry mentors.</p>
@@ -41,7 +44,7 @@
             <img src="assets/img/pattern-lines.svg" alt="pattern-lines" class="position-absolute opacity-6 start-0 top-0 w-100" loading="lazy">
             <div class="container position-relative">
                 <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-7 col-md-7 text-start py-sm-5 me-auto position-relative ">
+                    <div class="col-lg-7 col-md-12 text-start py-sm-5 me-auto position-relative ">
                         <div class="position-relative what-section">
                             <h2 class="text-white mt-sm-0">What is Pay After Placement?</h2>
                             <p class="lead text-white mb-5">
@@ -51,7 +54,7 @@
                         </div>
                     </div>
                     <div class="col-lg-5 position-absolute start-50 end-0 me-n12 w-75">
-                        <img class="w-100 d-md-block d-none" src="assets/img/macbook-2.png" alt="macbook" loading="lazy">
+                        <img class="w-100 d-sm-none d-md-none d-lg-block" src="assets/img/macbook-2.png" alt="macbook" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -69,7 +72,7 @@
         </div>
         <div class='process-top'>
             <div class="row m-0">
-            <div class="col-md-6 col-lg-5 ms-md-5">
+            <div class="col-md-12 col-lg-5 ms-md-0">
                 <div class="cursor-pointer">
                 <div class="card card-background">
                     <div class="full-background" style="background-image: url('./assets/img/agree-1.png')" loading="lazy"></div>
@@ -79,39 +82,39 @@
                 </div>
                 </div>
             </div>
-            <div class="col-md-5 me-auto my-auto ms-md-5">
+            <div class="col-md-12 col-lg-6 me-auto my-auto ms-md-0 pap-concept">
                 <div class='row agree-bottom'>
-                    <div class='col-lg-1'>
+                    <div class='col-lg-1 col-md-1'>
                         <img src='./assets/img/phone-message.png' />
                     </div>
-                    <div class='col-lg-11 agree-step'>
+                    <div class='col-lg-11 col-md-11 agree-step'>
                         <h5>Expert driven bootcamp</h5>
                         <p>After a selection process, we onboard you to our expert driven bootcamp and make you job ready </p>
                     </div>
                 </div>
                 <div class='row agree-bottom'>
-                    <div class='col-lg-1'>
+                    <div class='col-lg-1 col-md-1'>
                         <img src='./assets/img/phone-file.png' />
                     </div>
-                    <div class='col-lg-11 agree-step'>
+                    <div class='col-lg-11 col-md-11 agree-step'>
                         <h5>Job guarantee</h5>
                         <p>After the successful completion, we assure you a job for a higher salary based on your capability</p>
                     </div>
                 </div>
                 <div class='row agree-bottom'>
-                    <div class='col-lg-1'>
+                    <div class='col-lg-1 col-md-1'>
                         <img src='./assets/img/Vector.png' />
                     </div>
-                    <div class='col-lg-11 agree-step'>
+                    <div class='col-lg-11 col-md-11 agree-step'>
                         <h5>High salary package</h5>
                         <p>If you perform extra ordinarily, you will get a chance of getting a salary package (CTC) as high as Rs. 4,00,000 per year or even more.</p>
                     </div>
                 </div>
                 <div class='row agree-bottom'>
-                    <div class='col-lg-1'>
+                    <div class='col-lg-1 col-md-1'>
                         <img src='./assets/img/Vector.png' />
                     </div>
-                    <div class='col-lg-11 agree-step'>
+                    <div class='col-lg-11 col-md-11 agree-step'>
                         <h5>No job - No fee</h5>
                         <p>If we don’t get you a job within 6 months, you do not need to pay us anything for the bootcamp with Kara Academy</p>
                     </div>
@@ -121,47 +124,47 @@
         </div>
         <div class='process-bottom'>
             <div class="row m-0">
-                <div class="col-md-7 ms-md-5 pr-5">
+                <div class="col-md-12 col-lg-5 ms-md-0">
                     <div class='row agree-bottom'>
-                        <div class='col-lg-1'>
+                        <div class='col-lg-1 col-md-1'>
                             <img src='./assets/img/phone-message.png' />
                         </div>
-                        <div class='col-lg-11 agree-step'>
+                        <div class='col-lg-11 col-md-11 agree-step'>
                             <h5>Dedicate yourself</h5>
                             <p>You commit yourself dedicatedly during the course of this bootcamp and align yourself with the instructors and TAs.</p>
                         </div>
                     </div>
                     <div class='row agree-bottom'>
-                        <div class='col-lg-1'>
+                        <div class='col-lg-1 col-md-1'>
                             <img src='./assets/img/phone-file.png' />
                         </div>
-                        <div class='col-lg-11 agree-step'>
+                        <div class='col-lg-11 col-md-11 agree-step'>
                             <h5>Pay after placement</h5>
                             <p>Your fee payment starts only when you get a job and you start earning</p>
                         </div>
                     </div>
                     <div class='row agree-bottom'>
-                        <div class='col-lg-1'>
+                        <div class='col-lg-1 col-md-1'>
                             <img src='./assets/img/Vector.png' />
                         </div>
-                        <div class='col-lg-11 agree-step'>
+                        <div class='col-lg-11 col-md-11 agree-step'>
                             <h5>One-third of your first year CTC as fee</h5>
                             <p>You pay us one-third (33% )of your first year CTC after your placement and you start earning and hence settle your fee for the bootcamp that got you the job make you earn</p>
                         </div>
                     </div>
                     <div class='row agree-bottom'>
-                        <div class='col-lg-1'>
+                        <div class='col-lg-1 col-md-1'>
                             <img src='./assets/img/Vector.png' />
-                        </div>
-                        <div class='col-lg-11 agree-step'>
+                        </div> 
+                        <div class='col-lg-11 col-md-11 agree-step'>
                             <h5>Monthly fee payment (EMI)</h5>
                             <p>You pay an affordable fee payment for 12 months* ( figures only for illustration actuals may be different ) to settle your bootcamp fee that got you the job and you start earning</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-12 col-lg-6">
                     <div class="cursor-pointer">
-                    <div class="card card-background">
+                    <div class="card card-background card-padding">
                         <div class="full-background" style="background-image: url('./assets/img/agree-2.png')" loading="lazy"></div>
                         <div class="card-body text-center agree-content">
                         <h3 class="text-white mb-0">WHAT YOU AGREE</h3>

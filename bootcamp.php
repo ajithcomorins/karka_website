@@ -32,7 +32,7 @@
     </header>
     <!-- heaader section end -->
     <!-- section start  -->
-    <section>
+    <section class='container'>
         <!-- bootcamp content start -->
         <div class="card card-body shadow-xl mx-3 mx-md-4 mt-n8 bootcamp-karka">
             <div class="container">
@@ -43,30 +43,30 @@
         <!-- bootcamp course start  -->
         <div class='bootcamp-top-1'>
             <div class="row m-0">
-                <div class="col-md-7 ms-md-5 pr-5 bootcamp-content">
+                <div class="col-lg-6 col-md-12  ms-md-0  bootcamp-content">
                     <div class='col-lg-11 agree-step'>
                         <h2>FULL STACK WEB DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>5 Month | Full time | No upfront fee</h5>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1'>
+                        <div class='col-lg-1 col-md-1'>
                             <img src='./assets/img/business-time.png' />
                         </div>
-                        <div class='col-lg-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 bootcamp-step'>
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1'>
+                        <div class='col-lg-1 col-md-1'>
                             <img src='./assets/img/walk.png' />
                         </div>
-                        <div class='col-lg-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 bootcamp-step'>
                             <h5>Guranteed job as high as 4 LPA or above</h5>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-lg-6 col-md-12">
                     <div class="cursor-pointer">
                     <div class="card card-background">
                         <div class="full-background boot-background" style="background-image: url('./assets/img/fullstack-bootcamp.png')" loading="lazy"></div>
@@ -83,7 +83,7 @@
         </div>
         <div class='bootcamp-top-1'>
             <div class="row m-0">
-                <div class="col-md-4 ms-md-5 pr-5">
+                <div class="col-lg-6 col-md-12 ms-md-0">
                     <div class="cursor-pointer">
                     <div class="card card-background">
                         <div class="full-background boot-background" style="background-image: url('./assets/img/fullstack-bootcamp.png')" loading="lazy"></div>
@@ -95,25 +95,25 @@
                     </div>
                     </div>
                 </div>
-                <div class="col-md-6 ms-md-5 pr-5 bootcamp-content">
+                <div class="col-lg-6 col-md-12 ms-md-0  bootcamp-content bootcamp-details">
                     <div class='col-lg-11 agree-step'>
                         <h2>MOBILE APP DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>4 Month | Full time | No upfront fee</h5>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1'>
+                        <div class='col-lg-1 col-md-1'>
                             <img src='./assets/img/business-time.png' />
                         </div>
-                        <div class='col-lg-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 bootcamp-step'>
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1'>
+                        <div class='col-lg-1 col-md-1'>
                             <img src='./assets/img/walk.png' />
                         </div>
-                        <div class='col-lg-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 bootcamp-step'>
                             <h5>Guranteed job as high as 4 LPA or above</h5>
                         </div>
                     </div>
@@ -122,30 +122,30 @@
         </div>
         <div class='bootcamp-top-1'>
             <div class="row m-0">
-                <div class="col-md-7 ms-md-5 pr-5 bootcamp-content">
+                <div class="col-lg-6 col-md-12 ms-md-0  bootcamp-content">
                     <div class='col-lg-11 agree-step'>
                         <h2>FRONTEND WEB DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>3 Month | Full time | No upfront fee</h5>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1'>
+                        <div class='col-lg-1 col-md-1'>
                             <img src='./assets/img/business-time.png' />
                         </div>
-                        <div class='col-lg-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 bootcamp-step'>
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1'>
+                        <div class='col-lg-1 col-md-1'>
                             <img src='./assets/img/walk.png' />
                         </div>
-                        <div class='col-lg-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 bootcamp-step'>
                             <h5>Guranteed job as high as 4 LPA or above</h5>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-lg-6 col-md-12">
                     <div class="cursor-pointer">
                     <div class="card card-background">
                         <div class="full-background boot-background" style="background-image: url('./assets/img/fullstack-bootcamp.png')" loading="lazy"></div>
@@ -161,7 +161,7 @@
         </div>
         <div class='bootcamp-top-'>
             <div class="row m-0">
-                <div class="col-md-4 ms-md-5 pr-5">
+                <div class="col-lg-6 col-md-12 ms-md-0 ">
                     <div class="cursor-pointer">
                     <div class="card card-background">
                         <div class="full-background boot-background" style="background-image: url('./assets/img/fullstack-bootcamp.png')" loading="lazy"></div>
@@ -173,25 +173,25 @@
                     </div>
                     </div>
                 </div>
-                <div class="col-md-6 ms-md-5 pr-5 bootcamp-content">
+                <div class="col-lg-6 col-md-12 ms-md-0  bootcamp-content bootcamp-details">
                     <div class='col-lg-11 agree-step'>
                         <h2>UI/UX DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>4 Month | Full time | No upfront fee</h5>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1'>
+                        <div class='col-lg-1 col-md-1'>
                             <img src='./assets/img/business-time.png' />
                         </div>
-                        <div class='col-lg-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 bootcamp-step'>
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1'>
+                        <div class='col-lg-1 col-md-1'>
                             <img src='./assets/img/walk.png' />
                         </div>
-                        <div class='col-lg-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 bootcamp-step'>
                             <h5>Guranteed job as high as 4 LPA or above</h5>
                         </div>
                     </div>
