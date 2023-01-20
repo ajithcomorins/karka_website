@@ -52,7 +52,7 @@
                         </div>
                     </div>
                 </div>
-                <div class='col-lg-6 d-flex align-items-stretch'>
+                <div class='col-lg-6 d-flex align-items-stretch mt-sm-9 mt-lg-0'>
                     <div class="card card-contact card-raised shadow-xl mx-3 mx-md-4 mt-n7 about-card">
                         <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2 bg-transparent">
                         <div class="bg-about shadow-primary border-radius-lg py-3 pe-1 mt-4">
@@ -70,31 +70,31 @@
             <div class="container">
                 <h3 class="text-center">FOUNDERS</h3>
                 <div class="row mt-7 justify-content-center">
-                    <div class="col-6 col-lg-4 d-flex align-items-stretch">
+                    <div class="col-6 col-lg-6 col-sm-12 d-lg-flex align-items-stretch">
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
-                            <a class="d-block blur-shadow-image">
-                                <img src="./assets/img/about-founder.png" alt="img-blur-shadow" class="img-fluid border-radius-lg" loading="lazy">
-                            </a>
-                            <div class="colored-shadow" style="background-image: url(&quot;../assets/img/examples/card-product1.jpg&quot;);"></div></div>
-                            <div class="card-body text-center">
-                                <img src='./assets/img/link.png' class='float-start'/>
-                                <span><h3>Sateesh kumar</h3></span>
-                                <p class='p-4'>15+ Years, Founder <br/>Ex-Yatra.com</p>
+                                <a class="d-block blur-shadow-image">
+                                    <img src="./assets/img/sateesh.png" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100" loading="lazy">
+                                </a>
+                                <div class="card-body text-center founder-img">
+                                    <img src='./assets/img/link.png' class='float-start'/>
+                                    <span><h3>Sateesh kumar</h3></span>
+                                    <p class='p-4'>15+ Years, Founder <br/>Ex-Yatra.com</p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-6 col-lg-4 d-flex align-items-stretch">
+                    <div class="col-6 col-lg-6 col-sm-12 d-lg-flex align-items-stretch">
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
-                            <a class="d-block blur-shadow-image">
-                                <img src="./assets/img/about-founder.png" alt="img-blur-shadow" class="img-fluid border-radius-lg" loading="lazy">
-                            </a>
-                            <div class="colored-shadow" style="background-image: url(&quot;../assets/img/examples/card-product1.jpg&quot;);"></div></div>
-                            <div class="card-body text-center">
-                                <img src='./assets/img/link.png' class='float-start'/>
-                                <span><h3>Ramesh Varghese</h3></span>
-                                <p class='p-4'>11+ Years, Founder <br/>Ex-SMHaack</p>
+                                <a class="d-block blur-shadow-image">
+                                    <img src="./assets/img/ramesh-1.png" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100" loading="lazy">
+                                </a>
+                                <div class="card-body text-center founder-img">
+                                    <img src='./assets/img/link.png' class='float-start'/>
+                                    <span><h3>Ramesh Varghese</h3></span>
+                                    <p class='p-4'>11+ Years, Founder <br/>Ex-SMHaack</p>
+                                </div>
                             </div>
                         </div>
                     </div>

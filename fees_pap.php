@@ -84,37 +84,37 @@
             </div>
             <div class="col-md-12 col-lg-6 me-auto my-auto ms-md-0 pap-concept">
                 <div class='row agree-bottom'>
-                    <div class='col-lg-1 col-md-1'>
+                    <div class='col-lg-1 col-md-1 col-sm-1'>
                         <img src='./assets/img/phone-message.png' />
                     </div>
-                    <div class='col-lg-11 col-md-11 agree-step'>
+                    <div class='col-lg-11 col-md-11 col-sm-11 agree-step'>
                         <h5>Expert driven bootcamp</h5>
                         <p>After a selection process, we onboard you to our expert driven bootcamp and make you job ready </p>
                     </div>
                 </div>
                 <div class='row agree-bottom'>
-                    <div class='col-lg-1 col-md-1'>
+                    <div class='col-lg-1 col-md-1 col-sm-1'>
                         <img src='./assets/img/phone-file.png' />
                     </div>
-                    <div class='col-lg-11 col-md-11 agree-step'>
+                    <div class='col-lg-11 col-md-11 col-sm-11 agree-step'>
                         <h5>Job guarantee</h5>
                         <p>After the successful completion, we assure you a job for a higher salary based on your capability</p>
                     </div>
                 </div>
                 <div class='row agree-bottom'>
-                    <div class='col-lg-1 col-md-1'>
+                    <div class='col-lg-1 col-md-1 col-sm-1'>
                         <img src='./assets/img/Vector.png' />
                     </div>
-                    <div class='col-lg-11 col-md-11 agree-step'>
+                    <div class='col-lg-11 col-md-11 col-sm-11 agree-step'>
                         <h5>High salary package</h5>
                         <p>If you perform extra ordinarily, you will get a chance of getting a salary package (CTC) as high as Rs. 4,00,000 per year or even more.</p>
                     </div>
                 </div>
                 <div class='row agree-bottom'>
-                    <div class='col-lg-1 col-md-1'>
+                    <div class='col-lg-1 col-md-1 col-sm-1'>
                         <img src='./assets/img/Vector.png' />
                     </div>
-                    <div class='col-lg-11 col-md-11 agree-step'>
+                    <div class='col-lg-11 col-md-11 col-sm-11 agree-step'>
                         <h5>No job - No fee</h5>
                         <p>If we don’t get you a job within 6 months, you do not need to pay us anything for the bootcamp with Kara Academy</p>
                     </div>
@@ -126,37 +126,37 @@
             <div class="row m-0">
                 <div class="col-md-12 col-lg-5 ms-md-0">
                     <div class='row agree-bottom'>
-                        <div class='col-lg-1 col-md-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1'>
                             <img src='./assets/img/phone-message.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 agree-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 agree-step'>
                             <h5>Dedicate yourself</h5>
                             <p>You commit yourself dedicatedly during the course of this bootcamp and align yourself with the instructors and TAs.</p>
                         </div>
                     </div>
                     <div class='row agree-bottom'>
-                        <div class='col-lg-1 col-md-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1'>
                             <img src='./assets/img/phone-file.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 agree-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 agree-step'>
                             <h5>Pay after placement</h5>
                             <p>Your fee payment starts only when you get a job and you start earning</p>
                         </div>
                     </div>
                     <div class='row agree-bottom'>
-                        <div class='col-lg-1 col-md-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1'>
                             <img src='./assets/img/Vector.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 agree-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 agree-step'>
                             <h5>One-third of your first year CTC as fee</h5>
                             <p>You pay us one-third (33% )of your first year CTC after your placement and you start earning and hence settle your fee for the bootcamp that got you the job make you earn</p>
                         </div>
                     </div>
                     <div class='row agree-bottom'>
-                        <div class='col-lg-1 col-md-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1'>
                             <img src='./assets/img/Vector.png' />
                         </div> 
-                        <div class='col-lg-11 col-md-11 agree-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 agree-step'>
                             <h5>Monthly fee payment (EMI)</h5>
                             <p>You pay an affordable fee payment for 12 months* ( figures only for illustration actuals may be different ) to settle your bootcamp fee that got you the job and you start earning</p>
                         </div>

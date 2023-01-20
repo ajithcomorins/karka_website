@@ -40,7 +40,7 @@
             </div>
         </div>
         <div class='header' id='header'>
-            <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n4 overflow-hidden">
+            <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n4 overflow-hidden d-sm-none d-md-block d-lg-block">
                 <div class="container position-relative p-0">
                     <div class="row justify-content-center align-items-center">
                         <nav class="navbar navbar-expand-lg navbar-light fullstack-nav">
@@ -224,7 +224,7 @@
                                 </div>
                                 </div>
                             </div>
-                            <div class="col-lg-4 ms-auto">
+                            <div class="col-lg-4 ms-auto mt-5">
                                 <div class="card mb-lg-5">
                                 <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
                                     <a class="d-block blur-shadow-image">
@@ -604,7 +604,7 @@
                     <div class="row m-0">
                         <div class="col-lg-4 p-md-0 mx-auto z-index-2">
                             <div class="card">
-                                <div class="card-body mx-auto">
+                                <div class="card-body mx-auto text-sm-center">
                                     <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
                                         <div class='col-lg-4'>
                                             <img src='./assets/img/admission-li.png' />
@@ -689,7 +689,7 @@
                                 <div class='col-lg-4 p-0'>
                                     <img src='./assets/img/sateesh.png' class='w-100'/>
                                 </div>
-                                <div class='col-lg-8 p-2'>
+                                <div class='col-lg-8 p-4 text-sm-center'>
                                     <h4>Sateesh Kumar</h4>
                                     <p>15+ Years<br/>Ex-Yatra.com</p>
                                 </div>
@@ -700,7 +700,7 @@
                                 <div class='col-lg-4 p-0'>
                                     <img src='./assets/img/ramesh-1.png' class='w-100'/>
                                 </div>
-                                <div class='col-lg-8 p-2'>
+                                <div class='col-lg-8 p-4 text-sm-center'>
                                     <h4>Ramesh Varghese</h4>
                                     <p>11+ Years<br/>Ex-SMHack</p>
                                 </div>
@@ -711,7 +711,7 @@
                                 <div class='col-lg-4 p-0'>
                                     <img src='./assets/img/perumal.png' class='w-100'/>
                                 </div>
-                                <div class='col-lg-8 p-2'>
+                                <div class='col-lg-8 p-4 text-sm-center'>
                                     <h4>Sivanancha Perumal</h4>
                                     <p>8+ Years<br/>Ex-SMHack</p>
                                 </div>
@@ -740,7 +740,7 @@
                                 <span class="mask bg-curriculam border-radius-xl z-index-2 opacity-7"></span>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 d-flex flex-column mb-2">
+                        <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4">
                             <div class="card h-100 card-background align-items-start">
                             <div class="card-body z-index-3">
                                 <i class="material-icons text-white text-3xl">import_contacts</i>
@@ -752,7 +752,7 @@
                             </div>
                             <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
                             </div>
-                            <div class="card h-100 card-background mt-4 align-items-start">
+                            <div class="card h-100 card-background mt-4 align-items-start mt-sm-4">
                             <div class="card-body z-index-3">
                                 <i class="material-icons text-white text-3xl">volunteer_activism</i>
                             </div>
@@ -764,7 +764,7 @@
                             <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 d-flex flex-column mb-2">
+                        <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4">
                             <div class="card card-background align-items-start">
                             <div class="card-body z-index-3">
                                 <i class="material-icons text-white text-3xl">festival</i>

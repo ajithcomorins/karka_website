@@ -1,8 +1,8 @@
 <footer class='container footer-section row'>
-    <div class='col-lg-6 col-md-12 text-md-center tex-lg-start'>
+    <div class='col-lg-6 col-md-12 text-sm-center text-md-center tex-lg-start'>
         <p>Copyright © 2023 Karka Acadamy</p>
     </div>
-    <div class="col-lg-6 col-md-12 text-md-center text-lg-end">
+    <div class="col-lg-6 col-md-12 text-sm-center text-md-center text-lg-end">
         <a href="index.php" target="_self" class="text-decoration-none">Home</a>            
         <a href="about_us.php" target="_self" class="text-decoration-none">About</a>            
         <a href="fullstack.php" target="_self" class="text-decoration-none">Blog</a>            

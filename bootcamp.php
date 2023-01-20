@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
-    <link rel="icon" type="image/png" href="assets/img/karka-logo.png">
+    <link rel="icon" type="image/png" href="assets/img/karka-logos.png">
     <title>Karka_Acadamy</title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
@@ -50,18 +50,18 @@
                         <h5>5 Month | Full time | No upfront fee</h5>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1'>
                             <img src='./assets/img/business-time.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1'>
                             <img src='./assets/img/walk.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
                             <h5>Guranteed job as high as 4 LPA or above</h5>
                         </div>
                     </div>
@@ -88,7 +88,7 @@
                     <div class="card card-background">
                         <div class="full-background boot-background" style="background-image: url('./assets/img/fullstack-bootcamp.png')" loading="lazy"></div>
                         <div class="card-body text-center course-content">
-                            <h3 class="text-white mb-0">Become a Fullstack Web Developer</h3>
+                            <h3 class="text-white mb-0">Become a Mobile App Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
                             <a href='./fullstack.php'><button>Know more</button></a>
                         </div>
@@ -102,18 +102,18 @@
                         <h5>4 Month | Full time | No upfront fee</h5>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1'>
                             <img src='./assets/img/business-time.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1'>
                             <img src='./assets/img/walk.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
                             <h5>Guranteed job as high as 4 LPA or above</h5>
                         </div>
                     </div>
@@ -129,18 +129,18 @@
                         <h5>3 Month | Full time | No upfront fee</h5>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1'>
                             <img src='./assets/img/business-time.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1'>
                             <img src='./assets/img/walk.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
                             <h5>Guranteed job as high as 4 LPA or above</h5>
                         </div>
                     </div>
@@ -150,7 +150,7 @@
                     <div class="card card-background">
                         <div class="full-background boot-background" style="background-image: url('./assets/img/fullstack-bootcamp.png')" loading="lazy"></div>
                         <div class="card-body text-center course-content">
-                            <h3 class="text-white mb-0">Become a Fullstack Web Developer</h3>
+                            <h3 class="text-white mb-0">Become a Frontend Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
                             <a href='./fullstack.php'><button>Know more</button></a>
                         </div>
@@ -166,7 +166,7 @@
                     <div class="card card-background">
                         <div class="full-background boot-background" style="background-image: url('./assets/img/fullstack-bootcamp.png')" loading="lazy"></div>
                         <div class="card-body text-center course-content">
-                            <h3 class="text-white mb-0">Become a Fullstack Web Developer</h3>
+                            <h3 class="text-white mb-0">Become a UI/UX Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
                             <a href='./fullstack.php'><button>Know more</button></a>
                         </div>
@@ -180,18 +180,18 @@
                         <h5>4 Month | Full time | No upfront fee</h5>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1'>
                             <img src='./assets/img/business-time.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1'>
                             <img src='./assets/img/walk.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
                             <h5>Guranteed job as high as 4 LPA or above</h5>
                         </div>
                     </div>
