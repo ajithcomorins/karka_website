@@ -42,7 +42,7 @@
     <section class='about-us'>
         <div class='about-solve'>
             <div class='row m-0'>
-                <div class='col-lg-6 d-flex align-items-stretch'>
+                <div class='col-lg-6 col-md-6 col-sm-12 d-flex align-items-stretch'>
                     <div class="card card-contact card-raised shadow-xl mx-3 mx-md-4 mt-n5 about-card">
                         <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2 bg-transparent">
                         <div class="bg-about shadow-primary border-radius-lg py-3 pe-1 mt-4">
@@ -55,7 +55,7 @@
                         </div>
                     </div>
                 </div>
-                <div class='col-lg-6 d-flex align-items-stretch mt-sm-9 mt-lg-0 about-solution'>
+                <div class='col-lg-6 col-md-6 col-sm-12 d-flex align-items-stretch mt-sm-9 mt-md-0 mt-lg-0 about-solution'>
                     <div class="card card-contact card-raised shadow-xl mx-3 mx-md-4 mt-n5 about-card">
                         <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2 bg-transparent">
                         <div class="bg-about shadow-primary border-radius-lg py-3 pe-1 mt-4">
