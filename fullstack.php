@@ -12,6 +12,9 @@
   </title>
   <!--     Fonts and icons     -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap" rel="stylesheet">
   <!-- Nucleo Icons -->
   <link href="assets/css/nucleo-icons.css" rel="stylesheet" />
   <link href="assets/css/nucleo-svg.css" rel="stylesheet" />
@@ -28,7 +31,7 @@
     <header class='fee-section'>
         <div class="pap-header" style="background-image: url('assets/img/fullstack-img.png');" loading="lazy">
             <?php include 'include/header.php' ?>
-            <div class="row justify-content-center full-content">
+            <div class="row justify-content-center full-content container">
                 <div class="col-lg-8 col-sm-9 mx-auto">
                     <h6>No Upfront Fee</h6>
                     <h2>Full Stack Web<br/>Development Bootcamp</h2>
@@ -40,7 +43,7 @@
             </div>
         </div>
         <div class='header' id='header'>
-            <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n4 overflow-hidden d-sm-none d-md-block d-lg-block">
+            <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n4 overflow-hidden d-none d-sm-none d-md-block d-lg-block">
                 <div class="container position-relative p-0">
                     <div class="row justify-content-center align-items-center">
                         <nav class="navbar navbar-expand-lg navbar-light fullstack-nav">
@@ -604,7 +607,7 @@
                     <div class="row m-0">
                         <div class="col-lg-4 p-md-0 mx-auto z-index-2">
                             <div class="card">
-                                <div class="card-body mx-auto text-sm-center">
+                                <div class="card-body mx-auto text-sm-center text-md-center text-lg-start text-center">
                                     <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
                                         <div class='col-lg-4'>
                                             <img src='./assets/img/admission-li.png' />
@@ -740,7 +743,7 @@
                                 <span class="mask bg-curriculam border-radius-xl z-index-2 opacity-7"></span>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4">
+                        <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4 mt-3">
                             <div class="card h-100 card-background align-items-start">
                             <div class="card-body z-index-3">
                                 <i class="material-icons text-white text-3xl">import_contacts</i>

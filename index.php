@@ -191,7 +191,7 @@
       <div class='master-box container'>
         <h2>Mastery Box</h2>
         <div class='text-center'>
-          <img src='assets/img/mastery-box.png' alt='' class='w-100'/>
+          <img src='assets/img/mastery-box.png' alt='' class=''/>
         </div>
       </div>
       <!-- master box end  -->
@@ -216,7 +216,7 @@
                     </a>
                   </div>
                   <div class="col-lg-6 col-md-8 col-12">
-                    <div class="card-body p-4 text-center">
+                    <div class="card-body p-0 text-center">
                       <h5 class="instructor-img">Ramesh Varghese</h5>
                       <h6 class="text-info">11+ Years<br/>Ex-SMHack</h6>
                     </div>
@@ -235,7 +235,7 @@
                     </a>
                   </div>
                   <div class="col-lg-6 col-md-8 col-12">
-                    <div class="card-body p-4 text-center">
+                    <div class="card-body p-0 text-center">
                       <h5 class="instructor-img">Sateesh Kumar</h5>
                       <h6 class="text-info">15+ Years<br/>Ex-Yatra.com</h6>
                     </div>
@@ -254,7 +254,7 @@
                     </a>
                   </div>
                   <div class="col-lg-6 col-md-8 col-12">
-                    <div class="card-body p-4 text-center">
+                    <div class="card-body p-0 text-center">
                       <h5 class="instructor-img">Sivanancha Perumal</h5>
                       <h6 class="text-info">8+ Years</h6>
                     </div>
@@ -409,8 +409,8 @@
               dots: true
             },
             768:{
-              items:2,
-              dots:true
+              items:3,
+              dots:false
             },
             1200:{
               items: 3,

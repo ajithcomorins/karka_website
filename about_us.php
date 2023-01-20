@@ -10,6 +10,9 @@
     <title>Karka_Acadamy</title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap" rel="stylesheet">
     <!-- Nucleo Icons -->
     <link href="assets/css/nucleo-icons.css" rel="stylesheet" />
     <link href="assets/css/nucleo-svg.css" rel="stylesheet" />
@@ -40,7 +43,7 @@
         <div class='about-solve'>
             <div class='row m-0'>
                 <div class='col-lg-6 d-flex align-items-stretch'>
-                    <div class="card card-contact card-raised shadow-xl mx-3 mx-md-4 mt-n7 about-card">
+                    <div class="card card-contact card-raised shadow-xl mx-3 mx-md-4 mt-n5 about-card">
                         <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2 bg-transparent">
                         <div class="bg-about shadow-primary border-radius-lg py-3 pe-1 mt-4">
                             <h5 class="text-center text-white">PROBLEM</h5>
@@ -52,8 +55,8 @@
                         </div>
                     </div>
                 </div>
-                <div class='col-lg-6 d-flex align-items-stretch mt-sm-9 mt-lg-0'>
-                    <div class="card card-contact card-raised shadow-xl mx-3 mx-md-4 mt-n7 about-card">
+                <div class='col-lg-6 d-flex align-items-stretch mt-sm-9 mt-lg-0 about-solution'>
+                    <div class="card card-contact card-raised shadow-xl mx-3 mx-md-4 mt-n5 about-card">
                         <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2 bg-transparent">
                         <div class="bg-about shadow-primary border-radius-lg py-3 pe-1 mt-4">
                             <h5 class="text-center text-white">SOLUTION</h5>
@@ -70,7 +73,7 @@
             <div class="container">
                 <h3 class="text-center">FOUNDERS</h3>
                 <div class="row mt-7 justify-content-center">
-                    <div class="col-6 col-lg-6 col-sm-12 d-lg-flex align-items-stretch">
+                    <div class="col-12 col-lg-4 col-sm-12 d-flex-none align-items-stretch">
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
                                 <a class="d-block blur-shadow-image">
@@ -84,7 +87,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-6 col-lg-6 col-sm-12 d-lg-flex align-items-stretch">
+                    <div class="col-12 col-lg-4 col-sm-12 d-flex-none align-items-stretch">
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
                                 <a class="d-block blur-shadow-image">

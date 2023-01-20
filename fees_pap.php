@@ -12,9 +12,9 @@
   </title>  
   <!-- fontfamily cdn link -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap" rel="stylesheet">
   <!-- Nucleo Icons -->
   <link href="assets/css/nucleo-icons.css" rel="stylesheet" />
   <link href="assets/css/nucleo-svg.css" rel="stylesheet" />
@@ -32,7 +32,7 @@
         <div class="pap-header" style="background-image: url('assets/img/fee-bg.png');" loading="lazy">
             <?php include 'include/header.php' ?>
             <div class="row justify-content-center back-img mt-5">
-                <div class="col-lg-8 col-md-10 text-center mx-auto-5 mt pap-content">
+                <div class="col-lg-8 col-md-10 text-center mx-auto-5 mt pap-content container">
                     <h2 class="">KARKA’S</h2>
                     <h4>Pay After Placement Program</h4>
                     <p>We offload you from the burden of paying hefty fees to enrich your skills by top industry mentors.</p>
@@ -54,7 +54,7 @@
                         </div>
                     </div>
                     <div class="col-lg-5 position-absolute start-50 end-0 me-n12 w-75">
-                        <img class="w-100 d-sm-none d-md-none d-lg-block" src="assets/img/macbook-2.png" alt="macbook" loading="lazy">
+                        <img class="w-100 d-none d-sm-none d-md-none d-lg-block" src="assets/img/macbook-2.png" alt="macbook" loading="lazy">
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@
     <section>
       <div class="container">
         <div class="row">
-          <div class="col-lg-8 col-10 ms-auto me-auto text-center fee-step">
+          <div class="col-lg-8 col-10 ms-auto me-auto text-center fee-step mt-7">
             <h3 class="">Is this for you ?</h3>
             <p>Karka's Pay after Placement(PAP) is a middle class friendly model for job-seeking fresh graduates those have “not so good” socio-economic background.</p>
           </div>

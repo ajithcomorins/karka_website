@@ -10,6 +10,9 @@
     <title>Karka_Acadamy</title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap" rel="stylesheet">
     <!-- Nucleo Icons -->
     <link href="assets/css/nucleo-icons.css" rel="stylesheet" />
     <link href="assets/css/nucleo-svg.css" rel="stylesheet" />
@@ -35,7 +38,7 @@
     <section class='container'>
         <!-- bootcamp content start -->
         <div class="card card-body shadow-xl mx-3 mx-md-4 mt-n8 bootcamp-karka">
-            <div class="container">
+            <div class="px-4">
                 <p><b>Karka Academy offers an intensive bootcamp that will help you get ahead in your career. Our bootcamp is designed to give you the skills and knowledge you need to succeed . We offer a variety of courses that will cover everything. Whether you're just starting out in your career or you're looking to take things to the next level, our bootcamp will give you the edge you need.</b></p>
             </div>
         </div>
@@ -50,18 +53,18 @@
                         <h5>5 Month | Full time | No upfront fee</h5>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1 col-sm-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/business-time.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1 col-sm-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/walk.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
                             <h5>Guranteed job as high as 4 LPA or above</h5>
                         </div>
                     </div>
@@ -102,18 +105,18 @@
                         <h5>4 Month | Full time | No upfront fee</h5>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1 col-sm-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/business-time.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1 col-sm-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/walk.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
                             <h5>Guranteed job as high as 4 LPA or above</h5>
                         </div>
                     </div>
@@ -129,18 +132,18 @@
                         <h5>3 Month | Full time | No upfront fee</h5>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1 col-sm-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/business-time.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1 col-sm-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/walk.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
                             <h5>Guranteed job as high as 4 LPA or above</h5>
                         </div>
                     </div>
@@ -180,18 +183,18 @@
                         <h5>4 Month | Full time | No upfront fee</h5>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1 col-sm-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/business-time.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom'>
-                        <div class='col-lg-1 col-md-1 col-sm-1'>
+                        <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/walk.png' />
                         </div>
-                        <div class='col-lg-11 col-md-11 col-sm-11 bootcamp-step'>
+                        <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
                             <h5>Guranteed job as high as 4 LPA or above</h5>
                         </div>
                     </div>

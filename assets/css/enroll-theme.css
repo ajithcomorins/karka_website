@@ -31,7 +31,7 @@
   .timeline ul li.in-view {
     transition: 0.5s ease-in-out, background-color 0.2s ease-out,
     color 0.1s ease-out, border 0.1s ease-out;
-    margin: 180px 0px !important;
+    margin: 350px 0px !important;
   }
   .timeline ul li.in-view::before {
     content: attr(data-before);
@@ -76,19 +76,22 @@
     margin-left: 50px;
   }
   .timeline_condent h2 {
+    font-family: 'Roboto' !important;
     text-align: left;
-    font-size: 40px;
-    letter-spacing: 0px;
-    color: #aaaaaa;
+    font-size: 38px !important;
+    letter-spacing: 0px !important;
+    color: #6D416D !important;
     opacity: 1;
     padding-left: 30px;
     margin-bottom: 20px;
   }
   .timeline_condent p {
     letter-spacing: var(--unnamed-character-spacing-0);
-    text-align: left;
-    font-size: 24px;
-    letter-spacing: 0px;
+    text-align: center !important;
+    font-family: 'Roboto' !important;
+    font-size: 22px !important;
+    line-height: 32px !important;
+    letter-spacing: 0px !important;
     color: #aaaaaa;
     opacity: 1;
     margin: 0px;
@@ -154,7 +157,7 @@
     content: attr(data-before);
     position: absolute;
     left: 50%;
-    top: -225px !important;
+    top: -130px !important;
     transform: translateX(-50%);
     width: auto;
     height: auto;
@@ -171,6 +174,21 @@
     padding: 7px 14px;
     font-size: 30px;
   }
-
-  
- } */
+  .timeline ul li.in-view {
+    transition: 0.5s ease-in-out, background-color 0.2s ease-out, color 0.1s ease-out, border 0.1s ease-out !important;
+    margin: 280px 0px !important;
+ }
+ .timeline_image-2 img {
+    margin: 0px !important;
+    max-width: 50%;
+    height: 180px;
+  }
+  .timeline_button button {
+    border: none;
+    padding: 23px 30px;
+    border-radius: 8px;
+    color: white;
+    background-color: #6D416D !important;
+    font-size: 20px;
+  }
+  }
