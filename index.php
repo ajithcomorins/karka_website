@@ -73,7 +73,7 @@
                         </div>
                       </div>
                       <div class="col-lg-6">
-                        <img class="w-100 border-radius-lg shadow mt-4" src="assets/img/pap-img.png" alt="flower-1" loading="lazy">
+                        <img class="w-100 border-radius-lg shadow mt-4" src="assets/img/pap-img.jpg" alt="flower-1" loading="lazy">
                       </div>
                     </div>
                   </div>
@@ -230,7 +230,7 @@
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
                     <a href="https://www.linkedin.com/in/ssateeshk/">
                       <div class="instructor-img text-center">
-                        <img class="w-100 border-radius-md" src="./assets/img/sateesh-in.png" alt="image">
+                        <img class="w-100 border-radius-md" src="./assets/img/satheesh-in.png" alt="image">
                       </div>
                     </a>
                   </div>
@@ -243,7 +243,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-5 col-12 mt-5">
+            <div class="col-lg-5 col-12 mt-lg-5 mt-md-5">
               <div class="card card-profile mt-lg-4 mt-4">
                 <div class="row">
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
@@ -273,11 +273,11 @@
         </div>
         <div class="timeline ">
                 <ul class="reset-marin">
-                    <span class="default-line" style="height: 1687px;"></span>
-                    <span class="draw-line" style="height: 187.422px;"></span>
+                    <span class="default-line" style="height: 1687px;z-index:-1"></span>
+                    <span class="draw-line" style="height: 187.422px;z-index:-1"></span>
                     <li class="row first-row in-view" data-before="1">
                         <div class="col-lg-6 col-md-6 col-sm-12 timeline_image-1  reset-padding"><img src="./assets/img/timeline-pic-1.png"></div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent ">
+                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent px-5">
                             <h2>Lorem ipsum dolor sit</h2>
                             <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
                         </div>
@@ -291,7 +291,7 @@
                     </li>
                     <li class="row hidden" data-before="3">
                       <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-1"><img src="./assets/img/timeline-pic-3.png"></div>
-                      <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent ">
+                      <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent px-5">
                           <h2>Lorem ipsum dolor sit</h2>
                           <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
                       </div>

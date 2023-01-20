@@ -52,7 +52,7 @@
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>5 Month | Full time | No upfront fee</h5>
                     </div>
-                    <div class='row bootcamp-bottom'>
+                    <div class='row bootcamp-bottom m-0'>
                         <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/business-time.png' />
                         </div>
@@ -60,7 +60,7 @@
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
-                    <div class='row bootcamp-bottom'>
+                    <div class='row bootcamp-bottom m-0'>
                         <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/walk.png' />
                         </div>
@@ -72,7 +72,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="cursor-pointer">
                     <div class="card card-background">
-                        <div class="full-background boot-background" style="background-image: url('./assets/img/fullstack-bootcamp.png')" loading="lazy"></div>
+                        <div class="full-background boot-background" style="background-image: url('./assets/img/f.png')" loading="lazy"></div>
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a Fullstack Web Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
@@ -89,7 +89,7 @@
                 <div class="col-lg-6 col-md-12 ms-md-0">
                     <div class="cursor-pointer">
                     <div class="card card-background">
-                        <div class="full-background boot-background" style="background-image: url('./assets/img/fullstack-bootcamp.png')" loading="lazy"></div>
+                        <div class="full-background boot-background" style="background-image: url('./assets/img/m.png')" loading="lazy"></div>
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a Mobile App Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
@@ -104,7 +104,7 @@
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>4 Month | Full time | No upfront fee</h5>
                     </div>
-                    <div class='row bootcamp-bottom'>
+                    <div class='row bootcamp-bottom m-0'>
                         <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/business-time.png' />
                         </div>
@@ -112,7 +112,7 @@
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
-                    <div class='row bootcamp-bottom'>
+                    <div class='row bootcamp-bottom m-0'>
                         <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/walk.png' />
                         </div>
@@ -131,7 +131,7 @@
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>3 Month | Full time | No upfront fee</h5>
                     </div>
-                    <div class='row bootcamp-bottom'>
+                    <div class='row bootcamp-bottom m-0'>
                         <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/business-time.png' />
                         </div>
@@ -139,7 +139,7 @@
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
-                    <div class='row bootcamp-bottom'>
+                    <div class='row bootcamp-bottom m-0'>
                         <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/walk.png' />
                         </div>
@@ -151,7 +151,7 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="cursor-pointer">
                     <div class="card card-background">
-                        <div class="full-background boot-background" style="background-image: url('./assets/img/fullstack-bootcamp.png')" loading="lazy"></div>
+                        <div class="full-background boot-background" style="background-image: url('./assets/img/fr.png')" loading="lazy"></div>
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a Frontend Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
@@ -167,7 +167,7 @@
                 <div class="col-lg-6 col-md-12 ms-md-0 ">
                     <div class="cursor-pointer">
                     <div class="card card-background">
-                        <div class="full-background boot-background" style="background-image: url('./assets/img/fullstack-bootcamp.png')" loading="lazy"></div>
+                        <div class="full-background boot-background" style="background-image: url('./assets/img/ui.png')" loading="lazy"></div>
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a UI/UX Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
@@ -182,7 +182,7 @@
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>4 Month | Full time | No upfront fee</h5>
                     </div>
-                    <div class='row bootcamp-bottom'>
+                    <div class='row bootcamp-bottom m-0 '>
                         <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/business-time.png' />
                         </div>
@@ -190,7 +190,7 @@
                             <h5>Next batch starts on mid Jan 2023</h5>
                         </div>
                     </div>
-                    <div class='row bootcamp-bottom'>
+                    <div class='row bootcamp-bottom m-0'>
                         <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/walk.png' />
                         </div>

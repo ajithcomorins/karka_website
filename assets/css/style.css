@@ -58,7 +58,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 20px !important;
-        line-height: 100%;
+        line-height: 30px;
         color: #000 !important;
     }
     .nav-page i{
@@ -72,7 +72,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 20px !important;
-        line-height: 140% !important;
+        line-height: 30px !important;
         text-align: right !important;
         color: #FFFFFF !important;
         background: linear-gradient(0deg, #876187 0.08%, #6D416D 100.08%) !important;
@@ -84,7 +84,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 20px !important;
-        line-height: 140% !important;
+        line-height: 30px !important;
         text-align: right !important;
         color: #FFFFFF !important;
     }
@@ -134,7 +134,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 140%;
+        line-height: 22px;
         color: #6D416D;
     }
     /* header carosual css end  */
@@ -161,7 +161,7 @@
         font-style: normal !important;
         font-weight: 400 !important;
         font-size: 24px !important;
-        line-height: 28px !important;
+        line-height: 34px !important;
         color: #FFFFFF !important;
     }
     /* why-karka section css end  */
@@ -177,7 +177,7 @@
         font-weight: 700;
         font-size: 36px;
         text-align: center;
-        line-height: 140%;
+        line-height: 46px;
         color: #344767;
     }
     .blog-section p{
@@ -185,7 +185,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 34px;
         text-align: center;
         color: #7B809A;
     }
@@ -212,7 +212,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 34px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -248,7 +248,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 14px;
+        line-height: 22px;
         color: #6D416D;
     }
     .post-content h4{
@@ -257,7 +257,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #6D416D;
     }
     .post-content p{
@@ -266,7 +266,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 15px;
-        line-height: 18px;
+        line-height: 25px;
         color: #7B809A;
     }
     .post-content a{
@@ -274,7 +274,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
-        line-height: 140%;
+        line-height: 24px;
         color: #6D416D;
     }
     .all-course button{
@@ -289,7 +289,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 12px !important;
-        line-height: 140% !important;
+        line-height: 22px !important;
         color: #FFFFFF !important;
         flex: none;
         order: 0;
@@ -305,7 +305,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 36px;
-        line-height: 47px;
+        line-height: 46px;
         color: #344767;
     }
     .master-box{
@@ -324,7 +324,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 36px;
-        line-height: 47px;
+        line-height: 46px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -334,7 +334,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 34px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -345,7 +345,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #344767;
     }
     .instructor h6{
@@ -353,7 +353,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 34px;
         color: #7B809A;
     }
     .instructor-img img{
@@ -373,7 +373,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 36px;
-        line-height: 47px;
+        line-height: 46px;
         color: #344767;
         text-transform: none;
         text-align: center;
@@ -393,7 +393,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 36px;
-        line-height: 47px;
+        line-height: 46px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -403,7 +403,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 34px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -425,7 +425,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 34px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -441,7 +441,7 @@
         font-style: normal;
         font-weight: 300;
         font-size: 16px;
-        line-height: 140%;
+        line-height: 26px;
         color: #000000;
     }
     footer a{
@@ -450,7 +450,7 @@
         font-style: normal !important;
         font-weight: 400 !important ;
         font-size: 14px !important;
-        line-height: 140% !important;
+        line-height: 24px !important;
         color: #000000 !important;
         opacity: 0.7 !important;
     }
@@ -464,7 +464,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 12px !important;
-        line-height: 140% !important;
+        line-height: 22px !important;
         text-align: center !important;
         color: #FFFFFF !important;
     }
@@ -478,7 +478,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 20px !important;
-        line-height: 100%;
+        line-height: 30px;
         color: #FFF !important;
     }
     .fee-section .nav-page i{
@@ -505,7 +505,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 48px;
-        line-height: 63px;
+        line-height: 58px;
         color: #6D416D;
     }
     .pap-content h4{
@@ -514,7 +514,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 48px;
-        line-height: 47px;
+        line-height: 58px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -524,7 +524,7 @@
         font-style: normal !important;
         font-weight: 400 !important;
         font-size: 24px !important;
-        line-height: 28px !important;
+        line-height: 34px !important;
         text-align: center;
         color: #FFFFFF;
     }
@@ -538,7 +538,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 36px;
-        line-height: 47px;
+        line-height: 46px;
         color: #FFFFFF;
     }
     .what-section p {
@@ -547,7 +547,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 35px;
+        line-height: 34px;
         color: #FFFFFF;
     }
     .what-section .what-apply{
@@ -560,7 +560,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 140%;
+        line-height: 22px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -575,7 +575,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 36px;
-        line-height: 140%;
+        line-height: 46px;
         text-align: center;
         color: #344767;
     }
@@ -585,7 +585,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 29px;
+        line-height: 34px;
         text-align: center;
         color: #7B809A;
     }
@@ -607,7 +607,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 36px;
-        line-height: 47px;
+        line-height: 46px;
         color: #FFFFFF;
     }
     .agree-bottom{
@@ -624,7 +624,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 22px;
-        line-height: 140%;
+        line-height: 32px;
         color: #344767;
     }
     .agree-step{
@@ -636,7 +636,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 19px;
+        line-height: 26px;
         color: #7B809A;
     }
     .pap-concept{
@@ -658,7 +658,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 48px;
-        line-height: 56px;
+        line-height: 58px;
         color: #FFF;
     }
     /* bootcamp content css start  */
@@ -673,7 +673,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #100F0F;
     }
     /* bootcamp content css end  */
@@ -689,7 +689,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 30px;
-        line-height: 41px;
+        line-height: 40px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -714,7 +714,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #000000;
     }
     .bootcamp-top-1{
@@ -729,7 +729,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 40px;
-        line-height: 47px;
+        line-height: 50px;
         color: #344767;
     }
     .bootcamp-content p {
@@ -772,7 +772,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 24px;
-        line-height: 33px;
+        line-height: 34px;
         color: #FFFFFF;
     }
     .full-content h2{
@@ -781,7 +781,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 48px;
-        line-height: 63px;
+        line-height: 58px;
         color: #FFFFFF;
     }
     .full-content p{
@@ -790,7 +790,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 29px;
+        line-height: 34px;
         color: #FFFFFF;
     }
     .full-content button{
@@ -804,7 +804,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 140%;
+        line-height: 22px;
         text-align: right;
         color: #FFFFFF;
     }
@@ -822,7 +822,7 @@
         font-style: normal !important;
         font-weight: 400 !important;
         font-size: 20px !important;
-        line-height: 23px !important;
+        line-height: 30px !important;
         color: #344767 !important;
     }
     /* header css end  */
@@ -873,7 +873,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 28px;
-        line-height: 140%;
+        line-height: 38px;
         text-align: center;
         color: #344767;
     }
@@ -883,7 +883,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 19px;
+        line-height: 26px;
         text-align: center;
         color: #7B809A;
     }
@@ -892,7 +892,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #344767;
     }
     .overview-row p{
@@ -900,7 +900,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 20px;
+        line-height: 26px;
         color: #7B809A;
     }
     .overview-row ul{
@@ -911,7 +911,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 20px;
+        line-height: 26px;
         color: #7B809A;
     }
     .overview-apply h2{
@@ -920,7 +920,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 32px;
-        line-height: 140%;
+        line-height: 42px;
         text-align: center;
         color: #344767;
     }
@@ -930,7 +930,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 29px;
+        line-height: 34px;
         text-align: center;
         color: #7B809A;
     }
@@ -939,7 +939,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 16px;
-        line-height: 19px;
+        line-height: 26px;
         color: #344767;
         flex: none;
         order: 0;
@@ -964,7 +964,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 28px;
-        line-height: 37px;
+        line-height: 38px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -974,7 +974,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #FFFFFF;
     }
     .placement-subcontent p{
@@ -992,7 +992,7 @@
         font-style: normal;
         font-weight: 500;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #344767;
     }
     .placement-card p{
@@ -1001,7 +1001,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 23px;
+        line-height: 26px;
         color: #7B809A;
     }
     .placement-card a {
@@ -1010,7 +1010,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
-        line-height: 140%;
+        line-height: 24px;
         color: #E91F63;
         
     }
@@ -1026,7 +1026,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 28px;
-        line-height: 140%;
+        line-height: 38px;
         text-align: center;
         color: #344767;
     }
@@ -1043,7 +1043,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 28px;
-        line-height: 37px;
+        line-height: 38px;
         text-align: center;
         color: #344767;
     }
@@ -1077,7 +1077,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 30px;
-        line-height: 30px;
+        line-height: 40px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -1087,7 +1087,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 20px;
-        line-height: 28px;
+        line-height: 30px;
         color: #344767;
     }
     .fee-steps p {
@@ -1111,7 +1111,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 28px !important;
-        line-height: 37px;
+        line-height: 38px;
         text-align: center !important;
         color: #344767 !important;
     }
@@ -1120,7 +1120,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 10px !important;
-        line-height: 140% !important;
+        line-height: 20px !important;
         color: #7B809A !important;
     }
     .table-back{
@@ -1133,7 +1133,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 12px !important;
-        line-height: 140% !important;
+        line-height: 22px !important;
         color: #344767 !important;
     }
     tbody tr td p{
@@ -1141,7 +1141,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 12px !important;
-        line-height: 140% !important;
+        line-height: 22px !important;
         color: #7B809A !important;
     }
     tbody tr td span{
@@ -1149,7 +1149,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 12px !important;
-        line-height: 140% !important;
+        line-height: 22px !important;
         color: #7B809A !important;
     }
     /* benifit css end  */
@@ -1164,7 +1164,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 140%;
+        line-height: 22px;
         text-align: right;
         color: #FFFFFF;
         background: linear-gradient(180deg, #876187 0%, #6D416D 100%);
@@ -1177,7 +1177,7 @@
         font-style: normal !important;
         font-weight: 600 !important  ;
         font-size: 30px !important ;
-        line-height: 47px !important;
+        line-height: 40px !important;
         text-align: center !important;
         color: #FFFFFF!important;
     }
@@ -1186,7 +1186,7 @@
         font-style: normal !important;
         font-weight: 400 !important;
         font-size: 16px !important;
-        line-height: 19px !important;
+        line-height: 29px !important;
         text-align: center !important;
         color: #FFFFFF !important;
     }
@@ -1195,7 +1195,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 24px !important;
-        line-height: 28px !important;  
+        line-height: 34px !important;  
         color: #7B809A !important;
     }
     /* admission css end  */
@@ -1218,7 +1218,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #000000;
     }
     .mentor-section p{
@@ -1227,7 +1227,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 34px;
         color: #000000;
     }
     /* mentor css end  */
@@ -1238,7 +1238,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
     }
     .curriculam-title{
         padding-top: 100px;
@@ -1277,7 +1277,7 @@
         font-style: normal !important;
         font-weight: 700;
         font-size: 24px !important;
-        line-height: 140%; 
+        line-height: 34px; 
     }
     .curriculam-top h4{
         margin-bottom: 20px;
@@ -1285,14 +1285,14 @@
         font-style: normal;
         font-weight: 700;
         font-size: 20px;
-        line-height: 140%;
+        line-height: 30px;
     }
     .curriculam-top p{
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 19px;
+        line-height: 26px;
         opacity: 0.5;
     }
     .curriculam-top button{
@@ -1302,7 +1302,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 140%;
+        line-height: 22px;
         text-align: right;
         color: #000000;
     }
@@ -1324,7 +1324,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 16px;
-        line-height: 140%;
+        line-height: 26px;
         color: #344767;
     }
     .bg-faq p{
@@ -1332,7 +1332,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
-        line-height: 21px;
+        line-height: 24px;
         color: #7B809A;
     }
     /* fqa css end  */
@@ -1353,7 +1353,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 26px;
-        line-height: 30px;
+        line-height: 36px;
         color: #FFFDFD;
         
     }
@@ -1372,7 +1372,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 36px;
-        line-height: 41px;
+        line-height: 46px;
         color: #F9FBFF;
     }
     .about-us .sub-para{
@@ -1380,7 +1380,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 26px;
-        line-height: 30px;
+        line-height: 36px;
         color: #FFFDFD !important;
     }
     .about-us p{
@@ -1389,7 +1389,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 22px;
-        line-height: 26px;
+        line-height: 32px;
         color: #000000;
     }
     .about-founder{
@@ -1401,7 +1401,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 32px;
-        line-height: 38px;
+        line-height: 42px;
         color: #344767;
     }
     .about-founder p{
@@ -1409,7 +1409,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 32px;
-        line-height: 38px;
+        line-height: 42px;
         color: #000000;
     }
     /* about_us end  */
@@ -1578,7 +1578,7 @@
         font-style: normal !important;
         font-weight: 600 !important;
         font-size: 60px !important;
-        line-height: 40px !important;
+        line-height: 70px !important;
         color: #6D416D !important;
     }
     .content-para {
@@ -1646,7 +1646,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 32px;
-        line-height: 40px;
+        line-height: 42px;
         text-align: center;
     }
     .course-section p{
@@ -1655,7 +1655,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 18px;
-        line-height: 22px;
+        line-height: 28px;
         text-align: center;
     }
     .post-content h5 {
@@ -1728,7 +1728,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 28px;
-        line-height: 28px;
+        line-height: 38px;
         color: #344767;
     }
     .master-box img{
@@ -2409,7 +2409,7 @@
         font-style: normal !important;
         font-weight: 600 !important;
         font-size: 60px !important;
-        line-height: 40px !important;
+        line-height: 70px !important;
         color: #6D416D !important;
     }
     .content-para {
@@ -2474,7 +2474,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 32px;
-        line-height: 40px;
+        line-height: 42px;
         text-align: center;
     }
     .course-section p{
@@ -2790,7 +2790,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 10px;
-        line-height: 140%;
+        line-height: 20px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -3071,7 +3071,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
     }
     .curriculam-title{
         padding-top: 100px;
@@ -3213,7 +3213,7 @@
         font-style: normal !important;
         font-weight: 600 !important;
         font-size: 86px !important;
-        line-height: 80px !important;
+        line-height: 96px !important;
         color: #6D416D !important;
     }
     .content-para {
@@ -3235,7 +3235,7 @@
         font-weight: 700 !important;
         font-size: 32px !important;
         text-align: center !important;
-        line-height: 37px !important;
+        line-height: 42px !important;
         color: #FFFFFF !important;
     }
     .why-karka p{
@@ -3446,7 +3446,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 12px;
-        line-height: 23px;
+        line-height: 22px;
         color: #100F0F;
     }
     .bootcamp-karka p{
@@ -3595,7 +3595,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 34px;
-        line-height: 34px;
+        line-height: 44px;
         color: #FFFFFF !important;
     }
     .what-section p {
@@ -3617,7 +3617,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 140%;
+        line-height: 22px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -3707,7 +3707,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 140%;
+        line-height: 22px;
         text-align: right;
         color: #FFFFFF;
     }
@@ -3717,7 +3717,7 @@
         font-style: normal !important;
         font-weight: 400 !important;
         font-size: 15px !important;
-        line-height: 23px !important;
+        line-height: 25px !important;
         color: #344767 !important;
     }
     /* fullstack css end  */
@@ -3774,7 +3774,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 20px !important;
-        line-height: 100%;
+        line-height: 30px;
         color: #000 !important;
     }
     .nav-page i{
@@ -3788,7 +3788,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 20px !important;
-        line-height: 140% !important;
+        line-height: 30px !important;
         text-align: right !important;
         color: #FFFFFF !important;
         background: linear-gradient(0deg, #876187 0.08%, #6D416D 100.08%) !important;
@@ -3800,7 +3800,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 20px !important;
-        line-height: 140% !important;
+        line-height: 30px !important;
         text-align: right !important;
         color: #FFFFFF !important;
     }
@@ -3842,7 +3842,7 @@
         font-style: normal !important;
         font-weight: 600 !important;
         font-size: 96px !important;
-        line-height: 80px !important;
+        line-height: 106px !important;
         color: #6D416D !important;
     }
     .academy-font h3{
@@ -3860,7 +3860,7 @@
         font-style: normal !important;
         font-weight: 400 !important;
         font-size: 24px !important;
-        line-height: 35px !important;
+        line-height: 34px !important;
         color: #344767 !important;
     }
     .section-karka .rs{
@@ -3871,7 +3871,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 140%;
+        line-height: 22px;
         color: #6D416D;
     }
     /* header carosual css end  */
@@ -3888,7 +3888,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 36px !important;
-        line-height: 47px !important;
+        line-height: 46px !important;
         color: #FFFFFF !important;
     }
     .why-karka p{
@@ -3898,7 +3898,7 @@
         font-style: normal !important;
         font-weight: 400 !important;
         font-size: 24px !important;
-        line-height: 28px !important;
+        line-height: 34px !important;
         color: #FFFFFF !important;
     }
     /* why-karka section css end  */
@@ -3914,7 +3914,7 @@
         font-weight: 700;
         font-size: 36px;
         text-align: center;
-        line-height: 140%;
+        line-height: 46px;
         color: #344767;
     }
     .blog-section p{
@@ -3922,7 +3922,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 34px;
         text-align: center;
         color: #7B809A;
     }
@@ -3939,7 +3939,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 36px;
-        line-height: 47px;
+        line-height: 46px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -3949,7 +3949,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 34px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -3985,7 +3985,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 14px;
+        line-height: 22px;
         color: #6D416D;
     }
     .post-content h4{
@@ -3994,7 +3994,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #6D416D;
     }
     .post-content p{
@@ -4011,7 +4011,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
-        line-height: 140%;
+        line-height: 24px;
         color: #6D416D;
     }
     .all-course{
@@ -4029,7 +4029,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 12px !important;
-        line-height: 140% !important;
+        line-height: 22px !important;
         color: #FFFFFF !important;
         flex: none;
         order: 0;
@@ -4045,7 +4045,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 36px;
-        line-height: 47px;
+        line-height: 46px;
         color: #344767;
     }
     .master-box{
@@ -4067,7 +4067,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 36px;
-        line-height: 47px;
+        line-height: 46px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -4077,7 +4077,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 34px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -4088,7 +4088,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #344767;
     }
     .instructor h6{
@@ -4096,7 +4096,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 34px;
         color: #7B809A;
     }
     .instructor-img img{
@@ -4116,7 +4116,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 36px;
-        line-height: 47px;
+        line-height: 46px;
         color: #344767;
         text-transform: none;
         text-align: center;
@@ -4136,7 +4136,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 36px;
-        line-height: 47px;
+        line-height: 46px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -4146,7 +4146,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 38px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -4168,7 +4168,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 34px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -4184,7 +4184,7 @@
         font-style: normal;
         font-weight: 300;
         font-size: 16px;
-        line-height: 140%;
+        line-height: 26px;
         color: #000000;
     }
     footer a{
@@ -4193,7 +4193,7 @@
         font-style: normal !important;
         font-weight: 400 !important ;
         font-size: 14px !important;
-        line-height: 140% !important;
+        line-height: 24px !important;
         color: #000000 !important;
         opacity: 0.7 !important;
     }
@@ -4207,7 +4207,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 12px !important;
-        line-height: 140% !important;
+        line-height: 22px !important;
         text-align: center !important;
         color: #FFFFFF !important;
     }
@@ -4221,7 +4221,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 20px !important;
-        line-height: 100%;
+        line-height: 30px;
         color: #FFF !important;
     }
     .fee-section .nav-page i{
@@ -4251,7 +4251,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 48px;
-        line-height: 63px;
+        line-height: 58px;
         color: #6D416D;
     }
     .pap-content h4{
@@ -4260,7 +4260,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 48px;
-        line-height: 47px;
+        line-height: 58px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -4270,7 +4270,7 @@
         font-style: normal !important;
         font-weight: 400 !important;
         font-size: 24px !important;
-        line-height: 28px !important;
+        line-height: 34px !important;
         text-align: center;
         color: #FFFFFF;
     }
@@ -4284,7 +4284,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 36px;
-        line-height: 47px;
+        line-height: 46px;
         color: #FFFFFF;
     }
     .what-section p {
@@ -4293,7 +4293,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 35px;
+        line-height: 34px;
         color: #FFFFFF;
     }
     .what-section .what-apply{
@@ -4306,7 +4306,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 140%;
+        line-height: 22px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -4321,7 +4321,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 36px;
-        line-height: 140%;
+        line-height: 36px;
         text-align: center;
         color: #344767;
     }
@@ -4331,7 +4331,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 29px;
+        line-height: 34px;
         text-align: center;
         color: #7B809A;
     }
@@ -4353,7 +4353,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 36px;
-        line-height: 47px;
+        line-height: 46px;
         color: #FFFFFF;
     }
     .agree-bottom{
@@ -4370,7 +4370,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 22px;
-        line-height: 140%;
+        line-height: 32px;
         color: #344767;
     }
     .agree-step{
@@ -4382,7 +4382,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 19px;
+        line-height: 26px;
         color: #7B809A;
     }
     /* section css end  */
@@ -4401,7 +4401,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 48px;
-        line-height: 56px;
+        line-height: 58px;
         color: #FFF;
     }
     /* bootcamp content css start  */
@@ -4416,7 +4416,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #100F0F;
     }
     /* bootcamp content css end  */
@@ -4432,7 +4432,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 30px;
-        line-height: 41px;
+        line-height: 40px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -4457,7 +4457,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #000000;
     }
     .bootcamp-top-1{
@@ -4472,7 +4472,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 40px;
-        line-height: 47px;
+        line-height: 50px;
         color: #344767;
     }
     .bootcamp-content p {
@@ -4515,7 +4515,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 24px;
-        line-height: 33px;
+        line-height: 34px;
         color: #FFFFFF;
     }
     .full-content h2{
@@ -4524,7 +4524,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 48px;
-        line-height: 63px;
+        line-height: 58px;
         color: #FFFFFF;
     }
     .full-content p{
@@ -4533,7 +4533,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 29px;
+        line-height: 34px;
         color: #FFFFFF;
     }
     .full-content button{
@@ -4547,7 +4547,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 140%;
+        line-height: 22px;
         text-align: right;
         color: #FFFFFF;
     }
@@ -4565,7 +4565,7 @@
         font-style: normal !important;
         font-weight: 400 !important;
         font-size: 20px !important;
-        line-height: 23px !important;
+        line-height: 30px !important;
         color: #344767 !important;
     }
     /* header css end  */
@@ -4616,7 +4616,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 28px;
-        line-height: 140%;
+        line-height: 38px;
         text-align: center;
         color: #344767;
     }
@@ -4626,7 +4626,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 19px;
+        line-height: 26px;
         text-align: center;
         color: #7B809A;
     }
@@ -4635,7 +4635,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #344767;
     }
     .overview-row p{
@@ -4643,7 +4643,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 20px;
+        line-height: 26px;
         color: #7B809A;
     }
     .overview-row ul{
@@ -4654,7 +4654,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 20px;
+        line-height: 26px;
         color: #7B809A;
     }
     .overview-apply h2{
@@ -4663,7 +4663,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 32px;
-        line-height: 140%;
+        line-height: 42px;
         text-align: center;
         color: #344767;
     }
@@ -4673,7 +4673,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 29px;
+        line-height: 34px;
         text-align: center;
         color: #7B809A;
     }
@@ -4682,7 +4682,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 16px;
-        line-height: 19px;
+        line-height: 26px;
         color: #344767;
         flex: none;
         order: 0;
@@ -4707,7 +4707,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 28px;
-        line-height: 37px;
+        line-height: 38px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -4717,7 +4717,7 @@
         font-style: normal;
         font-weight: 600;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #FFFFFF;
     }
     .placement-subcontent p{
@@ -4735,7 +4735,7 @@
         font-style: normal;
         font-weight: 500;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #344767;
     }
     .placement-card p{
@@ -4744,7 +4744,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 23px;
+        line-height: 26px;
         color: #7B809A;
     }
     .placement-card a {
@@ -4753,7 +4753,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
-        line-height: 140%;
+        line-height: 24px;
         color: #E91F63;
         
     }
@@ -4769,7 +4769,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 28px;
-        line-height: 140%;
+        line-height: 38px;
         text-align: center;
         color: #344767;
     }
@@ -4786,7 +4786,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 28px;
-        line-height: 37px;
+        line-height: 38px;
         text-align: center;
         color: #344767;
     }
@@ -4820,7 +4820,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 30px;
-        line-height: 30px;
+        line-height: 40px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -4830,7 +4830,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 20px;
-        line-height: 28px;
+        line-height: 30px;
         color: #344767;
     }
     .fee-steps p {
@@ -4854,7 +4854,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 28px !important;
-        line-height: 37px;
+        line-height: 38px;
         text-align: center !important;
         color: #344767 !important;
     }
@@ -4863,7 +4863,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 10px !important;
-        line-height: 140% !important;
+        line-height: 20px !important;
         color: #7B809A !important;
     }
     .table-back{
@@ -4876,7 +4876,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 12px !important;
-        line-height: 140% !important;
+        line-height: 22px !important;
         color: #344767 !important;
     }
     tbody tr td p{
@@ -4884,7 +4884,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 12px !important;
-        line-height: 140% !important;
+        line-height: 22px !important;
         color: #7B809A !important;
     }
     tbody tr td span{
@@ -4892,7 +4892,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 12px !important;
-        line-height: 140% !important;
+        line-height: 22px !important;
         color: #7B809A !important;
     }
     /* benifit css end  */
@@ -4907,7 +4907,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 140%;
+        line-height: 22px;
         text-align: right;
         color: #FFFFFF;
         background: linear-gradient(180deg, #876187 0%, #6D416D 100%);
@@ -4920,7 +4920,7 @@
         font-style: normal !important;
         font-weight: 600 !important  ;
         font-size: 30px !important ;
-        line-height: 47px !important;
+        line-height: 40px !important;
         text-align: center !important;
         color: #FFFFFF!important;
     }
@@ -4929,7 +4929,7 @@
         font-style: normal !important;
         font-weight: 400 !important;
         font-size: 16px !important;
-        line-height: 19px !important;
+        line-height: 26px !important;
         text-align: center !important;
         color: #FFFFFF !important;
     }
@@ -4938,7 +4938,7 @@
         font-style: normal !important;
         font-weight: 700 !important;
         font-size: 24px !important;
-        line-height: 28px !important;  
+        line-height: 34px !important;  
         color: #7B809A !important;
     }
     /* admission css end  */
@@ -4961,7 +4961,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
         color: #000000;
     }
     .mentor-section p{
@@ -4970,7 +4970,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 24px;
-        line-height: 28px;
+        line-height: 34px;
         color: #000000;
     }
     /* mentor css end  */
@@ -4981,7 +4981,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 20px;
-        line-height: 23px;
+        line-height: 30px;
     }
     .curriculam-title{
         padding-top: 100px;
@@ -5020,7 +5020,7 @@
         font-style: normal !important;
         font-weight: 700;
         font-size: 24px !important;
-        line-height: 140%; 
+        line-height: 34px; 
     }
     .curriculam-top h4{
         margin-bottom: 20px;
@@ -5028,14 +5028,14 @@
         font-style: normal;
         font-weight: 700;
         font-size: 20px;
-        line-height: 140%;
+        line-height: 30px;
     }
     .curriculam-top p{
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
         font-size: 16px;
-        line-height: 19px;
+        line-height: 26px;
         opacity: 0.5;
     }
     .curriculam-top button{
@@ -5045,7 +5045,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
-        line-height: 140%;
+        line-height: 22px;
         text-align: right;
         color: #000000;
     }
@@ -5067,7 +5067,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 16px;
-        line-height: 140%;
+        line-height:26px;
         color: #344767;
     }
     .bg-faq p{
@@ -5075,7 +5075,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
-        line-height: 21px;
+        line-height: 24px;
         color: #7B809A;
     }
     /* fqa css end  */
@@ -5086,7 +5086,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 46px;
-        line-height: 54px;
+        line-height: 56px;
         color: #FFFCFC;
     }
     .about-title p {
@@ -5096,7 +5096,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 26px;
-        line-height: 30px;
+        line-height: 36px;
         color: #FFFDFD;
         
     }
@@ -5115,7 +5115,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 36px;
-        line-height: 41px;
+        line-height: 46px;
         color: #F9FBFF;
     }
     .about-us .sub-para{
@@ -5123,7 +5123,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 26px;
-        line-height: 30px;
+        line-height: 36px;
         color: #FFFDFD !important;
     }
     .about-us p{
@@ -5132,7 +5132,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 22px;
-        line-height: 26px;
+        line-height: 32px;
         color: #000000;
     }
     .about-founder{
@@ -5144,7 +5144,7 @@
         font-style: normal;
         font-weight: 700;
         font-size: 32px;
-        line-height: 38px;
+        line-height: 42px;
         color: #344767;
     }
     .about-founder p{
@@ -5152,7 +5152,7 @@
         font-style: normal;
         font-weight: 400;
         font-size: 32px;
-        line-height: 38px;
+        line-height: 42px;
         color: #000000;
     }
     /* about_us end  */

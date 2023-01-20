@@ -77,7 +77,7 @@
   }
   .timeline_condent h2 {
     font-family: 'Roboto' !important;
-    text-align: left;
+    text-align: left !important;
     font-size: 38px !important;
     letter-spacing: 0px !important;
     color: #6D416D !important;
@@ -87,7 +87,7 @@
   }
   .timeline_condent p {
     letter-spacing: var(--unnamed-character-spacing-0);
-    text-align: center !important;
+    text-align: left !important;
     font-family: 'Roboto' !important;
     font-size: 22px !important;
     line-height: 32px !important;

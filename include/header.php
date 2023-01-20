@@ -42,13 +42,13 @@
           <li class="nav-item dropdown list-mar">
             <a href='about_us.php' class="nav-link ps-2 d-flex cursor-pointer align-items-center" role="button">
             <i class="material-icons opacity-6 me-2">dashboard</i>
-              Contact Us
+              About Us
             </a>
           </li>
         </ul>
         <ul class="navbar-nav d-lg-block d-none">
           <li class="nav-item">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform" class="btn btn-sm  apply-now mb-0 me-1">Apply Now</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform" class="btn btn-sm  apply-now mb-0 me-1" target='_blank'>Apply Now</a>
           </li>
         </ul>
       </div>
