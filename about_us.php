@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
-    <link rel="icon" type="image/png" href="assets/img/karka-logo.png">
+    <link rel="icon" type="image/png" href="assets/img/karka-logos.png">
     <title>Karka_Acadamy</title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
@@ -77,7 +77,7 @@
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
                                 <a class="d-block blur-shadow-image">
-                                    <img src="./assets/img/sateesh.png" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100" loading="lazy">
+                                    <img src="./assets/img/sateesh.jpg" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100" loading="lazy">
                                 </a>
                                 <div class="card-body text-center founder-img">
                                     <img src='./assets/img/link.png' class='float-start'/>
@@ -91,7 +91,7 @@
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
                                 <a class="d-block blur-shadow-image">
-                                    <img src="./assets/img/ramesh-1.png" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100" loading="lazy">
+                                    <img src="./assets/img/ramesh-1.jpg" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100" loading="lazy">
                                 </a>
                                 <div class="card-body text-center founder-img">
                                     <img src='./assets/img/link.png' class='float-start'/>

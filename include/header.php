@@ -33,12 +33,12 @@
               Fees & PAP
             </a>
           </li>
-          <li class="nav-item dropdown list-mar">
+          <!-- <li class="nav-item dropdown list-mar">
             <a href='fullstack.php' class="nav-link ps-2 d-flex cursor-pointer align-items-center" role="button">
             <i class="material-icons opacity-6 me-2">dashboard</i>
               Blog
             </a>
-          </li>
+          </li> -->
           <li class="nav-item dropdown list-mar">
             <a href='about_us.php' class="nav-link ps-2 d-flex cursor-pointer align-items-center" role="button">
             <i class="material-icons opacity-6 me-2">dashboard</i>

@@ -637,7 +637,8 @@ text-align: center;
 color: #344767;
 }
 .timeline .default-line{
-background-color: #6D416D !important;
+/* background-color: #6D416D !important; */
+z-index: -1px;
 }
 .timeline .draw-line {
 width: 4px;
@@ -1070,8 +1071,8 @@ margin: 30px 0px !important;
   }
   .timeline_image-2 img {
     margin: 0px !important;
-    max-width: 50%;
-    height: 180px;
+    max-width: 80% !important;
+    height: 180px !important;
   }
   .timeline-card-img img {
     height: auto !important;

@@ -6,7 +6,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
-  <link rel="icon" type="image/png" href="assets/img/karka-logo.png">
+  <link rel="icon" type="image/png" href="assets/img/karka-logos.png">
   <title>Karka_Acadamy</title>
   <!--     Fonts and icons     -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
@@ -26,7 +26,9 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous"/>
   <!-- enroll-process css files  -->
   <link id="pagestyle" href="assets/css/enroll-process.css" rel="stylesheet" />
-  <link id="pagestyle" href="assets/css/enroll-theme.css" rel="stylesheet" />
+  <link id="pagestyle" href="assets/css/enroll-theme.css" rel="stylesheet" /> 
+   <!--<link id="pagestyle" href="assets/css/mobile_style.css" rel="stylesheet" />
+  <link id="pagestyle" href="assets/css/responsivenew.css" rel="stylesheet" />-->
 
 </head>
   <body>
@@ -46,8 +48,8 @@
                           <p>100% Guaranteed developer jobs in top IT companies as high as <b class='rs-laks'>Rs 4 lakhs per year or even more</b></p>
                         </div>
                         <div class="buttons">
-                          <button type="button" class="btn apply-now mt-4"><a class='text-decoration-none' href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform' >Apply now</a></button>
-                          <button type="button" class="btn read-more mt-4">READ MORE</button>
+                          <button type="button" class="btn apply-now mt-4" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform'"><a class='text-decoration-none' href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform' >Apply now</a></button>
+                          <button type="button" class="btn read-more mt-4" onclick="window.location.href='./fees_pap.php'">READ MORE</button>
                         </div>
                       </div>
                       <div class="col-lg-6">
@@ -117,7 +119,7 @@
       <div class="position-relative overflow-hidden course-section">
         <img src="assets/img/pattern-lines.svg" alt="pattern-lines" class="position-absolute w-100 opacity-6">
         <div class="container mb-5">
-          <div class="row">
+          <div class="row container">
             <div class="col-md-12 col-lg-12 mx-auto text-center">
               <h3 class="text-white">Courses</h3>
               <p class="text-white">This bootcamp oriented course is designed for anyone with an interest in learning. Delivered from our learning lab, the bootcamp will take you from the foundations to practical industry skills.</p>
@@ -198,7 +200,7 @@
       <!-- instructor section start  -->
       <div class="pb-5 position-relative instructor">
         <div class="container">
-          <div class="row mb-5">
+          <div class="row mb-5 container">
             <div class="col-md-12 col-lg-12 text-start mb-5 mt-4 instructor-title">
               <h3 class="text-white z-index-1 position-relative">Know Your Instructors</h3>
               <p class="text-white opacity-8 mb-0">Your instructors who are industry practitioners help you reach your full potential and achieve your goals. They provide guidance & support for your career, and they provide mentorship and insight whenever you need it. Know them now !</p>
@@ -243,7 +245,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-5 col-12 mt-lg-5 mt-md-5">
+            <div class="col-lg-5 col-12 mt-lg-5 mt-md-5 mt-5 ">
               <div class="card card-profile mt-lg-4 mt-4">
                 <div class="row">
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
@@ -267,57 +269,56 @@
       </div>
       <!-- instrcutor section end  -->
       <!-- enroll process start -->
-      <div class="enroll-process container">
+      <!-- <div class="enroll-process container">
         <div class="">
             <h3 class="section-center__title text-center">Enrollment Process</h3>
         </div>
         <div class="timeline ">
-                <ul class="reset-marin">
-                    <span class="default-line" style="height: 1687px;z-index:-1"></span>
-                    <span class="draw-line" style="height: 187.422px;z-index:-1"></span>
-                    <li class="row first-row in-view" data-before="1">
-                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_image-1  reset-padding"><img src="./assets/img/timeline-pic-1.png"></div>
-                        <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent px-5">
-                            <h2>Lorem ipsum dolor sit</h2>
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
-                        </div>
-                    </li>
-                    <li class="row hidden reversed-condent" data-before="2">
-                      <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent ">
-                          <h2>Lorem ipsum dolor sit</h2>
-                          <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
-                      </div>
-                      <div class="col-lg-6 col-md-6 col-sm-12 timeline_image-2"><img src="./assets/img/timeline-pic-2.png"></div>
-                    </li>
-                    <li class="row hidden" data-before="3">
-                      <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-1"><img src="./assets/img/timeline-pic-3.png"></div>
-                      <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent px-5">
-                          <h2>Lorem ipsum dolor sit</h2>
-                          <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
-                      </div>
-                    </li>
-                    <li class="row hidden reversed-condent" data-before="4">
-                      <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent ">
-                          <h2>Lorem ipsum dolor sit</h2>
-                          <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
-                      </div>
-                      <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-2 timeline-card-img"><img src="./assets/img/timeline-pic-2.png"></div>
-                    </li>
-                    <div class="col-md-12 col-lg-12 col-sm-12 col timeline_button text-center ">
-                      <button type="button" class="click-mail" data-toggle="modal" data-target="#exampleModal-2">Let's Build <i class="fa fa-arrow-right ml-2" aria-hidden="true"></i></button>
-                    <div>
-                </div>
+          <ul class="reset-marin">
+                <span class="default-line" style="height: 1687px;z-index:-1"></span>
+                <span class="draw-line" style="height: 187.422px;z-index:-1"></span>
+                <li class="row first-row in-view" data-before="1">
+                    <div class="col-lg-6 col-md-6 col-sm-12 timeline_image-1  reset-padding"><img src="./assets/img/timeline-pic-1.png"></div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent px-5">
+                        <h2>Lorem ipsum dolor sit</h2>
+                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
+                    </div>
+                </li>
+                <li class="row hidden reversed-condent in-views px-3" data-before="2">
+                  <div class="col-lg-6 col-md-6 col-sm-12 col-12  timeline_condent ">
+                      <h2>Lorem ipsum dolor sit</h2>
+                      <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
+                  </div>
+                  <div class="col-lg-6 col-md-6 col-sm-12 col-12 timeline_image-2 timeline-card-img"><img src="./assets/img/timeline-pic-2.png"></div>
+                </li>
+                <li class="row hidden" data-before="3">
+                  <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-1"><img src="./assets/img/timeline-pic-3.png"></div>
+                  <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent px-5">
+                      <h2>Lorem ipsum dolor sit</h2>
+                      <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
+                  </div>
+                </li>
+                <li class="row hidden reversed-condent in-views px-3" data-before="4">
+                  <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent ">
+                      <h2>Lorem ipsum dolor sit</h2>
+                      <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
+                  </div>
+                  <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-2 timeline-card-img"><img src="./assets/img/timeline-pic-2.png"></div>
+                </li>
+                <div class="col-md-12 col-lg-12 col-sm-12 col timeline_button text-center ">
+                  <button type="button" class="click-mail" data-toggle="modal" data-target="#exampleModal-2">Let's Build <i class="fa fa-arrow-right ml-2" aria-hidden="true"></i></button>
+                <div>
               </div>
-            </ul>
-          </div>
+            </div>
+          </ul>
         </div>
-
+      </div> -->
       <!-- enroll process end  -->
       <!-- google review section start  -->
       <div class="overflow-hidden review-section">
         <img src="assets/img/pattern-lines.svg" alt="pattern-lines" class="position-absolute w-100 h-100 opacity-6">
         <div class="container mb-5">
-          <div class="row">
+          <div class="row container">
             <div class="col-md-12 col-lg-12 text-center review-title">
               <h3 class="text-white">What our students say about us!</h3>
               <p class="text-white">Find out what people are saying about their experience with Karka Academy. Read testimonials from satisfied readers who have benefited from us.</p>

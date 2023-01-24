@@ -6,7 +6,7 @@
 <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
-  <link rel="icon" type="image/png" href="assets/img/karka-logo.png">
+  <link rel="icon" type="image/png" href="assets/img/karka-logos.png">
   <title>
     Karka_Acadamy
   </title>  
@@ -28,10 +28,17 @@
 </head>
 <body>
     <!-- header section start  -->
-    <header class='fee-section'>
-        <div class="pap-header" style="background-image: url('assets/img/fee-bg.png');" loading="lazy">
+    <header class='fee-sections'>
             <?php include 'include/header.php' ?>
-            <div class="row justify-content-center back-img mt-5">
+    </header>
+    <!-- header section end  -->
+    <!-- section start  -->
+    <section class='fee-section'>
+        <div>
+            <img src='./assets/img/pap-0.png' class='w-100'/>
+        </div>
+      <div class="container p-0">
+      <div class="row justify-content-center back-img mt-5 container">
                 <div class="col-lg-8 col-md-10 text-center mx-auto-5 mt pap-content container">
                     <h2 class="">KARKA’S</h2>
                     <h4>Pay After Placement Program</h4>
@@ -39,31 +46,25 @@
                     <p>Pay your bootcamp fee only after you get a job and start earning. You do not need to pay any upfront fee initially.</p>
                 </div>
             </div>
-        </div>
-        <div class="what-pap position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1 z-index-2 border-radius-xl mt-n8 overflow-hidden">
-            <img src="assets/img/pattern-lines.svg" alt="pattern-lines" class="position-absolute opacity-6 start-0 top-0 w-100" loading="lazy">
-            <div class="container position-relative">
-                <div class="row justify-content-center align-items-center">
-                    <div class="col-lg-7 col-md-12 text-start py-sm-5 me-auto position-relative ">
-                        <div class="position-relative what-section">
-                            <h2 class="text-white mt-sm-0">What is Pay After Placement?</h2>
-                            <p class="lead text-white mb-5">
-                                PAP is a payment arrangement implemented through an Income Sharing Agreement(ISA) which is a legal contract between you and Karka Academy. This makes a result based skill development. If you do not get placed within 6 months of completion of the program, you do not need to pay us the fee.
-                            </p>
-                            <button type="button" class="what-apply" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform'">Apply Now</button>
+            <div class="what-pap position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1 z-index-2 border-radius-xl mt-n8 overflow-hidden">
+                <img src="assets/img/pattern-lines.svg" alt="pattern-lines" class="position-absolute opacity-6 start-0 top-0 w-100" loading="lazy">
+                <div class="container position-relative">
+                    <div class="row justify-content-center align-items-center">
+                        <div class="col-lg-7 col-md-12 text-start py-sm-5 me-auto position-relative ">
+                            <div class="position-relative what-section">
+                                <h2 class="text-white mt-sm-0">What is Pay After Placement?</h2>
+                                <p class="lead text-white mb-5">
+                                    PAP is a payment arrangement implemented through an Income Sharing Agreement(ISA) which is a legal contract between you and Karka Academy. This makes a result based skill development. If you do not get placed within 6 months of completion of the program, you do not need to pay us the fee.
+                                </p>
+                                <button type="button" class="what-apply" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform'">Apply Now</button>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-5 position-absolute start-50 end-0 me-n12 w-75">
-                        <img class="w-100 d-none d-sm-none d-md-none d-lg-block" src="assets/img/macbook-2.png" alt="macbook" loading="lazy">
+                        <div class="col-lg-5 position-absolute start-50 end-0 me-n12 mx-7">
+                            <img class="w-100 d-none d-sm-none d-md-none d-lg-block" src="assets/img/macbook-2.png" alt="macbook" loading="lazy">
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </header>
-    <!-- header section end  -->
-    <!-- section start  -->
-    <section>
-      <div class="container">
         <div class="row">
           <div class="col-lg-8 col-10 ms-auto me-auto text-center fee-step mt-7">
             <h3 class="">Is this for you ?</h3>
@@ -123,7 +124,7 @@
             </div>
         </div>
         <div class='process-bottom'>
-            <div class="row m-0">
+            <div class="row m-0 flex-wrap-reverse">
                 <div class="col-md-12 col-lg-5 ms-md-0">
                     <div class='row agree-bottom'>
                         <div class='col-lg-1 col-md-1 col-sm-1'>

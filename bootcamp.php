@@ -23,7 +23,9 @@
     <!-- CSS Files -->
     <link id="pagestyle" href="assets/css/material-kit-pro.css?v=3.0.3" rel="stylesheet" />
     <link id="pagestyle" href="assets/css/style.css" rel="stylesheet" />
-  
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
     <!-- header section start -->
@@ -37,7 +39,7 @@
     <!-- section start  -->
     <section class='container'>
         <!-- bootcamp content start -->
-        <div class="card card-body shadow-xl mx-3 mx-md-4 mt-n8 bootcamp-karka">
+        <div class="card card-body shadow-xl mx-3 mx-md-4 mt-n6 bootcamp-karka">
             <div class="px-4">
                 <p><b>Karka Academy offers an intensive bootcamp that will help you get ahead in your career. Our bootcamp is designed to give you the skills and knowledge you need to succeed . We offer a variety of courses that will cover everything. Whether you're just starting out in your career or you're looking to take things to the next level, our bootcamp will give you the edge you need.</b></p>
             </div>
@@ -46,7 +48,7 @@
         <!-- bootcamp course start  -->
         <div class='bootcamp-top-1'>
             <div class="row m-0">
-                <div class="col-lg-6 col-md-12  ms-md-0  bootcamp-content">
+                <div class="col-lg-6 col-md-12 ms-md-0 bootcamp-content">
                     <div class='col-lg-11 agree-step'>
                         <h2>FULL STACK WEB DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
@@ -85,8 +87,8 @@
             </div>
         </div>
         <div class='bootcamp-top-1'>
-            <div class="row m-0">
-                <div class="col-lg-6 col-md-12 ms-md-0">
+            <div class="row m-0 flex-wrap-reverse">
+                <div class="col-lg-6 col-md-12 ms-md-0 mt-md-2 mt-sm-2 mt-lg-0 mt-2">
                     <div class="cursor-pointer">
                     <div class="card card-background">
                         <div class="full-background boot-background" style="background-image: url('./assets/img/m.png')" loading="lazy"></div>
@@ -98,8 +100,8 @@
                     </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-12 ms-md-0  bootcamp-content bootcamp-details">
-                    <div class='col-lg-11 agree-step'>
+                <div class="col-lg-6 col-md-12 ms-md-0 mt-md-2 mt-sm-2 mt-lg-0 mt-2 bootcamp-content bootcamp-details">
+                    <div class='col-lg-11 agree-step order-1'>
                         <h2>MOBILE APP DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>4 Month | Full time | No upfront fee</h5>
@@ -125,7 +127,7 @@
         </div>
         <div class='bootcamp-top-1'>
             <div class="row m-0">
-                <div class="col-lg-6 col-md-12 ms-md-0  bootcamp-content">
+                <div class="col-lg-6 col-md-12 ms-md-0 mt-md-5 mt-sm-5 mt-lg-0 mt-5  bootcamp-content">
                     <div class='col-lg-11 agree-step'>
                         <h2>FRONTEND WEB DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
@@ -164,7 +166,7 @@
         </div>
         <div class='bootcamp-top-'>
             <div class="row m-0">
-                <div class="col-lg-6 col-md-12 ms-md-0 ">
+                <div class="col-lg-6 col-md-12 ms-md-0 flex-wrap flex-lg-nowrap order-md-1 order-lg-0 mt-md-2 mt-sm-2 mt-lg-0 mt-2">
                     <div class="cursor-pointer">
                     <div class="card card-background">
                         <div class="full-background boot-background" style="background-image: url('./assets/img/ui.png')" loading="lazy"></div>
@@ -176,8 +178,8 @@
                     </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-12 ms-md-0  bootcamp-content bootcamp-details">
-                    <div class='col-lg-11 agree-step'>
+                <div class="col-lg-6 col-md-12 ms-md-0  bootcamp-content mt-md-2 mt-sm-2 mt-lg-0 mt-2 d-flex d-lg-block flex-wrap-reverse bootcamp-details">
+                    <div class='col-lg-11 agree-step order-1'>
                         <h2>UI/UX DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>4 Month | Full time | No upfront fee</h5>
