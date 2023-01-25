@@ -100,7 +100,7 @@
                     </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-12 ms-md-0 mt-md-2 mt-sm-2 mt-lg-0 mt-2 bootcamp-content bootcamp-details">
+                <div class="col-lg-6 col-md-12 ms-md-0 mt-md-2 mt-sm-2 mt-lg-0 mt-2 bootcamp-content bootcamp-details px-lg-4">
                     <div class='col-lg-11 agree-step order-1'>
                         <h2>MOBILE APP DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
@@ -178,7 +178,7 @@
                     </div>
                     </div>
                 </div>
-                <div class="col-lg-6 col-md-12 ms-md-0  bootcamp-content mt-md-2 mt-sm-2 mt-lg-0 mt-2 d-flex d-lg-block flex-wrap-reverse bootcamp-details">
+                <div class="col-lg-6 col-md-12 ms-md-0  bootcamp-content mt-md-2 mt-sm-2 mt-lg-0 mt-2 d-flex d-lg-block flex-wrap-reverse bootcamp-details px-lg-4">
                     <div class='col-lg-11 agree-step order-1'>
                         <h2>UI/UX DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>

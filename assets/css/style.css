@@ -632,6 +632,7 @@
     }
     .agree-step{
         padding-right: 60px;
+        padding-left: 20px;
     }
     .agree-step p{
         margin-top: 15px;
@@ -721,7 +722,7 @@
         color: #000000;
     }
     .bootcamp-top-1{
-        margin-bottom: 196px;
+        margin-bottom: 100px;
     }
     .bootcamp-details {
         margin-top: 0px;
@@ -761,6 +762,9 @@
         font-size: 24px !important;
         line-height: 34px !important;
         color: #344767 !important;
+    }
+    .course-content{
+        margin-bottom: 0px;
     }
     /* bootcamp-course css end  */
     /* bootcamp css end  */
@@ -1720,6 +1724,7 @@
     }
     .agree-step {
         padding-right: 0px;
+        padding-left: 30px;
     }
     .bootcamp-content h2 {
         margin-bottom: 6px;
@@ -1778,6 +1783,9 @@
         text-align: center;
         color: #FFFFFF;
     }
+    .course-content{
+        margin-bottom: 0px;
+    }
     .course-content button {
         padding: 9px 14px;
         margin-bottom: 69px;
@@ -1805,8 +1813,8 @@
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 600;
-        font-size: 38px;
-        line-height: 48px;
+        font-size: 44px;
+        line-height: 54px;
         color: #6D416D;
     }
     .pap-content h4 {
@@ -1814,8 +1822,8 @@
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 600;
-        font-size: 32px;
-        line-height: 42px;
+        font-size: 26px;
+        line-height: 26px;
         text-align: center;
         color: #000;
     }
@@ -1824,8 +1832,8 @@
         font-family: 'Roboto' !important;
         font-style: normal !important;
         font-weight: 400 !important;
-        font-size: 18px !important;
-        line-height: 28px !important;
+        font-size: 16px !important;
+        line-height: 26px !important;
         text-align: center;
         color: #000;
     }
@@ -1888,7 +1896,7 @@
         color: #7B809A;
     }
     .pap-concept {
-        margin-top: 400px !important;
+        margin-top: 340px !important;
     }
     .agree-step h5 {
         font-family: 'Roboto';
@@ -2602,6 +2610,9 @@
         font-size: 20px !important;
         line-height: 30px !important;
         color: #344767 !important;
+    }
+    .course-content{
+        margin-bottom: 0px;
     }
     .course-content h3 {
         margin-top: 68px;
@@ -3433,6 +3444,9 @@
         font-size: 22px !important;
         line-height: 32px !important;
         color: #344767 !important;
+    }
+    .course-content{
+        margin-bottom: 0px;
     }
     .course-content h3 {
         margin-top: 68px;
@@ -5135,6 +5149,7 @@
     }
     .agree-step{
         padding-right: 60px;
+        padding-left: 20px;
     }
     .agree-step p{
         margin-top: 15px;
@@ -5261,6 +5276,9 @@
         font-size: 24px !important;
         line-height: 34px !important;
         color: #344767 !important;
+    }
+    .course-content{
+        margin-bottom: 0px;
     }
     /* bootcamp-course css end  */
     /* bootcamp css end  */

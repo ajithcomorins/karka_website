@@ -77,7 +77,7 @@
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
                                 <a class="d-block blur-shadow-image">
-                                    <img src="./assets/img/sateesh.jpg" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100" loading="lazy">
+                                    <img src="./assets/img/f-sateesh.jpg" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100" loading="lazy">
                                 </a>
                                 <div class="card-body text-center founder-img">
                                     <img src='./assets/img/link.png' class='float-start'/>
@@ -91,7 +91,7 @@
                         <div class="card mb-5 mb-lg-0">
                             <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
                                 <a class="d-block blur-shadow-image">
-                                    <img src="./assets/img/ramesh-1.jpg" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100" loading="lazy">
+                                    <img src="./assets/img/f-ramesh.jpg" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100" loading="lazy">
                                 </a>
                                 <div class="card-body text-center founder-img">
                                     <img src='./assets/img/link.png' class='float-start'/>

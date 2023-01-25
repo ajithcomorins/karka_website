@@ -203,12 +203,12 @@
           <div class="row mb-5 container">
             <div class="col-md-12 col-lg-12 text-start mb-5 mt-4 instructor-title">
               <h3 class="text-white z-index-1 position-relative">Know Your Instructors</h3>
-              <p class="text-white opacity-8 mb-0">Your instructors who are industry practitioners help you reach your full potential and achieve your goals. They provide guidance & support for your career, and they provide mentorship and insight whenever you need it. Know them now !</p>
+              <p class="text-white opacity-8 mb-0 px-lg-7">Your instructors who are industry practitioners help you reach your full potential and achieve your goals. They provide guidance & support for your career, and they provide mentorship and insight whenever you need it. Know them now !</p>
             </div>
           </div>
           <div class="row justify-content-center">
             <div class="col-lg-5 col-12">
-              <div class="card card-profile mt-4 ">
+              <div class="card card-profile mt-4 mx-lg-3">
                 <div class="row">
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
                     <a href="https://www.linkedin.com/in/ramesh-varghese/">
@@ -227,7 +227,7 @@
               </div>
             </div>
             <div class="col-lg-5 col-12">
-              <div class="card card-profile mt-lg-4 mt-6">
+              <div class="card card-profile mt-lg-4 mt-6 mx-lg-3">
                 <div class="row">
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
                     <a href="https://www.linkedin.com/in/ssateeshk/">
@@ -246,7 +246,7 @@
               </div>
             </div>
             <div class="col-lg-5 col-12 mt-lg-5 mt-md-5 mt-5 ">
-              <div class="card card-profile mt-lg-4 mt-4">
+              <div class="card card-profile mt-lg-4 mt-4 mx-lg-3">
                 <div class="row">
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
                     <a href="https://www.linkedin.com/in/sivanananchaperumal-moorthy-9b334a249/">
@@ -269,7 +269,7 @@
       </div>
       <!-- instrcutor section end  -->
       <!-- enroll process start -->
-      <!-- <div class="enroll-process container">
+      <div class="enroll-process container">
         <div class="">
             <h3 class="section-center__title text-center">Enrollment Process</h3>
         </div>
@@ -278,41 +278,69 @@
                 <span class="default-line" style="height: 1687px;z-index:-1"></span>
                 <span class="draw-line" style="height: 187.422px;z-index:-1"></span>
                 <li class="row first-row in-view" data-before="1">
-                    <div class="col-lg-6 col-md-6 col-sm-12 timeline_image-1  reset-padding"><img src="./assets/img/timeline-pic-1.png"></div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 timeline_image-1  reset-padding"><img src="./assets/img/enroll-1.png" class='w-lg-50 w-md-75'></div>
                     <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent px-5">
-                        <h2>Lorem ipsum dolor sit</h2>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
+                        <h2 class='pt-lg-7 pt-md-7'>Attend the orientation session</h2>
+                        <!-- <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p> -->
                     </div>
                 </li>
                 <li class="row hidden reversed-condent in-views px-3" data-before="2">
                   <div class="col-lg-6 col-md-6 col-sm-12 col-12  timeline_condent ">
-                      <h2>Lorem ipsum dolor sit</h2>
-                      <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
+                      <h2 class='pt-lg-7 pt-md-7'>Clear the selection process</h2>
+                      <!-- <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p> -->
                   </div>
-                  <div class="col-lg-6 col-md-6 col-sm-12 col-12 timeline_image-2 timeline-card-img"><img src="./assets/img/timeline-pic-2.png"></div>
+                  <div class="col-lg-6 col-md-6 col-sm-12 col-12 timeline_image-2 timeline-card-img"><img src="./assets/img/enroll-2.png" class='w-lg-50 w-md-75'></div>
                 </li>
                 <li class="row hidden" data-before="3">
-                  <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-1"><img src="./assets/img/timeline-pic-3.png"></div>
+                  <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-1"><img src="./assets/img/enroll-3.png" class='w-lg-50 w-md-75'></div>
                   <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent px-5">
-                      <h2>Lorem ipsum dolor sit</h2>
-                      <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
+                      <h2 class='pt-lg-7 pt-md-7'>Sign our ISA agreement</h2>
+                      <!-- <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p> -->
                   </div>
                 </li>
                 <li class="row hidden reversed-condent in-views px-3" data-before="4">
                   <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent ">
+                      <h2 class='pt-lg-7 pt-md-7'>Join the bootcamp paying nothing</h2>
+                      <!-- <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p> -->
+                  </div>
+                  <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-2 timeline-card-img"><img src="./assets/img/enroll-4.png" class='w-lg-50 w-md-75'></div>
+                </li>
+                <li class="row first-row in-view" data-before="5">
+                    <div class="col-lg-6 col-md-6 col-sm-12 timeline_image-1  reset-padding"><img src="./assets/img/enroll-5.png" class='w-lg-50 w-md-75'></div>
+                    <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent px-5">
+                        <h2 class='pt-lg-7 pt-md-7'>Get skilled through our bootcamp</h2>
+                        <!-- <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p> -->
+                    </div>
+                </li>
+                <li class="row hidden reversed-condent in-views px-3" data-before="6">
+                  <div class="col-lg-6 col-md-6 col-sm-12 col-12  timeline_condent ">
+                      <h2 class='pt-lg-7 pt-md-7'>Get placed for your skills</h2>
+                      <!-- <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p> -->
+                  </div>
+                  <div class="col-lg-6 col-md-6 col-sm-12 col-12 timeline_image-2 timeline-card-img"><img src="./assets/img/enroll-6.png" class='w-lg-50 w-md-75'></div>
+                </li>
+                <li class="row hidden" data-before="7">
+                  <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-1"><img src="./assets/img/enroll-7.png" class='w-lg-50 w-md-75'></div>
+                  <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent px-5">
+                      <h2 class='pt-lg-7 pt-md-7'>Pay us for bootcamp that got you job</h2>
+                      <!-- <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p> -->
+                  </div>
+                </li>
+                <!-- <li class="row hidden reversed-condent in-views px-3" data-before="8">
+                  <div class="col-lg-6 col-md-6 col-sm-12 timeline_condent ">
                       <h2>Lorem ipsum dolor sit</h2>
                       <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero</p>
                   </div>
-                  <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-2 timeline-card-img"><img src="./assets/img/timeline-pic-2.png"></div>
-                </li>
+                  <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-2 timeline-card-img"><img src="./assets/img/enroll-1.png"></div>
+                </li> -->
                 <div class="col-md-12 col-lg-12 col-sm-12 col timeline_button text-center ">
-                  <button type="button" class="click-mail" data-toggle="modal" data-target="#exampleModal-2">Let's Build <i class="fa fa-arrow-right ml-2" aria-hidden="true"></i></button>
+                  <button type="button" class="click-mail" data-toggle="modal" data-target="#exampleModal-2" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform'">APPLY   <i class="fa fa-arrow-right ml-2" aria-hidden="true"></i></button>
                 <div>
               </div>
             </div>
           </ul>
         </div>
-      </div> -->
+      </div>
       <!-- enroll process end  -->
       <!-- google review section start  -->
       <div class="overflow-hidden review-section">

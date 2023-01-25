@@ -1,6 +1,6 @@
-    scroll timeline
+    /* scroll timeline */
   .timeline {
-    padding-top: 140px !important;
+    padding-top: 0px !important;
     padding-bottom: 110px;
   }
   .timeline ul {
@@ -133,7 +133,7 @@
   }
   .timeline_condent h2 {
     font-family: 'Roboto' !important;
-    text-align: left !important;
+    text-align: center !important;
     font-size: 30px !important;
     letter-spacing: 0px !important;
     color: #6D416D !important;
@@ -156,7 +156,7 @@
     padding-left: 30px;
   }
   }
-  @media(min-width:4200px){
+  @media(min-width:420px){
     .timeline ul li.in-view {
       transition: 0.5s ease-in-out, background-color 0.2s ease-out, color 0.1s ease-out, border 0.1s ease-out;
       margin: 200px 0px !important;
@@ -175,7 +175,7 @@
   }
   .timeline_condent h2 {
     font-family: 'Roboto' !important;
-    text-align: left !important;
+    text-align: center !important;
     font-size: 30px !important;
     letter-spacing: 0px !important;
     color: #6D416D !important;
@@ -266,8 +266,8 @@
  }
  .timeline_image-2 img {
     margin: 0px !important;
-    max-width: 50%;
-    height: 180px;
+    max-width: 50% !important;
+    height: 180px !important;
   }
   .timeline_button button {
     border: none;
