@@ -176,7 +176,7 @@
                 <div class="post-content">
                   <h5>No Upfront Fee</h5>
                   <h4 class="post-title">UI/UX Development</h4>
-                  <p class="post-description">Mobile apps have transformed the way we live. Building a great well groomed mobile apps can lead the market.</p>
+                  <p class="post-description">UI/UX development is all about creating user interfaces and user experiences that are both effective and appealing.</p>
                   <a href="./bootcamp.php" class="read-more">More Details</a>
                 </div>
               </div>
