@@ -13,7 +13,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap" rel="stylesheet">
-    <!-- Nucleo Icons -->
+     <!-- Nucleo Icons -->
     <link href="assets/css/nucleo-icons.css" rel="stylesheet" />
     <link href="assets/css/nucleo-svg.css" rel="stylesheet" />
     <!-- Font Awesome Icons -->
@@ -24,8 +24,6 @@
     <link id="pagestyle" href="assets/css/material-kit-pro.css?v=3.0.3" rel="stylesheet" />
     <link id="pagestyle" href="assets/css/style.css" rel="stylesheet" />
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
     <!-- header section start -->
@@ -165,7 +163,7 @@
             </div>
         </div>
         <div class='bootcamp-top-'>
-            <div class="row m-0">
+            <div class="row m-0 flex-wrap-reverse">
                 <div class="col-lg-6 col-md-12 ms-md-0 flex-wrap flex-lg-nowrap order-md-1 order-lg-0 mt-md-2 mt-sm-2 mt-lg-0 mt-2">
                     <div class="cursor-pointer">
                     <div class="card card-background">

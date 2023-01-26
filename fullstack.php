@@ -36,7 +36,7 @@
     <section class="py-1 overflow-hidden">
         <!-- overview section start  -->
         <div class="" id='overview'>
-            <div class="pap-header container-100" style="background-image: url('assets/img/fullstack-img.png');" loading="lazy">
+            <div class="pap-header container-100" style="background-image: url('assets/img/fullstack-img.jpg');" loading="lazy">
                 <div class="row justify-content-center full-content container">
                     <div class="col-lg-8 col-sm-9 mx-auto">
                         <h6>No Upfront Fee</h6>
@@ -302,12 +302,12 @@
                     <div class="col-md-4 ms-auto my-auto">
                         <div class="cursor-pointer">
                             <div class="card card-background">
-                                <div class="full-background fee-background" style="background-image: url('./assets/img/fullstack-bootcamp.png')" loading="lazy"></div>
+                                <div class="full-background fee-background" style="background-image: url('./assets/img/f.png')" loading="lazy"></div>
                                 <div class="card-body pt-7 text-center fee-title">
                                     <p class="text-white text-uppercase">START WITH NO FEE</p>
                                     <h3 class="text-white">The best part of Karka is No Upfront Fees</h3>
                                     <p class="text-white opacity-8">You only pay for the bootcamp once you've secured a job placement. If for some reason you don't manage to get a job after completing the bootcamp, then it's completely free!</p>
-                                    <button type="button" class="btn btn-white btn-sm mt-3">Get Started</button>
+                                    <button type="button" class="btn btn-white btn-sm mt-3" onclick="window.location.href='./bootcamp.php'">Get Started</button>
                                 </div>
                             </div>
                         </div>

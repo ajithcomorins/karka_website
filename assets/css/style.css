@@ -482,10 +482,7 @@
         font-weight: 400;
         font-size: 20px !important;
         line-height: 30px;
-        color: #000 !important;
-    }
-    .fee-sections .nav-page i{
-        color: #000 !important;
+        /* color: #000 !important; */
     }
     .pap-header{
         padding: 0;
@@ -1070,6 +1067,7 @@
     .fee-background{
         background-position: 15% !important;
         padding: 210px 0px !important;
+        background-size: auto !important;
     }
     .fee-title p{
         margin-bottom: 17px !important;
@@ -1896,7 +1894,10 @@
         color: #7B809A;
     }
     .pap-concept {
-        margin-top: 340px !important;
+        margin-top: 50px !important;
+    }
+    .process-bottom {
+        margin-top: 300px !important;
     }
     .agree-step h5 {
         font-family: 'Roboto';
@@ -2654,6 +2655,9 @@
     }
      /* bootcamp css end  */
      /* fee_pap css start  */
+     /* .nav-page a{
+        color: #FFF !important;
+     } */
      .fee-section{
         margin-top: 20px;
     }
@@ -2745,7 +2749,10 @@
         color: #7B809A;
     }
     .pap-concept {
-        margin-top: 400px !important;
+        margin-top: 50px !important;
+    }
+    .process-bottom {
+        margin-top: 350px !important;
     }
     .agree-step h5 {
         font-family: 'Roboto';
@@ -3577,7 +3584,10 @@
         color: #7B809A;
     }
     .pap-concept {
-        margin-top: 400px !important;
+        margin-top: 100px !important;
+    }
+    .process-bottom {
+        margin-top: 350px !important;
     }
     .agree-step h5 {
         font-family: 'Roboto';

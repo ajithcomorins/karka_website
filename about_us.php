@@ -28,7 +28,7 @@
      <!-- header section start -->
      <header class='about-us'>
         <?php include 'include/header.php' ?>
-        <div class="pap-header" style="background-image: url('assets/img/about-us.png');" loading="lazy">
+        <div class="pap-header" style="background-image: url('assets/img/about-us.jpg');" loading="lazy">
             <div class='about-title container row'>
                 <div class='col-lg-8 mx-auto'>
                     <h2>We aim to democratise the technology education for all</h2>

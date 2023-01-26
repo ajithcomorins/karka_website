@@ -35,7 +35,7 @@
     <!-- section start  -->
     <section class='fee-section'>
         <div>
-            <img src='./assets/img/pap-0.png' class='w-100'/>
+            <img src='./assets/img/pap-0.jpg' class='w-100'/>
         </div>
       <div class="container p-0">
       <div class="row justify-content-center back-img mt-5">
@@ -72,7 +72,7 @@
           </div>
         </div>
         <div class='process-top'>
-            <div class="row m-0">
+            <div class="row m-0 flex-wrap-reverse">
             <div class="col-md-12 col-lg-6 ms-md-0">
                 <div class="cursor-pointer">
                 <div class="card card-background">
@@ -124,7 +124,7 @@
             </div>
         </div>
         <div class='process-bottom'>
-            <div class="row m-0 flex-wrap-reverse">
+            <div class="row m-0">
                 <div class="col-md-12 col-lg-6 ms-md-0">
                     <div class='row agree-bottom mt-5 mt-sm-5 mt-md-5 mt-lg-0 mt-md-0 mt-sm-0'>
                         <div class=' col-lg-1 col-md-1 col-sm-1 col-1'>
