@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
-  <link rel="icon" type="image/png" href="assets/img/karka-logos.png">
-  <title>Karka_Academy</title>
+  <link rel="apple-touch-icon" sizes="76x76" href="assets/img/karka-favicon-1.png">
+  <link rel="icon" type="image/png" href="assets/img/karka-favicon-1.png">
+  <title>Fullstack Course Karka Academy | Pay After Placement Program</title>
   <!--     Fonts and icons     -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -31,7 +31,7 @@
     <!-- section start  -->
     <section class="py-1 overflow-hidden">
         <!-- overview section start  -->
-        <div class="" id='overview'>
+        <div class="">
             <div class="pap-header container-100" style="background-image: url('assets/img/fullstack-img.jpg');" loading="lazy">
                 <div class="row justify-content-center full-content container">
                     <div class="col-lg-8 col-sm-9 mx-auto">
@@ -40,12 +40,12 @@
                         <p><b>A 5 month, full-time(6 hrs per day), learning lab (classroom) based</b> bootcamp that land you as a full stack Developer.</p>
                         <p>Earn as high as    4 lakhs per year or even more</p>
                         <h6>Next batch starts mid Jan 2023</h6>
-                        <button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform'">Apply Now</button>
+                        <button onclick="window.open('https://karka.academy/apply/', '_blank')">Apply Now</button>
                     </div>
                 </div>
             </div>
         </div>
-        <div class='container'>
+        <div id="overview" class='container'>
             <div class='header container' id='header'>
                 <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n4 overflow-hidden d-none d-sm-none d-md-block d-lg-block">
                     <div class="container position-relative p-0">
@@ -303,7 +303,7 @@
                                     <p class="text-white text-uppercase">START WITH NO FEE</p>
                                     <h3 class="text-white">The best part of Karka is No Upfront Fees</h3>
                                     <p class="text-white opacity-8">You only pay for the bootcamp once you've secured a job placement. If for some reason you don't manage to get a job after completing the bootcamp, then it's completely free!</p>
-                                    <button type="button" class="btn btn-white btn-sm mt-3" onclick="window.location.href='./bootcamp.php'">Get Started</button>
+                                    <button type="button" class="btn btn-white btn-sm mt-3" onclick="window.location.href='./courses.php'">Get Started</button>
                                 </div>
                             </div>
                         </div>
@@ -612,7 +612,7 @@
                                             </div>
                                             <div class="ps-2 col-lg-8">
                                                 <h4 class="text-sm p-3">Apply through Karka</h4>
-                                                <button class='admission-apply-now ms-3' onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform'">Apply Now</button>
+                                                <button class='admission-apply-now ms-3' onclick="window.location.href='https://karka.academy/apply/'">Apply Now</button>
                                             </div>
                                         </div>
                                         <div class="justify-content-start d-flex px-2 py-1 mb-4 row">

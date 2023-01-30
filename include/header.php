@@ -5,7 +5,7 @@
         <img src='assets/img/karka-logos.png' alt='' class='black-logo'>
         <img src='assets/img/karka-white.png' class='white-logo'/>
       </a>
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform" class="btn btn-sm apply-now mb-0 ms-auto d-lg-none d-block">Apply Now</a>
+      <a href="https://karka.academy/apply/" class="btn btn-sm apply-now mb-0 ms-auto d-lg-none d-block">Apply Now</a>
       <button class="navbar-toggler shadow-none ms-2 collapsed btn-bg" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon">
           <span class="navbar-toggler-bar bar1 text-dark"></span>
@@ -22,7 +22,7 @@
             </a>
           </li>
           <li class="nav-item dropdown list-mar">
-            <a href='bootcamp.php' class="nav-link ps-2 d-flex cursor-pointer align-items-center" role="button" >
+            <a href='courses.php' class="nav-link ps-2 d-flex cursor-pointer align-items-center" role="button" >
               <i class="material-icons opacity-6 me-2">dashboard</i>
                 Courses
             </a>
@@ -30,17 +30,17 @@
           <li class="nav-item dropdown list-mar">
             <a href='fees_pap.php' class="nav-link ps-2 d-flex cursor-pointer align-items-center" role="button">
             <i class="material-icons opacity-6 me-2">dashboard</i>
-              Fees & PAP
+              Fees & PAPP
             </a>
           </li>
           <li class="nav-item dropdown list-mar">
             <a href='fullstack.php' class="nav-link ps-2 d-flex cursor-pointer align-items-center" role="button">
             <i class="material-icons opacity-6 me-2">dashboard</i>
-              Blog
+              Fullstack
             </a>
           </li>
           <li class="nav-item dropdown list-mar">
-            <a href='about_us.php' class="nav-link ps-2 d-flex cursor-pointer align-items-center" role="button">
+            <a href='about.php' class="nav-link ps-2 d-flex cursor-pointer align-items-center" role="button">
             <i class="material-icons opacity-6 me-2">dashboard</i>
               About Us
             </a>
@@ -48,7 +48,7 @@
         </ul>
         <ul class="navbar-nav d-lg-block d-none">
           <li class="nav-item">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform" class="btn btn-sm  apply-now mb-0 me-1" target='_blank'>Apply Now</a>
+            <a href="https://karka.academy/apply/" class="btn btn-sm  apply-now mb-0 me-1" target='_blank'>Apply Now</a>
           </li>
         </ul>
       </div>

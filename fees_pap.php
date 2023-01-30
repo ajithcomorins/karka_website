@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
-  <link rel="icon" type="image/png" href="assets/img/karka-logos.png">
-  <title>Karka_Academy</title>  
+  <link rel="apple-touch-icon" sizes="76x76" href="assets/img/karka-favicon-1.png">
+  <link rel="icon" type="image/png" href="assets/img/karka-favicon-1.png">
+  <title>Karka Academy | Pay After Placement Program</title>
   <!-- fontfamily cdn link -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -52,7 +52,7 @@
                                 <p class="lead text-white mb-5">
                                     PAP is a payment arrangement implemented through an Income Sharing Agreement(ISA) which is a legal contract between you and Karka Academy. This makes a result based skill development. If you do not get placed within 6 months of completion of the program, you do not need to pay us the fee.
                                 </p>
-                                <button type="button" class="what-apply" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform'">Apply Now</button>
+                                <button type="button" class="what-apply" onclick="window.open('https://karka.academy/apply/', '_blank')">Apply Now</button>
                             </div>
                         </div>
                         <div class="col-lg-5 position-absolute start-50 end-0 me-n12 mx-7">

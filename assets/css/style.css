@@ -12,10 +12,21 @@
 .btn-bg{
     background-color: #6D416D !important;
 }
-.navbar-toggler .navbar-toggler-icon .navbar-toggler-bar.bar1 {
+.navbar-toggler.collapsed .navbar-toggler-icon .navbar-toggler-bar.bar1 {
     margin-top: 5px !important;
 }
+.navbar-toggler[aria-expanded="true"] .navbar-toggler-bar.bar1{
+    margin-top: 8px;
+    margin-left: 6px;
+}
+.navbar-toggler.collapsed .navbar-toggler-icon .navbar-toggler-bar.bar3 {
+    margin-top:4px !important;
+    margin-left:4px;
+}
 .navbar-toggler .navbar-toggler-icon .navbar-toggler-bar.bar3 {
+    margin-left:6px;
+}
+.navbar-toggler.collapsed .navbar-toggler-icon .navbar-toggler-bar.bar3 {
     margin-top: 7px !important;
 }
 /* nav button view end css  */
@@ -1432,7 +1443,7 @@
 
 /* moblie view css start  */
 
-@media (min-width: 360px) {
+@media (min-width: 320px) {
     .apply-now {
         padding: 5px !important;
     }
@@ -1593,8 +1604,9 @@
         color: #6D416D;
     }
     .owl-dots{
-        padding: 40px 0px !important;
+        padding: 0 0 25px 0px !important;
         text-align: center;
+        margin-top: -25px;
     }
     .owl-dot {
         background: #7B809A !important;
@@ -2282,6 +2294,7 @@
         line-height: 20px !important;
         text-align: center !important;
         color: #FFFFFF !important;
+        margin-top:20px;
     }
      /* footer css end  */
 }

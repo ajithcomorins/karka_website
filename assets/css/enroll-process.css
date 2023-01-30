@@ -557,7 +557,7 @@ margin: 30px 0px !important;
   width: 100%;
   max-width: 65%;
 }
-@media (min-width: 360px) {
+@media (min-width: 320px) {
   body.index-page .site-menu-toggle .icon-menu-bar {
     width: 43px;
     height: 40px;

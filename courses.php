@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
-    <link rel="icon" type="image/png" href="assets/img/karka-logos.png">
-    <title>Karka_Academy</title>
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/karka-favicon-1.png">
+    <link rel="icon" type="image/png" href="assets/img/karka-favicon-1.png">
+    <title>Courses Karka Academy | Pay After Placement Program </title>
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -28,7 +28,7 @@
     <header class='bootcamp'>
         <?php include 'include/header.php' ?>
         <div class='bootcamp-title'>
-        <h2>KARKA’s BOOTCAMP</h2>
+        <h2>KARKA's BOOTCAMP</h2>
         </div>
     </header>
     <!-- heaader section end -->
@@ -45,7 +45,7 @@
         <div class='bootcamp-top-1'>
             <div class="row m-0">
                 <div class="col-lg-6 col-md-12 ms-md-0 bootcamp-content">
-                    <div class='col-lg-11 agree-step'>
+                    <div class='col-lg-11 agree-step p-0'>
                         <h2>FULL STACK WEB DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>5 Month | Full time | No upfront fee</h5>
@@ -91,13 +91,13 @@
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a Mobile App Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
-                            <a href='./fullstack.php'><button>Know more</button></a>
+                            <a href='#'><button>Know more</button></a>
                         </div>
                     </div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 ms-md-0 mt-md-2 mt-sm-2 mt-lg-0 mt-2 bootcamp-content bootcamp-details px-lg-4">
-                    <div class='col-lg-11 agree-step order-1'>
+                    <div class='col-lg-11 agree-step order-1 p-0'>
                         <h2>MOBILE APP DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>4 Month | Full time | No upfront fee</h5>
@@ -124,7 +124,7 @@
         <div class='bootcamp-top-1'>
             <div class="row m-0">
                 <div class="col-lg-6 col-md-12 ms-md-0 mt-md-5 mt-sm-5 mt-lg-0 mt-5  bootcamp-content">
-                    <div class='col-lg-11 agree-step'>
+                    <div class='col-lg-11 agree-step p-0'>
                         <h2>FRONTEND WEB DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>3 Month | Full time | No upfront fee</h5>
@@ -153,7 +153,7 @@
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a Frontend Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
-                            <a href='./fullstack.php'><button>Know more</button></a>
+                            <a href='#'><button>Know more</button></a>
                         </div>
                     </div>
                     </div>
@@ -169,13 +169,13 @@
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a UI/UX Developer</h3>
                             <p>Our Full Stack Web Developer course will help you become a well-rounded web developer, able to build complex web applications from start to finish.So what are you waiting for? Get started today and become a Full stack Web Developer!</p>
-                            <a href='./fullstack.php'><button>Know more</button></a>
+                            <a href='#'><button>Know more</button></a>
                         </div>
                     </div>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12 ms-md-0  bootcamp-content mt-md-2 mt-sm-2 mt-lg-0 mt-2 d-flex d-lg-block flex-wrap-reverse bootcamp-details px-lg-4">
-                    <div class='col-lg-11 agree-step order-1'>
+                    <div class='col-lg-11 agree-step order-1 p-0'>
                         <h2>UI/UX DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
                         <h5>4 Month | Full time | No upfront fee</h5>

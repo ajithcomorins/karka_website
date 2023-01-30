@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
-  <link rel="icon" type="image/png" href="assets/img/karka-logos.png">
-  <title>Karka_Academy</title>
+  <link rel="apple-touch-icon" sizes="76x76" href="assets/img/karka-favicon-1.png">
+  <link rel="icon" type="image/png" href="assets/img/karka-favicon-1.png">
+  <title>Karka Academy | Pay After Placement Program</title>
   <!--     Fonts and icons     -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
   <!-- Nucleo Icons -->
@@ -25,7 +25,7 @@
   <!-- enroll-process css files  -->
   <link id="pagestyle" href="assets/css/enroll-theme.css" rel="stylesheet" /> 
   <link id="pagestyle" href="assets/css/enroll-process.css" rel="stylesheet" />
-
+  
 
 </head>
   <body>
@@ -45,7 +45,7 @@
                           <p>100% Guaranteed developer jobs in top IT companies as high as <b class='rs-laks'>Rs 4 lakhs per year or even more</b></p>
                         </div>
                         <div class="buttons">
-                          <button type="button" class="btn apply-now mt-4" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform'"><a class='text-decoration-none' href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform' >Apply now</a></button>
+                          <button type="button" class="btn apply-now mt-4"><a class='text-decoration-none' href='https://karka.academy/apply/' >Apply now</a></button>
                           <button type="button" class="btn read-more mt-4" onclick="window.location.href='./fees_pap.php'">READ MORE</button>
                         </div>
                       </div>
@@ -67,8 +67,10 @@
                           <p>100% Guaranteed developer jobs in top IT companies as high as <b class='rs-laks'>Rs 4 lakhs per year or even more</b></p>
                         </div>
                         <div class="buttons">
-                          <button type="button" class="btn apply-now mt-4"><a class='text-decoration-none' href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform' >Apply now</a></button>
-                          <button type="button" class="btn read-more mt-4">READ MORE</button>
+                          <button type="button" class="btn apply-now mt-4">
+                            <a target="_blank" class='text-decoration-none' href='https://karka.academy/apply/' >Apply now</a>
+                          </button>
+                          <button type="button" class="btn read-more mt-4" onclick='window.location.href = "./fees_pap.php"'>READ MORE</button>
                         </div>
                       </div>
                       <div class="col-lg-6">
@@ -79,14 +81,14 @@
                 </div>
               </div>
             </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+            <!-- <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="visually-hidden">Previous</span>
             </button>
             <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="visually-hidden">Next</span>
-            </button>
+            </button> -->
           </div>
       </header>
     <!-- heaader section end -->
@@ -148,7 +150,7 @@
                   <h5>No Upfront Fee</h5>
                   <h4 class="post-title">Mobile App Development</h4>
                   <p class="post-description">Mobile apps have transformed the way we live. Building a great well groomed mobile apps can lead the market.</p>
-                  <a href="./bootcamp.php" class="read-more">More Details</a>
+                  <a href="./courses.php" class="read-more">More Details</a>
                 </div>
               </div>
               </div>
@@ -161,7 +163,7 @@
                   <h5>No Upfront Fee</h5>
                   <h4 class="post-title">Frontend Web Development</h4>
                   <p class="post-description">Combining design, technology, and programming to code a website's appearance.</p>
-                  <a href="./bootcamp.php" class="read-more">More Details</a>
+                  <a href="./courses.php" class="read-more">More Details</a>
                 </div>
               </div>
               </div>
@@ -174,13 +176,13 @@
                   <h5>No Upfront Fee</h5>
                   <h4 class="post-title">UI/UX Development</h4>
                   <p class="post-description">UI/UX development is all about creating user interfaces and user experiences that are both effective and appealing.</p>
-                  <a href="./bootcamp.php" class="read-more">More Details</a>
+                  <a href="./courses.php" class="read-more">More Details</a>
                 </div>
               </div>
               </div>
             </div>
             <div class='all-course text-center'>
-              <button type="button" class="btn all-courses mt-4 owl-item icon-move-right" onclick="window.location.href='./bootcamp.php'">All Courses <i class="fas fa-arrow-right text-xs ms-1"></i></button>
+              <button type="button" class="btn all-courses mt-4 owl-item icon-move-right" onclick="window.location.href='./courses.php'">All Courses <i class="fas fa-arrow-right text-xs ms-1"></i></button>
             </div>
           </div>
         </div>
@@ -197,7 +199,7 @@
       <!-- instructor section start  -->
       <div class="pb-5 position-relative instructor">
         <div class="container">
-          <div class="row mb-5 container">
+          <div class="row mb-5">
             <div class="col-md-12 col-lg-12 text-start mb-5 mt-4 instructor-title">
               <h3 class="text-white z-index-1 position-relative">Know Your Instructors</h3>
               <p class="text-white opacity-8 mb-0 px-lg-7">Your instructors who are industry practitioners help you reach your full potential and achieve your goals. They provide guidance & support for your career, and they provide mentorship and insight whenever you need it. Know them now !</p>
@@ -255,7 +257,7 @@
                   <div class="col-lg-6 col-md-8 col-12">
                     <div class="card-body p-0 text-center">
                       <h5 class="instructor-img">Sivanancha Perumal</h5>
-                      <h6 class="text-info">8+ Years</h6>
+                      <h6 class="text-info">9+ Years</h6>
                     </div>
                   </div>
                 </div>
@@ -331,7 +333,7 @@
                   <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-2 timeline-card-img"><img src="./assets/img/enroll-1.png"></div>
                 </li> -->
                 <div class="col-md-12 col-lg-12 col-sm-12 col timeline_button text-center ">
-                  <button type="button" class="click-mail" data-toggle="modal" data-target="#exampleModal-2" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSe4phCAjzTkmmmrnTVQCGNw7ciet2pvrSROqz3a6QufHbBrKA/viewform'">APPLY   <i class="fa fa-arrow-right ml-2" aria-hidden="true"></i></button>
+                  <button type="button" class="click-mail" data-toggle="modal" data-target="#exampleModal-2" onclick="window.location.href='https://karka.academy/apply/'">APPLY   <i class="fa fa-arrow-right ml-2" aria-hidden="true"></i></button>
                 <div>
               </div>
             </div>
@@ -343,7 +345,7 @@
       <div class="overflow-hidden review-section">
         <img src="assets/img/pattern-lines.svg" alt="pattern-lines" class="position-absolute w-100 h-100 opacity-6">
         <div class="container mb-5">
-          <div class="row container">
+          <div class="row">
             <div class="col-md-12 col-lg-12 text-center review-title">
               <h3 class="text-white">What our students say about us!</h3>
               <p class="text-white">Find out what people are saying about their experience with Karka Academy. Read testimonials from satisfied readers who have benefited from us.</p>
@@ -377,7 +379,7 @@
           </div>
         </div>
         <div class='text-center more-review'>
-          <a href='https://www.google.com/search?gs_ssp=eJwFwTEOgCAMAMC4mrg6szjTpoKEJ_iLYsEBjQmQiL_3bpz0qREvV1uvRWDwC3QKsCY0IhGYyW4eupgYiBDQBgdGYJ8zl8yqPqm9XKLigyXe3w-PNhgz&q=karka+software+academy&oq=karka&aqs=chrome.1.69i57j46i39i175i199j46i433i512j0i512j46i512j69i60l3.2843j0j7&sourceid=chrome&ie=UTF-8' class='text-decoration-none icon-move-right'>more review</a><i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
+          <a href='https://www.google.com/search?q=karka+software+academy&oq=karka+&aqs=chrome.0.35i39i355j46i39i175i199j69i57j69i60l5.3688j0j9&sourceid=chrome&ie=UTF-8#lrd=0x3b04f15dde0aa367:0xd5eb331016b805d0,1,,,,' target="_blank" class='text-decoration-none icon-move-right'>more review</a><i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
         </div>
       </div>
       
@@ -412,6 +414,7 @@
   <!-- Owl Carousel -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
   <!-- enroll process js  -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <script src="./assets/js/main.js"></script>
 
   <script type="text/javascript">
