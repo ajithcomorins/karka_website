@@ -464,8 +464,7 @@
       <?php include 'include/footer.php' ?>
     <!-- footer section end  -->
   </body>
-  <!-- main script js file  -->
-  <script src="./assets/js/main.js"></script>
+  
    <!--   Core JS Files   -->
    <script src="assets/js/core/popper.min.js" type="text/javascript"></script>
   <script src="assets/js/core/bootstrap.min.js" type="text/javascript"></script>
@@ -491,6 +490,8 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
   <!-- enroll process js  -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- main script js file  -->
+  <script src="./assets/js/main.js"></script>
    <!-- nav active class cdn link  -->
   <script type="text/javascript">
     var $owl = $('.owl-carousel');
