@@ -34,7 +34,7 @@
             <img src='./assets/img/pap-0.png' class='w-100'/>
         </div>
       <div class="container p-0">
-      <div class="row justify-content-center back-img mt-5">
+        <div class="row justify-content-center back-img mt-5">
                 <div class="col-lg-8 col-md-10 text-center mx-auto-5 mt pap-content container">
                     <h2 class="">KARKA’S</h2>
                     <h4>Pay After Placement Program</h4>

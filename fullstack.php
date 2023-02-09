@@ -23,6 +23,7 @@
   <link id="pagestyle" href="assets/css/style.css" rel="stylesheet" />
 </head>
 <body>
+<?php $activePage = basename($_SERVER['PHP_SELF'], ".php");?>
     <!-- header section start  -->
     <header class='fee-sections'>
         <?php include 'include/header.php' ?>
@@ -58,7 +59,7 @@
                                     </button>
                                     <div class="collapse navbar-collapse d-sm-none d-md-block d-lg-block" id="navbarNavAltMarkup topheader">
                                         <div class="full-nav d-flex justify-content-between w-100">
-                                            <a class="nav-link active" aria-current="page" href="#overview">Overview</a>
+                                            <a href="#overview" class="nav-link <?= ($activePage == '#overview') ? 'active':''; ?>">Overview</a>
                                             <a class="nav-link" href="#placement">Placement</a>
                                             <a class="nav-link" href="#fee">Fee</a>
                                             <a class="nav-link" href="#benifit">Benefits</a>
