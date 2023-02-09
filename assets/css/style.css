@@ -47,6 +47,12 @@
 .container{
     max-width: 95% !important;
 }
+/* .nav-link.active{
+    color: red !important;
+} */
+.nav-page li a.active{
+    color: #344767 !important;
+}
 /* nav button view start css  */
  /* @media (max-width: 1200px) { */     
     .btn-bg{
@@ -140,7 +146,7 @@
         line-height: 35px !important;
         color: #344767 !important;
     }
-    .section-karka .rs{
+    .rs{
         color: #ED4814;
     }
     .read-more{
@@ -444,6 +450,31 @@
         color: #FFFFFF;
     }
     /* review css end  */
+    /* company-tab css start  */
+    .company-tab{
+        background: #FFF;
+        border-radius: 20px;
+    }
+    .company-tab h1{
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 47px;
+        color: #344767;
+        text-transform: none;
+    }
+    .px-104{
+        padding-left: 6.5rem!important;
+        padding-right: 6.5rem!important;
+    }
+    .p-16 {
+        padding: 1rem!important;
+    }
+    .company-tab img{
+        padding-bottom: 32px;
+    }
+    /* company-tab css end  */
     /* main section css end  */
     /* footer css start  */
     .footer-section{
@@ -500,8 +531,8 @@
         position: relative;
         overflow: hidden;
         align-items: center;
-        background-size: cover;
-        background-position: 50%;
+        height: 97vh;
+        background-size: 100% 100%;
     }
     .back-img{
         padding-bottom: 160px;
@@ -788,7 +819,7 @@
         font-weight: 700;
         font-size: 24px;
         line-height: 34px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content h2{
         margin-bottom: 18px;
@@ -797,7 +828,7 @@
         font-weight: 600;
         font-size: 48px;
         line-height: 58px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content p{
         margin-bottom: 10px;
@@ -806,7 +837,7 @@
         font-weight: 400;
         font-size: 24px;
         line-height: 34px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content button{
         padding: 8px 16px;
@@ -824,12 +855,13 @@
         color: #FFFFFF;
     }
     .fullstack{
-        background: #FFFFFF;
+        background: #876187;
         box-shadow: 0px 2px 6px rgba(151, 172, 198, 0.25);
         border-radius: 10px;
     }
     .fullstack-nav{
         box-shadow: none !important;
+        background: #876187 !important;
     }
     .full-nav a{
         padding: 47px 0px !important;
@@ -838,7 +870,7 @@
         font-weight: 400 !important;
         font-size: 20px !important;
         line-height: 30px !important;
-        color: #344767 !important;
+        color: #FFF !important;
     }
     /* header css end  */
     /* overview css start  */
@@ -1671,6 +1703,29 @@
     .instructor-img img{
         width: 75% !important;
     }
+     .company-tab{
+        background: #FFF;
+        border-radius: 20px;
+    }
+    .company-tab h1{
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: 36px;
+        color: #344767;
+        text-transform: none;
+    }
+    .px-104{
+        padding-left: 1.5rem!important;
+        padding-right: 1.5rem!important;
+    }
+    .p-16 {
+        padding: 1rem!important;
+    }
+    .company-tab img{
+        padding-bottom: 32px;
+    }
     .review-title h3{
         margin-top: 25px;
         margin-bottom: 30px;
@@ -1943,7 +1998,7 @@
         font-weight: 700;
         font-size: 24px;
         line-height: 34px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content h2 {
         margin-bottom: 16px;
@@ -1952,7 +2007,7 @@
         font-weight: 600;
         font-size: 36px;
         line-height: 46px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content p {
         margin-bottom: 10px;
@@ -1961,7 +2016,7 @@
         font-weight: 400;
         font-size: 20px;
         line-height: 30px;
-        color: #FFFFFF;
+        color: #000;
     } 
     .full-content button {
         padding: 8px 16px;
@@ -2799,7 +2854,7 @@
         font-weight: 700;
         font-size: 24px;
         line-height: 34px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content h2 {
         margin-bottom: 16px;
@@ -2808,7 +2863,7 @@
         font-weight: 600;
         font-size: 36px;
         line-height: 46px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content p {
         margin-bottom: 10px;
@@ -2817,7 +2872,7 @@
         font-weight: 400;
         font-size: 20px;
         line-height: 30px;
-        color: #FFFFFF;
+        color: #000;
     } 
     .full-content button {
         padding: 8px 16px;
@@ -3634,7 +3689,7 @@
         font-weight: 700;
         font-size: 24px;
         line-height: 34px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content h2 {
         margin-bottom: 16px;
@@ -3643,7 +3698,7 @@
         font-weight: 600;
         font-size: 39px;
         line-height: 49px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content p {
         margin-bottom: 10px;
@@ -3652,7 +3707,7 @@
         font-weight: 400;
         font-size: 22px;
         line-height: 32px;
-        color: #FFFFFF;
+        color: #000;
     } 
     .full-content button {
         padding: 8px 16px;
@@ -4332,8 +4387,8 @@
         position: relative;
         overflow: hidden;
         align-items: center;
-        background-size: cover;
-        background-position: 60%;
+        height: 96vh;
+        background-size: 100% 100%;
     }
     .pap-concept{
         margin-top: 400px !important;
@@ -4461,7 +4516,7 @@
         font-weight: 700;
         font-size: 24px;
         line-height: 34px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content h2 {
         margin-bottom: 15px;
@@ -4470,7 +4525,7 @@
         font-weight: 600;
         font-size: 42px;
         line-height: 52px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content p {
         margin-bottom: 10px;
@@ -4479,7 +4534,7 @@
         font-weight: 400 !important;
         font-size: 24px;
         line-height: 34px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content button {
         padding: 8px 20px;
@@ -4503,7 +4558,7 @@
         font-weight: 400 !important;
         font-size: 15px !important;
         line-height: 25px !important;
-        color: #344767 !important;
+        color: #FFF !important;
     }
     .header.sticky-element {
         position: fixed;
@@ -4973,10 +5028,11 @@
     /* main section css end  */
     /* footer css start  */
     .footer-section{
-        padding-top: 80px !important;
-        padding-bottom: 30px !important;
+        padding-top: 25px !important;
+        padding-bottom: 10px !important;
     }
     footer p{
+        margin: 25px 0px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 300;
@@ -5029,8 +5085,8 @@
         position: relative;
         overflow: hidden;
         align-items: center;
-        background-size: cover;
-        background-position: 50%;
+        height: 96vh;
+        background-size: 100% 100%;
     }
     .back-img{
         padding-bottom: 160px;
@@ -5317,7 +5373,7 @@
         font-weight: 700;
         font-size: 24px;
         line-height: 34px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content h2{
         margin-bottom: 18px;
@@ -5326,7 +5382,7 @@
         font-weight: 600;
         font-size: 48px;
         line-height: 58px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content p{
         margin-bottom: 10px;
@@ -5335,7 +5391,7 @@
         font-weight: 400;
         font-size: 24px;
         line-height: 34px;
-        color: #FFFFFF;
+        color: #000;
     }
     .full-content button{
         padding: 8px 16px;
@@ -5353,12 +5409,13 @@
         color: #FFFFFF;
     }
     .fullstack{
-        background: #FFFFFF;
+        background: #876187;
         box-shadow: 0px 2px 6px rgba(151, 172, 198, 0.25);
         border-radius: 10px;
     }
     .fullstack-nav{
         box-shadow: none !important;
+        background: #876187 !important;
     }
     .full-nav a{
         padding: 47px 0px !important;
@@ -5367,7 +5424,7 @@
         font-weight: 400 !important;
         font-size: 20px !important;
         line-height: 30px !important;
-        color: #344767 !important;
+        color: #FFF !important;
     }
     /* header css end  */
     /* overview css start  */
@@ -5376,7 +5433,7 @@
     .header.sticky-element{
         position: fixed;
         width:100%;
-        top: 25px;
+        top: 4px;
         z-index: 999;
         animation: smoothScroll 1s forwards;
         max-width: 92% !important;
