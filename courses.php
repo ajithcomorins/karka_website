@@ -28,7 +28,7 @@
     <header class='bootcamp'>
         <?php include 'include/header.php' ?>
         <div class='bootcamp-title'>
-        <h2>KARKA's BOOTCAMP</h2>
+            <img src='./assets/img/bootcamp-bg.png' class='w-100'/>
         </div>
     </header>
     <!-- heaader section end -->
@@ -48,14 +48,14 @@
                     <div class='col-lg-11 agree-step p-0'>
                         <h2>FULL STACK WEB DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
-                        <h5>5 Month | Full time | No upfront fee</h5>
+                        <h5>4 Month | Full time | No upfront fee</h5>
                     </div>
                     <div class='row bootcamp-bottom m-0'>
                         <div class='col-lg-1 col-md-1 col-sm-1 col-1 p-0'>
                             <img src='./assets/img/business-time.png' />
                         </div>
                         <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
-                            <h5>Next batch starts on mid Jan 2023</h5>
+                            <h5>Next batch starts on mid Feb 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom m-0'>
@@ -63,7 +63,7 @@
                             <img src='./assets/img/walk.png' />
                         </div>
                         <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
-                            <h5>Guranteed job as high as 4 LPA or above</h5>
+                            <h5>Guranteed job as high as 3 LPA or above</h5>
                         </div>
                     </div>
                 </div>
@@ -107,7 +107,7 @@
                             <img src='./assets/img/business-time.png' />
                         </div>
                         <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
-                            <h5>Next batch starts on mid Jan 2023</h5>
+                            <h5>Next batch starts on mid Feb 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom m-0'>
@@ -115,7 +115,7 @@
                             <img src='./assets/img/walk.png' />
                         </div>
                         <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
-                            <h5>Guranteed job as high as 4 LPA or above</h5>
+                            <h5>Guranteed job as high as 3 LPA or above</h5>
                         </div>
                     </div>
                 </div>
@@ -134,7 +134,7 @@
                             <img src='./assets/img/business-time.png' />
                         </div>
                         <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
-                            <h5>Next batch starts on mid Jan 2023</h5>
+                            <h5>Next batch starts on mid Feb 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom m-0'>
@@ -142,7 +142,7 @@
                             <img src='./assets/img/walk.png' />
                         </div>
                         <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
-                            <h5>Guranteed job as high as 4 LPA or above</h5>
+                            <h5>Guranteed job as high as 3 LPA or above</h5>
                         </div>
                     </div>
                 </div>
@@ -185,7 +185,7 @@
                             <img src='./assets/img/business-time.png' />
                         </div>
                         <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
-                            <h5>Next batch starts on mid Jan 2023</h5>
+                            <h5>Next batch starts on mid Feb 2023</h5>
                         </div>
                     </div>
                     <div class='row bootcamp-bottom m-0'>
@@ -193,7 +193,7 @@
                             <img src='./assets/img/walk.png' />
                         </div>
                         <div class='col-lg-11 col-md-11 col-sm-11 col-11 bootcamp-step'>
-                            <h5>Guranteed job as high as 4 LPA or above</h5>
+                            <h5>Guranteed job as high as 3 LPA or above</h5>
                         </div>
                     </div>
                 </div>
