@@ -356,7 +356,7 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                         <div>
-                                                            <img src="./assets/img/karka_icon.png" class="avatar avatar-sm rounded-circle me-2">
+                                                            <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
                                                         </div>
                                                         <div class="my-auto">
                                                             <h6 class="mb-0 ">Upfront fee</h6>
@@ -382,7 +382,7 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka_icon.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
                                                     </div>
                                                     <div class="my-auto">
                                                         <h6 class="mb-0 ">Fee if unemployed</h6>
@@ -408,7 +408,7 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka_icon.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
                                                     </div>
                                                     <div class="my-auto">
                                                         <h6 class="mb-0 ">Time investment</h6>
@@ -434,7 +434,7 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka_icon.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
                                                     </div>
                                                     <div class="my-auto">
                                                         <h6 class="mb-0 ">Placement</h6>
@@ -459,7 +459,7 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka_icon.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
                                                     </div>
                                                     <div class="my-auto">
                                                         <h6 class="mb-0 ">Mentor Qualifications</h6>
@@ -484,7 +484,7 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka_icon.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
                                                     </div>
                                                     <div class="my-auto">
                                                         <h6 class="mb-0 ">Career Impact</h6>
@@ -509,7 +509,7 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka_icon.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
                                                     </div>
                                                     <div class="my-auto">
                                                         <h6 class="mb-0 ">Skill Development</h6>
@@ -534,7 +534,7 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka_icon.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
                                                     </div>
                                                     <div class="my-auto">
                                                         <h6 class="mb-0 ">Curriculum</h6>
@@ -559,7 +559,7 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka_icon.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
                                                     </div>
                                                     <div class="my-auto">
                                                         <h6 class="mb-0 ">Level of specialization</h6>
