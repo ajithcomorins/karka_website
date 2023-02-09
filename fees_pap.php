@@ -31,7 +31,7 @@
     <!-- section start  -->
     <section class='fee-section'>
         <div>
-            <img src='./assets/img/pap-0.jpg' class='w-100'/>
+            <img src='./assets/img/pap-0.png' class='w-100'/>
         </div>
       <div class="container p-0">
       <div class="row justify-content-center back-img mt-5">
