@@ -42,10 +42,11 @@
                         <h2 class="">KARKA<br/><span class='academy-font'><h3>ACADEMY</h3></span></h2>
                         <div class='content-para'>
                           <p class="lead">At <span class='rs'>Rs.0</span> upfront fee, become an Industry Ready Junior Full Stack Developer</p>
-                          <p>100% Guaranteed developer jobs in top IT companies as high as <b class='rs-laks'>Rs 4 lakhs per year or even more</b></p>
+                          <p>100% Guaranteed developer jobs in top IT companies as high as <b class='rs-laks'>Rs 3 lakhs per year or even more</b></p>
                         </div>
                         <div class="buttons">
-                          <button type="button" class="btn apply-now mt-4"><a class='text-decoration-none' href='https://karka.academy/apply/' >Apply now</a></button>
+                          <button type="button" class="btn apply-now mt-4">
+                            <a class='text-decoration-none' href='https://karka.academy/apply/' >Apply now</a></button>
                           <button type="button" class="btn read-more mt-4" onclick="window.location.href='./fees_pap.php'">READ MORE</button>
                         </div>
                       </div>
@@ -64,7 +65,7 @@
                         <h2 class="">KARKA<br/><span class='academy-font'><h3>ACADEMY</h3></span></h2>
                         <div class='content-para'>
                           <p class="lead">At <span class='rs'>Rs.0</span> upfront fee, become an Industry Ready Junior Full Stack Developer</p>
-                          <p>100% Guaranteed developer jobs in top IT companies as high as <b class='rs-laks'>Rs 4 lakhs per year or even more</b></p>
+                          <p>100% Guaranteed developer jobs in top IT companies as high as <b class='rs-laks'>Rs 3 lakhs per year or even more</b></p>
                         </div>
                         <div class="buttons">
                           <button type="button" class="btn apply-now mt-4">
@@ -267,6 +268,80 @@
         </div>
       </div>
       <!-- instrcutor section end  -->
+      <!-- company list view start -->
+      <div class='mb-4' style="background-image: url('./assets/img/company-bg.webp')">
+        <div class='container pb-6 pt-5'>
+          <div class="company_cover bg-white company-tab">
+            <h1 class="pt-6 mb-6 sm-mb-4 lg-mb-8 text-center  h1">Companies our students got placed</h1>    
+            <div class="row row-cols-lg-5 row-cols-md-3 row-cols-2 align-items-center justify-content-center px-104 company_tab_space">
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/Amazon-logo-1.png" alt="Amazon" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/Amadis.png" alt="Amadis" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/Amico.png" alt="Amico" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/Alo_Groups.png" alt="Colan-Infotech" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/comorins.png" alt="comorins" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/Colan-Infotech-Logo.png" alt="Colan-Infotech" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/DCS-Technology-logo.png" alt="DCS-Technology" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/emis-logo.png" alt="emis" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/flow-logo.png" alt="flow-logo" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/hcl-logo.png" alt="hcl" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/minerva-logo.png" alt="minerva" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/matrimony_logo.png" alt="" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/revyrie.png" alt="revyrie" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/tcs.png" alt="tcs" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/verticurl_logo_.png" alt="verticurl" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/wibits_dwd.png" alt="wibits" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+            </div> 
+          </div>
+        </div>
+      </div>
+      <!-- company list view end  -->
       <!-- enroll process start -->
       <div class="enroll-process container">
         <div class="">
@@ -382,7 +457,6 @@
           <a href='https://www.google.com/search?q=karka+software+academy&oq=karka+&aqs=chrome.0.35i39i355j46i39i175i199j69i57j69i60l5.3688j0j9&sourceid=chrome&ie=UTF-8#lrd=0x3b04f15dde0aa367:0xd5eb331016b805d0,1,,,,' target="_blank" class='text-decoration-none icon-move-right'>more review</a><i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
         </div>
       </div>
-      
       <!-- google review section end  -->
     </section>
     <!-- main section end  -->
@@ -390,6 +464,8 @@
       <?php include 'include/footer.php' ?>
     <!-- footer section end  -->
   </body>
+  <!-- main script js file  -->
+  <script src="./assets/js/main.js"></script>
    <!--   Core JS Files   -->
    <script src="assets/js/core/popper.min.js" type="text/javascript"></script>
   <script src="assets/js/core/bootstrap.min.js" type="text/javascript"></script>
@@ -415,8 +491,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
   <!-- enroll process js  -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <script src="./assets/js/main.js"></script>
-
+   <!-- nav active class cdn link  -->
   <script type="text/javascript">
     var $owl = $('.owl-carousel');
       $owl.children().each( function( index ) {
