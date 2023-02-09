@@ -31,26 +31,27 @@
     <!-- section start  -->
     <section class="py-1 overflow-hidden">
         <!-- overview section start  -->
-        <div class="">
-            <div class="pap-header container-100" style="background-image: url('assets/img/fullstack-img.jpg');" loading="lazy">
-                <div class="row justify-content-center full-content container">
-                    <div class="col-lg-8 col-sm-9 mx-auto">
-                        <h6>No Upfront Fee</h6>
-                        <h2>Full Stack Web<br/>Development Bootcamp</h2>
-                        <p><b>A 5 month, full-time(6 hrs per day), learning lab (classroom) based</b> bootcamp that land you as a full stack Developer.</p>
-                        <p>Earn as high as    4 lakhs per year or even more</p>
-                        <h6>Next batch starts mid Jan 2023</h6>
-                        <button onclick="window.open('https://karka.academy/apply/', '_blank')">Apply Now</button>
+        <div class="pap-header container-100" style="background-image: url('assets/img/fullstack-img.png');" loading="lazy">
+            <div class='full-content container'>
+                <div class="row justify-content-start">
+                        <div class="col-lg-6 col-sm-9 pt-3">
+                            <h6><span class='rs'>No</span> Upfront Fee</h6>
+                            <h2>Full Stack Web<br/>Development Bootcamp</h2>
+                            <p><b>A 4 month, full-time(6 hrs per day), learning lab (classroom) based</b> bootcamp that land you as a full stack Developer.</p>
+                            <p>Earn as high as    3 lakhs per year or even more</p>
+                            <h6>Next batch starts mid Feb 2023</h6>
+                            <button onclick="window.open('https://karka.academy/apply/', '_blank')">Apply Now</button>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
         <div id="overview" class='container'>
             <div class='header container' id='header'>
-                <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n4 overflow-hidden d-none d-sm-none d-md-block d-lg-block">
+                <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n1 overflow-hidden d-none d-sm-none d-md-block d-lg-block">
                     <div class="container position-relative p-0">
                         <div class="row justify-content-center align-items-center">
-                            <nav class="navbar navbar-expand-lg navbar-light fullstack-nav">
+                            <nav class="navbar navbar-expand-lg fullstack-nav">
                                 <div class="container-fluid">
                                     <button class="navbar-toggler d-sm-block d-md-none d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                                     <span class="navbar-toggler-icon"></span>
@@ -83,7 +84,7 @@
                     <div class="row m-0 px-5 pt-5 overview-row">
                         <div class="col-md-4">
                             <div class="p-3 text-start ps-0">
-                                <img src='./assets/img/dashboard.png' />
+                                <img src='./assets/img/overview_1.png' />
                                 <h5 class="mt-3 mb-4 er">
                                     Your way to the Top
                                 </h5>
@@ -92,7 +93,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="p-3 text-start ps-0">
-                                <img src='./assets/img/vector-1.png' />
+                                <img src='./assets/img/overview_2.png' />
                                 <h5 class="mt-3 mb-4 er">
                                     Build Great Apps
                                 </h5>
@@ -101,7 +102,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="p-3 text-start ps-0">
-                                <img src='./assets/img/vector-1.png' />
+                                <img src='./assets/img/overview_3.png' />
                                 <h5 class="mt-3 mb-4 er">
                                     The Bigger Picture
                                 </h5>
@@ -112,7 +113,7 @@
                     <div class="row px-5 m-0 overview-row">
                         <div class="col-md-4">
                             <div class="p-3 text-start ps-0">
-                                <img src='./assets/img/dashboard.png' />
+                                <img src='./assets/img/overview_4.png' />
                                 <h5 class="mt-3 mb-4 er">
                                     Top Tech You will Learn
                                 </h5>
@@ -121,7 +122,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="p-3 text-start ps-0">
-                                <img src='./assets/img/vector-1.png' />
+                                <img src='./assets/img/overview_5.png' />
                                 <h5 class="mt-3 mb-4 er">
                                     Job Opportunities
                                 </h5>
@@ -135,7 +136,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="p-3 text-start ps-0">
-                                <img src='./assets/img/vector-1.png' />
+                                <img src='./assets/img/overview_6.png' />
                                 <h5 class="mt-3 mb-4 er">
                                     Learn It Master It
                                 </h5>
@@ -195,14 +196,14 @@
                                     <div class="row justify-content-start">
                                     <div class="col-md-6">
                                         <div class="info">
-                                            <img src= './assets/img/earth.png' />
+                                            <img src= './assets/img/job-1.png' />
                                             <h5 class="text-white">100% Guaranteed Job</h5>
                                             <p class="text-white opacity-8">We get insulted by others, lose trust for those We get back freezes</p>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="info">
-                                            <img src= './assets/img/currency-usd.png' />
+                                            <img src= './assets/img/job-2.png' />
                                             <h5 class="text-white">99% Placement Rate</h5>
                                             <p class="text-white opacity-8">We get insulted by others, lose trust for those We get back freezes</p>
                                         </div>
@@ -211,15 +212,15 @@
                                     <div class="row justify-content-start mt-4">
                                     <div class="col-md-6">
                                         <div class="info">
-                                            <img src= './assets/img/dots-circle.png' />
-                                            <h5 class="text-white">6 LPA Average Salary</h5>
+                                            <img src= './assets/img/job-3.png' />
+                                            <h5 class="text-white">3 LPA Average Salary</h5>
                                             <p class="text-white opacity-8">We get insulted by others, lose trust for</p>
                                         </div>
                                     </div>
                                     <div class="col-md-6 placement-card">
                                         <div class="info">
-                                            <img src= './assets/img/chart-timeline.png' /></i>
-                                            <h5 class="text-white">15 L Highest CTC</h5>
+                                            <img src= './assets/img/job-4.png' /></i>
+                                            <h5 class="text-white">3 L Highest CTC</h5>
                                             <p class="text-white opacity-8">those We get back freezes</p>
                                         </div>
                                     </div>
@@ -233,8 +234,8 @@
                                         </a>
                                     </div>
                                     <div class="card-body">
-                                        <h4>CTC as high as 4 Lakhs</h4>
-                                        <p>Begin your career from scrach and get on the fast track to become an in-demand  Full Stack Web Developer. Karka ensures 100% placements to students with CTC as high as 4 lakhs and more.</p>
+                                        <h4>CTC as high as 3 Lakhs</h4>
+                                        <p>Begin your career from scrach and get on the fast track to become an in-demand  Full Stack Web Developer. Karka ensures 100% placements to students with CTC as high as 3 lakhs and more.</p>
                                         <a href="javascript:;" class="text-primary icon-move-right">More about us
                                         <i class="fas fa-arrow-right  ms-1"></i>
                                         </a>
@@ -422,7 +423,7 @@
                                                 <td>
                                                     <span class="badge badge-dot me-4">
                                                     <i class="bg-success"></i>
-                                                    <span class="">5 months</span>
+                                                    <span class="">4 months</span>
                                                     </span>
                                                 </td>
                                                 
@@ -782,7 +783,7 @@
                                     <i class="material-icons text-white text-3xl">theater_comedy</i>
                                 </div>
                                 <div class="card-footer pb-3 pt-2 z-index-3">
-                                    <h5 class='text-white'>Module</h5>
+                                    <h5 class='text-white'>Module 5</h5>
                                     <h4 class="text-white mb-1">Backend Framework</h4>
                                     <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">Java, Spring Boot, JPA, Transactions,<br/>MySQL</p>
                                 </div>

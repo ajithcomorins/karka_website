@@ -45,8 +45,11 @@
 .about-us .white-logo{
     display: none;
 }
-.container{
+.container-95{
     max-width: 95% !important;
+}
+.container-60{
+    max-width: 60%;
 }
 /* .nav-link.active{
     color: red !important;
