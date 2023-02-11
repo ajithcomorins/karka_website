@@ -2,7 +2,10 @@
     margin: 0;
     padding: 0;
 }
-.container{
+.container-85{
+    max-width: 85% !important;
+}
+.container-95{
     max-width: 95% !important;
 }
 .container-100{
@@ -29,8 +32,29 @@
 .navbar-toggler.collapsed .navbar-toggler-icon .navbar-toggler-bar.bar3 {
     margin-top: 7px !important;
 }
-
 /* nav button view end css  */
+/* scroll button css start  */
+#btn-back-to-top {
+    background-color: #6D416D !important;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    z-index: 999;
+    border-radius: 25px;
+  }
+  /* placement page owl-carosul button css */
+  .owl-nav{
+    text-align: center;
+  }
+  .owl-nav button{
+    margin: 10px !important;
+    width: 20px !important;
+    height: 12vh !important;
+    background-color: #542454 !important;
+    color: #FFF !important;
+    border-radius: 10px !important;
+  }
 /* index.php css start */
 /* header navbar css start  */
 .home .white-logo{
@@ -813,6 +837,10 @@
     /* bootcamp css end  */
     /* fullstack css start   */
     /* header css start  */
+    .pap-header{
+        width: 100%;
+        background-image: none;
+    }
     .full-content{
         margin-top: 134px;
     }
@@ -1112,9 +1140,9 @@
         color: #7B809A;
     }
     .fee-background{
-        background-position: 15% !important;
+        background-position: 0% !important;
         padding: 210px 0px !important;
-        background-size: auto !important;
+        background-repeat: no-repeat;
     }
     .fee-title p{
         margin-bottom: 17px !important;
@@ -1480,6 +1508,10 @@
 /* moblie view css start  */
 
 @media (min-width: 320px) {
+    .pap-header{
+        width: 100%;
+        background-image:none !important;
+    }
     .apply-now {
         padding: 5px !important;
     }
@@ -1993,15 +2025,18 @@
      /* fee_pap css end  */
      /* fullstack css start  */
      .full-content {
-        margin-top: 100px;
+        margin-top: 40px;
+    }
+    .main-content{
+        width: 100%;
     }
     .full-content h6 {
         margin-bottom: 14px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
-        font-size: 24px;
-        line-height: 34px;
+        font-size: 22px;
+        line-height: 32px;
         color: #000;
     }
     .full-content h2 {
@@ -2009,8 +2044,8 @@
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 600;
-        font-size: 36px;
-        line-height: 46px;
+        font-size: 24px;
+        line-height: 34px;
         color: #000;
     }
     .full-content p {
@@ -2024,7 +2059,7 @@
     } 
     .full-content button {
         padding: 8px 16px;
-        margin-bottom: 50px;
+        margin-bottom: 0px;
         background: linear-gradient(180deg, #876187 0%, #6D416D 100%);
         box-shadow: 0px 2px 6px rgb(220 34 101 / 36%);
         border-radius: 8px;
@@ -2358,6 +2393,10 @@
      /* footer css end  */
 }
 @media (min-width: 420px) {
+    .pap-header{
+        width: 100%;
+        background-image: none !important;
+    }
     .apply-now {
         padding: 5px !important;
     }
@@ -2849,15 +2888,18 @@
      /* fee_pap css end  */
      /* fullstack css start  */
      .full-content {
-        margin-top: 100px;
+        margin-top: 50px;
+    }
+    .main-content{
+        width: 100%;
     }
     .full-content h6 {
         margin-bottom: 14px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
-        font-size: 18px;
-        line-height: 28px;
+        font-size: 22px;
+        line-height: 32px;
         color: #000;
     }
     .full-content h2 {
@@ -2865,8 +2907,8 @@
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 600;
-        font-size: 24px;
-        line-height: 34px;
+        font-size: 30px;
+        line-height: 40px;
         color: #000;
     }
     .full-content p {
@@ -3213,6 +3255,10 @@
      /* footer css end  */
 }
 @media (min-width: 576px) {
+    .pap-header{
+        width: 100%;
+        background-image: none !important;
+    }
     .apply-now {
         padding: 10px !important;
     }
@@ -3684,7 +3730,10 @@
      /* fee_pap css end  */
      /* fullstack css start  */
      .full-content {
-        margin-top: 100px;
+        margin-top: 50px;
+    }
+    .main-content{
+        width: 100%;
     }
     .full-content h6 {
         margin-bottom: 14px;
@@ -4030,6 +4079,12 @@
 @media (min-width: 768px) {
     .btn-bg {
         padding: 8px !important;
+    }
+    .full-content {
+        margin-top:100px;
+    }
+    .main-content{
+        width: 56%;
     }
     .apply-now {
         margin-right: 40px;
@@ -4388,10 +4443,12 @@
     /* bootcamp css end  */
     /* fee_pap css start  */
     .pap-header {
+        width: 100%;
+        background-image: url('../img/fullstack-img.png') !important;
         position: relative;
         overflow: hidden;
         align-items: center;
-        height: 96vh;
+        height: 100vh;
         background-size: 100% 100%;
     }
     .pap-concept{
@@ -4513,6 +4570,9 @@
     }
     /* fee_pap css end  */
     /* fullstack css start  */
+    .main-content{
+        width: 56%;
+    }
     .full-content h6 {
         margin-bottom: 12px;
         font-family: 'Roboto';
@@ -4527,8 +4587,8 @@
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 600;
-        font-size: 42px;
-        line-height: 52px;
+        font-size: 35px;
+        line-height: 45px;
         color: #000;
     }
     .full-content p {
@@ -4536,8 +4596,8 @@
         font-family: 'Inter' !important;
         font-style: normal;
         font-weight: 400 !important;
-        font-size: 24px;
-        line-height: 34px;
+        font-size: 20px;
+        line-height: 30px;
         color: #000;
     }
     .full-content button {
@@ -5085,6 +5145,8 @@
         color: #000 !important;
     }
     .pap-header{
+        width: 100%;
+        background-image: url('../img/fullstack-img.png') !important;
         padding: 0;
         position: relative;
         overflow: hidden;
@@ -5200,12 +5262,12 @@
     }
     .full-background {
         padding: 260px 0px;
-        background: #C7CCD0;
+        background: transparent;
         mix-blend-mode: multiply;
         border-radius: 12px !important;
     }
     .agree-content h3{
-        margin-top: 50px;
+        margin-top: 0px;
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 700;
@@ -5368,7 +5430,7 @@
     /* fullstack css start   */
     /* header css start  */
     .full-content{
-        margin-top: 134px;
+        margin-top: 110px;
     }
     .full-content h6{
         margin-bottom: 14px;
@@ -5384,8 +5446,8 @@
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 600;
-        font-size: 48px;
-        line-height: 58px;
+        font-size: 44px;
+        line-height: 54px;
         color: #000;
     }
     .full-content p{
@@ -5393,8 +5455,8 @@
         font-family: 'Inter' !important;
         font-style: normal;
         font-weight: 400;
-        font-size: 24px;
-        line-height: 34px;
+        font-size: 22px;
+        line-height: 32px;
         color: #000;
     }
     .full-content button{

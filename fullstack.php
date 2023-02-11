@@ -32,10 +32,10 @@
     <!-- section start  -->
     <section class="py-1 overflow-hidden">
         <!-- overview section start  -->
-        <div class="pap-header container-100" style="background-image: url('assets/img/fullstack-img.png');" loading="lazy">
+        <div class="pap-header container-100" >
             <div class='full-content container'>
                 <div class="row justify-content-start">
-                        <div class="col-lg-6 col-sm-9 pt-3">
+                        <div class="col-lg-6 col-sm-9 pt-3 main-content text-lg-start text-md-start text-sm-center text-center">
                             <h6><span class='rs'>No</span> Upfront Fee</h6>
                             <h2>Full Stack Web<br/>Development Bootcamp</h2>
                             <p><b>A 4 month, full-time(6 hrs per day), learning lab (classroom) based</b> bootcamp that land you as a full stack Developer.</p>
@@ -49,7 +49,7 @@
         </div>
         <div id="overview" class='container'>
             <div class='header container' id='header'>
-                <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n1 overflow-hidden d-none d-sm-none d-md-block d-lg-block">
+                <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n0 overflow-hidden d-none d-sm-none d-md-block d-lg-block">
                     <div class="container position-relative p-0">
                         <div class="row justify-content-center align-items-center">
                             <nav class="navbar navbar-expand-lg fullstack-nav">
@@ -895,6 +895,14 @@
             </div> -->
             <!-- FQA section end  -->
         </div>
+         <!-- Back to top button -->
+         <button
+                type="button"
+                class="btn btn-danger btn-floating btn-lg"
+                id="btn-back-to-top"
+                >
+            <i class="fas fa-arrow-up"></i>
+        </button>
     </section>
     <!-- section end  -->
     <!-- footer section start  -->
@@ -921,7 +929,10 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTTfWur0PDbZWPr7Pmq8K3jiDp0_xUziI"></script>
     <script src="assets/js/material-kit-pro.min.js?v=3.0.3" type="text/javascript"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
-    
+     <!-- scroll top link  -->
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"> 
+    <!-- main script js file  -->
+     <script src="./assets/js/main.js"></script>
     <script type="text/javascript">
         $(window).scroll(function(){
             if ($(window).scrollTop() >= 600) {

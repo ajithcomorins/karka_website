@@ -82,14 +82,6 @@
                 </div>
               </div>
             </div>
-            <!-- <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="visually-hidden">Next</span>
-            </button> -->
           </div>
       </header>
     <!-- heaader section end -->
@@ -337,6 +329,9 @@
               <div class="col p-16">
                 <img class="img-fluid " src="./assets/img/wibits_dwd.png" alt="wibits" loading="lazy" style="max-width: 100%; height: auto;">
               </div>
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/capecom.png" alt="wibits" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
             </div> 
           </div>
         </div>
@@ -458,6 +453,14 @@
         </div>
       </div>
       <!-- google review section end  -->
+       <!-- Back to top button -->
+       <button
+              type="button"
+              class="btn btn-danger btn-floating btn-lg"
+              id="btn-back-to-top"
+              >
+        <i class="fas fa-arrow-up"></i>
+      </button>
     </section>
     <!-- main section end  -->
     <!-- footer section start  -->

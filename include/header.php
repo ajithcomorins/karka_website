@@ -3,7 +3,7 @@
 
 <!-- navbar section start -->
 <nav class="navbar navbar-expand-lg z-index-3 w-100 shadow-none navbar-transparent p-0">
-    <div class="container p-0">
+    <div class="container container-95 p-0">
       <a class="navbar-brand text-dark" href="index.php" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom">
         <img src='assets/img/karka-logos.png' alt='' class='black-logo'>
         <img src='assets/img/karka-white.png' class='white-logo'/>

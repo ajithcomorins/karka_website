@@ -18,9 +18,14 @@
     <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
     <!-- Material Icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
+     <!-- owlcarousel cdn link  -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous"/>
     <!-- CSS Files -->
     <link id="pagestyle" href="assets/css/material-kit-pro.css?v=3.0.3" rel="stylesheet" />
     <link id="pagestyle" href="assets/css/style.css" rel="stylesheet" />
+    
 </head>
 <body>
      <!-- header section start -->
@@ -32,9 +37,19 @@
     <section class='placement' style="background-image: url('./assets/img/company-bg.webp')">
       <div class='pt-5 p-4 container container-85'>
         <h2 class='text-center p-4'>Meet our karka alumni who’ve made it.</h2>
-        <div class='container container-95'>
-          <div class='row m-0 align-items-center justify-content-center'>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
+        <div class='container container-95 d-lg-block d-sm-none d-none'>
+           <div class='row m-0 align-items-stretch justify-content-center'>
+           <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/bino 1.png" class="card-img-top" alt="Bino">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Bino</h3>
+                          <h4>Batch-9-2022</h4>
+                          <img src='./assets/img/Amazon-logo-1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/varsha-sj 1.png" class="card-img-top" alt="Chaithanya">
                       <div class="card-body text-center">
@@ -44,277 +59,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/poothana 1.png" class="card-img-top" alt="Ajith">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Poothana</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/colan-logo 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/dhanaleskhmi 1.png" class="card-img-top" alt="Ajith">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Leskhmi</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/hcl-logo 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/manikandan 1.png" class="card-img-top" alt="Ajith">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Manikandan</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/emis 2.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/arunkarthick 1.png" class="card-img-top" alt="arunkarthick">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Arunkarthick</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/alo-logo.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/chandru 1.png" class="card-img-top" alt="chandru">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Chandru</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/Amico 2.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/dhaya 1.png" class="card-img-top" alt="dhaya">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Dhaya</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/comorins 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/manoj 1.png" class="card-img-top" alt="manoj">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Manoj</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/wibits_dwd 2.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/udhayakumar 1.png" class="card-img-top" alt="udhayakumar">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Udhai</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/revyrie 2.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/Preethika 1.png" class="card-img-top" alt="Preethika">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Preethika</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/Amico 2.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/anusha 1.png" class="card-img-top" alt="anusha">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Anusha</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/comorins 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/steny 1.png" class="card-img-top" alt="steny">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Steny</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/comorins 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/ajith 1.png" class="card-img-top" alt="Ajith">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Ajith</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/comorins 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/rebisha 1.png" class="card-img-top" alt="rebisha">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Rebisha</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/comorins 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/Chaithanya 1.png" class="card-img-top" alt="chaithanya">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">chaithanya</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/comorins 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/arumugaperumal 1.png" class="card-img-top" alt="arumugaperumal">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Perumal</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/comorins 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/abisha 1.png" class="card-img-top" alt="abisha">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Abisha</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/comorins 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/nadhika 1.png" class="card-img-top" alt="nadhika">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Nadhika</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/flow-logo 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/Nathan 1.png" class="card-img-top" alt="nathan">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">nathan</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/comorins 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/bibin 1.png" class="card-img-top" alt="bibin">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Bibin</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/comorins 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/akash 1.png" class="card-img-top" alt="akash">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Akash</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/flow-logo 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/prakash 1.png" class="card-img-top" alt="prakash">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Prakash</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/flow-logo 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/shalini 1.png" class="card-img-top" alt="shalini">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Shalini</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/flow-logo 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/pavithra 1.png" class="card-img-top" alt="pavithra">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Pavithra</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/comorins 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/benish 1.png" class="card-img-top" alt="benish">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Benish</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/comorins 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/sowmiya 1.png" class="card-img-top" alt="sowmiya">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Sowmiya</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/verticurl_logo_ 2.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/sakthi 1.png" class="card-img-top" alt="sakthi">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Sakthi</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/flow-logo 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
-                  <div class="card" style="">
-                      <img src="./assets/img/krishnaveni 1.png" class="card-img-top" alt="krishnaveni">
-                      <div class="card-body text-center">
-                          <h3 class="card-text">Krishnaveni</h3>
-                          <h4>Batch-4-2020</h4>
-                          <img src='./assets/img/matrimony_logo 1.png' class='w-50'/>
-                      </div>
-                  </div>
-              </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/karthick 1.png" class="card-img-top" alt="karthick">
                       <div class="card-body text-center">
@@ -324,7 +69,137 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4  align-self-stretch'>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/anusha 1.png" class="card-img-top" alt="anusha">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Anusha</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/comorins 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/steny 1.png" class="card-img-top" alt="steny">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Steny</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/karka-placement.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/dhanaleskhmi 1.png" class="card-img-top" alt="Ajith">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Leskhmi</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/hcl-logo 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/poothana 1.png" class="card-img-top" alt="Ajith">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Poothana</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/colan-logo 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/manikandan 1.png" class="card-img-top" alt="Ajith">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Manikandan</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/emis 2.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/arunkarthick 1.png" class="card-img-top" alt="arunkarthick">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Karthick</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/alo-logo.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/akash 1.png" class="card-img-top" alt="akash">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Akash</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/flow-logo 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/chandru 1.png" class="card-img-top" alt="chandru">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Chandru</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/Amico 2.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/arumugaperumal 1.png" class="card-img-top" alt="arumugaperumal">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Perumal</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/karka-placement.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/Preethika 1.png" class="card-img-top" alt="Preethika">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Preethika</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/Amadis.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/Chaithanya 1.png" class="card-img-top" alt="chaithanya">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">chaithanya</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/karka-placement.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/manoj 1.png" class="card-img-top" alt="manoj">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Manoj</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/wibits_dwd 2.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/udhayakumar 1.png" class="card-img-top" alt="udhayakumar">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Udhai</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/revyrie 2.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/sivaranjini 1.png" class="card-img-top" alt="sivaranjini">
                       <div class="card-body text-center">
@@ -334,9 +209,423 @@
                       </div>
                   </div>
               </div>
+              
+              
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/sowmiya 1.png" class="card-img-top" alt="sowmiya">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Sowmiya</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/verticurl_logo_ 2.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/rebisha 1.png" class="card-img-top" alt="rebisha">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Rebisha</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/comorins 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/abisha 1.png" class="card-img-top" alt="abisha">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Abisha</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/karka-placement.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/manoj 1.png" class="card-img-top" alt="manoj">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Manoj</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/wibits_dwd 2.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/ajith 1.png" class="card-img-top" alt="Ajith">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Ajith</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/karka-placement.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/dhaya 1.png" class="card-img-top" alt="dhaya">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Dhaya</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/capecom.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+             
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/nadhika 1.png" class="card-img-top" alt="nadhika">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Nadhika</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/flow-logo 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/krishnaveni 1.png" class="card-img-top" alt="krishnaveni">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Krishnaveni</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/matrimony_logo 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/bibin 1.png" class="card-img-top" alt="bibin">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Bibin</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/comorins 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/Nathan 1.png" class="card-img-top" alt="nathan">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">nathan</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/karka-placement.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              
+              
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/prakash 1.png" class="card-img-top" alt="prakash">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Prakash</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/flow-logo 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/shalini 1.png" class="card-img-top" alt="shalini">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Shalini</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/flow-logo 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/pavithra 1.png" class="card-img-top" alt="pavithra">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Pavithra</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/comorins 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/benish 1.png" class="card-img-top" alt="benish">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Benish</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/karka-placement.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              
+              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/sakthi 1.png" class="card-img-top" alt="sakthi">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Sakthi</h3>
+                          <h4>Batch-4-2020</h4>
+                          <img src='./assets/img/flow-logo 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              
           </div>
-        </div>
-      </div>
+       </div>
+       <div class='container container-95 d-lg-none d-sm-block d-block'>
+            <div class="owl-carousel">
+            <div class="card-view p-0">
+                    <img src="./assets/img/bino 1.png" class="card-img-top" alt="bino">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Bino</h3>
+                          <h4>Batch-4-2021</h4>
+                          <img src='./assets/img/Amazon-logo-1.png' class='w-50 mx-auto p-2'/>
+                      </div>
+              </div>
+                <div class="card-view p-0">
+                    <img src="./assets/img/varsha-sj 1.png" class="card-img-top" alt="varasha">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Varsha-sj</h3>
+                          <h4>Batch-4-2021</h4>
+                          <img src='./assets/img/tcs 1.png' class='w-50 mx-auto p-2'/>
+                      </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/karthick 1.png" class="card-img-top" alt="karthick">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Karthick</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/flow-logo 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/anusha 1.png" class="card-img-top" alt="anusha">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Anusha</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/comorins 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/steny 1.png" class="card-img-top" alt="steny">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Steny</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/karka-placement.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              
+              <div class="card-view p-0">
+                <img src="./assets/img/dhanaleskhmi 1.png" class="card-img-top" alt="Ajith">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Leskhmi</h3>
+                    <h4>Batch-3-2020</h4>
+                    <img src='./assets/img/hcl-logo 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/manikandan 1.png" class="card-img-top" alt="Ajith">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Manikandan</h3>
+                    <h4>Batch-3-2020</h4>
+                    <img src='./assets/img/emis 2.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/abisha 1.png" class="card-img-top" alt="abisha">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Abisha</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/karka-placement.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/chandru 1.png" class="card-img-top" alt="chandru">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Chandru</h3>
+                    <h4>Batch-7-2021</h4>
+                    <img src='./assets/img/Amico 2.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/Preethika 1.png" class="card-img-top" alt="Preethika">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Preethika</h3>
+                    <h4>Batch-5-2021</h4>
+                    <img src='./assets/img/Amadis.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/akash 1.png" class="card-img-top" alt="akash">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Akash</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/flow-logo 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/Chaithanya 1.png" class="card-img-top" alt="chaithanya">
+                <div class="card-body text-center">
+                    <h3 class="card-text">chaithanya</h3>
+                    <h4>Batch-9-2022</h4>
+                    <img src='./assets/img/karka-placement.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/udhayakumar 1.png" class="card-img-top" alt="udhayakumar">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Udhai</h3>
+                    <h4>Batch-5-2021</h4>
+                    <img src='./assets/img/revyrie 2.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/arunkarthick 1.png" class="card-img-top" alt="arunkarthick">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Karthick</h3>
+                    <h4>Batch-7-2021</h4>
+                    <img src='./assets/img/alo-logo.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/dhaya 1.png" class="card-img-top" alt="dhaya">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Dhaya</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/comorins 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/prakash 1.png" class="card-img-top" alt="prakash">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Prakash</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/flow-logo 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/ajith 1.png" class="card-img-top" alt="Ajith">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Ajith</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/karka-placement.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              
+              <div class="card-view p-0">
+                <img src="./assets/img/manoj 1.png" class="card-img-top" alt="manoj">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Manoj</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/wibits_dwd 2.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/poothana 1.png" class="card-img-top" alt="Ajith">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Poothana</h3>
+                    <h4>Batch-4-2021</h4>
+                    <img src='./assets/img/colan-logo 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/rebisha 1.png" class="card-img-top" alt="rebisha">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Rebisha</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/comorins 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/arumugaperumal 1.png" class="card-img-top" alt="arumugaperumal">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Perumal</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/karka-placement.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/krishnaveni 1.png" class="card-img-top" alt="krishnaveni">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Krishnaveni</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/matrimony_logo 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/nadhika 1.png" class="card-img-top" alt="nadhika">
+                    <div class="card-body text-center">
+                        <h3 class="card-text">Nadhika</h3>
+                        <h4>Batch-4-2020</h4>
+                        <img src='./assets/img/flow-logo 1.png' class='w-50 mx-auto p-2'/>
+                    </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/bibin 1.png" class="card-img-top" alt="bibin">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Bibin</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/comorins 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/Nathan 1.png" class="card-img-top" alt="nathan">
+                <div class="card-body text-center">
+                    <h3 class="card-text">nathan</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/karka-placement.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+             
+              <div class="card-view p-0">
+                <img src="./assets/img/shalini 1.png" class="card-img-top" alt="shalini">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Shalini</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/flow-logo 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/pavithra 1.png" class="card-img-top" alt="pavithra">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Pavithra</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/comorins 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/sivaranjini 1.png" class="card-img-top" alt="sivaranjini">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Sivaranjini</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/flow-logo 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+             
+              <div class="card-view p-0">
+                <img src="./assets/img/sowmiya 1.png" class="card-img-top" alt="sowmiya">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Sowmiya</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/verticurl_logo_ 2.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/sakthi 1.png" class="card-img-top" alt="sakthi">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Sakthi</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/flow-logo 1.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+              <div class="card-view p-0">
+                <img src="./assets/img/benish 1.png" class="card-img-top" alt="benish">
+                <div class="card-body text-center">
+                    <h3 class="card-text">Benish</h3>
+                    <h4>Batch-4-2020</h4>
+                    <img src='./assets/img/karka-placement.png' class='w-50 mx-auto p-2'/>
+                </div>
+              </div>
+            </div>
+       </div>
+</div>
       <!-- company list view start -->
       <div class='mb-4' style="background-image: url('./assets/img/company-bg.webp')">
         <div class='container container-85 pb-6 pt-5'>
@@ -406,11 +695,22 @@
               <div class="col p-16">
                 <img class="img-fluid " src="./assets/img/wibits_dwd.png" alt="wibits" loading="lazy" style="max-width: 100%; height: auto;">
               </div>
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/capecom.png" alt="wibits" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
             </div> 
           </div>
         </div>
       </div>
       <!-- company list view end  -->
+       <!-- Back to top button -->
+       <button
+                type="button"
+                class="btn btn-danger btn-floating btn-lg"
+                id="btn-back-to-top"
+                >
+            <i class="fas fa-arrow-up"></i>
+        </button>
     </section>
     <!-- section end  -->
     <!-- footer section start  -->
@@ -436,5 +736,48 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTTfWur0PDbZWPr7Pmq8K3jiDp0_xUziI"></script>
     <script src="assets/js/material-kit-pro.min.js?v=3.0.3" type="text/javascript"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+    <!-- Owl Carousel -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <!-- scroll top link  -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- main script js file  -->
+    <script src="./assets/js/main.js"></script>
+    <script type="text/javascript">
+    var $owl = $('.owl-carousel');
+      $owl.children().each( function( index ) {
+        $(this).attr( 'data-position', index ); // NB: .attr() instead of .data()
+      });
 
+      $owl.owlCarousel({
+        // autoplay: true,
+        rewind: true, /* use rewind if you don't want loop */
+        nav: true,
+        dots: false,
+        // autoplayTimeout: 3000,
+        center: true,
+        loop: true,
+        responsiveClass: true,
+        responsive: {
+            0:{
+              items: 1,
+            },
+            400:{
+              items:1,
+            },
+            556:{
+              items:2,
+            },
+            768:{
+              items:2,
+            },
+        }
+        
+      });
+
+      $(document).on('click', '.owl-item>div', function() {
+        // see https://owlcarousel2.github.io/OwlCarousel2/docs/api-events.html#to-owl-carousel
+        var $speed = 300;  // in ms
+        $owl.trigger('to.owl.carousel', [$(this).data( 'position' ), $speed] );
+      });
+  </script>
 </html>
