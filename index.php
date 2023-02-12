@@ -189,8 +189,8 @@
         </div>
       </div>
       <!-- master box end  -->
-      <!-- instructor section start  -->
-      <div class="pb-5 position-relative instructor">
+        <!-- instructor section start  -->
+        <div class="pb-5 position-relative instructor">
         <div class="container">
           <div class="row mb-5">
             <div class="col-md-12 col-lg-12 text-start mb-5 mt-4 instructor-title">
@@ -205,7 +205,8 @@
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
                     <a href="https://www.linkedin.com/in/ramesh-varghese/">
                       <div class="instructor-img text-center">
-                        <img class="w-100 border-radius-md" src="./assets/img/ramesh-in.png" alt="image">
+                        <img class="w-75 border-radius-md position-relative" src="./assets/img/ramesh-1.jpg" alt="image">
+                        <img class='position-absolute link-position' src='./assets/img/link.png'/>
                       </div>
                     </a>
                   </div>
@@ -224,7 +225,8 @@
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
                     <a href="https://www.linkedin.com/in/ssateeshk/">
                       <div class="instructor-img text-center">
-                        <img class="w-100 border-radius-md" src="./assets/img/satheesh-in.png" alt="image">
+                        <img class="w-75 border-radius-md position-relative" src="./assets/img/sateesh.jpg" alt="image">
+                        <img class='position-absolute link-position' src='./assets/img/link.png'/>
                       </div>
                     </a>
                   </div>
@@ -243,7 +245,8 @@
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
                     <a href="https://www.linkedin.com/in/sivanananchaperumal-moorthy-9b334a249/">
                       <div class="instructor-img text-center">
-                        <img class="w-100 border-radius-md" src="./assets/img/perumal-in.png" alt="image">
+                         <img class="w-75 border-radius-md position-relative" src="./assets/img/perumal.jpg" alt="image">
+                        <img class='position-absolute link-position' src='./assets/img/link.png'/>
                       </div>
                     </a>
                   </div>

@@ -35,7 +35,7 @@
     <!-- section start  -->
     <section class='container'>
         <!-- bootcamp content start -->
-        <div class="card card-body shadow-xl mx-3 mx-md-4 mt-n6 bootcamp-karka">
+        <div class="card card-body shadow-xl mx-3 mx-md-4 mt-n3 mt-sm-n4 mt-lg-n4 bootcamp-karka">
             <div class="px-4">
                 <p><b>Karka Academy offers an intensive bootcamp that will help you get ahead in your career. Our bootcamp is designed to give you the skills and knowledge you need to succeed . We offer a variety of courses that will cover everything. Whether you're just starting out in your career or you're looking to take things to the next level, our bootcamp will give you the edge you need.</b></p>
             </div>
@@ -69,7 +69,7 @@
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <div class="cursor-pointer">
-                    <div class="card card-background">
+                    <div class="card card-background border-0">
                         <div class="full-background boot-background" style="background-image: url('./assets/img/f.png')" loading="lazy"></div>
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a Fullstack Web Developer</h3>
@@ -86,7 +86,7 @@
             <div class="row m-0 flex-wrap-reverse">
                 <div class="col-lg-6 col-md-12 ms-md-0 mt-md-2 mt-sm-2 mt-lg-0 mt-2">
                     <div class="cursor-pointer">
-                    <div class="card card-background">
+                    <div class="card card-background border-0">
                         <div class="full-background boot-background" style="background-image: url('./assets/img/m.png')" loading="lazy"></div>
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a Mobile App Developer</h3>
@@ -123,7 +123,7 @@
         </div>
         <div class='bootcamp-top-1'>
             <div class="row m-0">
-                <div class="col-lg-6 col-md-12 ms-md-0 mt-md-5 mt-sm-5 mt-lg-0 mt-5  bootcamp-content">
+                <div class="col-lg-6 col-md-12 ms-md-0 mt-md-5 mt-sm-5 mt-lg-0 mt-3  bootcamp-content">
                     <div class='col-lg-11 agree-step p-0'>
                         <h2>FRONTEND WEB DEVELOPMENT BOOTCAMP</h2>
                         <p>Learn to code from scratch and build a web application yourself</p>
@@ -148,7 +148,7 @@
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <div class="cursor-pointer">
-                    <div class="card card-background">
+                    <div class="card card-background border-0">
                         <div class="full-background boot-background" style="background-image: url('./assets/img/fr.png')" loading="lazy"></div>
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a Frontend Developer</h3>
@@ -164,7 +164,7 @@
             <div class="row m-0 flex-wrap-reverse">
                 <div class="col-lg-6 col-md-12 ms-md-0 flex-wrap flex-lg-nowrap order-md-1 order-lg-0 mt-md-2 mt-sm-2 mt-lg-0 mt-2">
                     <div class="cursor-pointer">
-                    <div class="card card-background">
+                    <div class="card card-background border-0">
                         <div class="full-background boot-background" style="background-image: url('./assets/img/ui.png')" loading="lazy"></div>
                         <div class="card-body text-center course-content">
                             <h3 class="text-white mb-0">Become a UI/UX Developer</h3>

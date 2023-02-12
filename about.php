@@ -29,8 +29,8 @@
         <div>
             <img src='./assets/img/about-us.png' class='w-100'/>
         </div>
-            <div class='about-title container row'>
-                <div class='col-lg-8 mx-auto text-center'>
+            <div class='about-title container'>
+                <div class='mx-auto text-center'>
                     <h2>We aim to democratise the technology education for all</h2>
                     <p class='sub-para p-0'>Since 2018, Karka academy is running intensive bootcamps in our learning labs to provide industry ready engineers to IT companies and make people take right career path.</p>
                 </div>
@@ -43,7 +43,7 @@
         <div class='about-solve'>
             <div class='row m-0'>
                 <div class='col-lg-6 col-md-6 col-sm-12 d-flex align-items-stretch'>
-                    <div class="card card-contact card-raised shadow-xl mx-3 mx-md-4 mt-n9 about-card">
+                    <div class="card card-contact card-raised shadow-xl mx-3 mx-md-4 mt-n7 mb-n2 about-card">
                         <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2 bg-transparent">
                         <div class="bg-about shadow-primary border-radius-lg py-3 pe-1 mt-4">
                             <h5 class="text-center text-white">PROBLEM</h5>
@@ -55,8 +55,8 @@
                         </div>
                     </div>
                 </div>
-                <div class='col-lg-6 col-md-6 col-sm-12 d-flex align-items-stretch mt-sm-9 mt-md-0 mt-lg-0 about-solution'>
-                    <div class="card card-contact card-raised shadow-xl mx-3 mx-md-4 mt-n9 about-card">
+                <div class='col-lg-6 col-md-6 col-sm-12 d-flex align-items-stretch mt-sm-9 mt-md-0 mt-lg-0 mt-9 about-solution'>
+                    <div class="card card-contact card-raised shadow-xl mx-3 mx-md-4 mt-n7 about-card">
                         <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2 bg-transparent">
                         <div class="bg-about shadow-primary border-radius-lg py-3 pe-1 mt-4">
                             <h5 class="text-center text-white">SOLUTION</h5>

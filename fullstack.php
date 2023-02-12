@@ -35,7 +35,7 @@
         <div class="pap-header container-100" >
             <div class='full-content container'>
                 <div class="row justify-content-start">
-                        <div class="col-lg-6 col-sm-9 pt-3 main-content text-lg-start text-md-start text-sm-center text-center">
+                        <div class="col-lg-6 col-sm-12 col-12 pt-3 main-content text-lg-start text-md-start text-sm-center text-center">
                             <h6><span class='rs'>No</span> Upfront Fee</h6>
                             <h2>Full Stack Web<br/>Development Bootcamp</h2>
                             <p><b>A 4 month, full-time(6 hrs per day), learning lab (classroom) based</b> bootcamp that land you as a full stack Developer.</p>
@@ -299,13 +299,13 @@
                     <div class="row m-0">
                     <div class="col-md-4 ms-auto my-auto">
                         <div class="cursor-pointer">
-                            <div class="card card-background">
+                            <div class="card card-background border-0">
                                 <div class="full-background fee-background" style="background-image: url('./assets/img/f.png')" loading="lazy"></div>
                                 <div class="card-body pt-7 text-center fee-title">
                                     <p class="text-white text-uppercase">START WITH NO FEE</p>
                                     <h3 class="text-white">The best part of Karka is No Upfront Fees</h3>
                                     <p class="text-white opacity-8">You only pay for the bootcamp once you've secured a job placement. If for some reason you don't manage to get a job after completing the bootcamp, then it's completely free!</p>
-                                    <button type="button" class="btn btn-white btn-sm mt-3" onclick="window.location.href='./courses.php'">Get Started</button>
+                                    <button type="button" class="btn btn-white bg-white btn-sm mt-3" onclick="window.location.href='./courses.php'">Get Started</button>
                                 </div>
                             </div>
                         </div>
@@ -732,19 +732,19 @@
                     <div class='curriculam-top'>
                         <div class="row mb-5">
                             <div class="col-lg-4 col-md-6">
-                                <div class="card card-background align-items-start h-100">
+                                <div class="card card-background align-items-start h-100 border-0">
                                     <div class="card-body text-center z-index-3 curriculam-card mx-auto">
                                         <i class="material-icons text-white text-3xl mb-3 d-flex">import_contacts</i>
                                         <h5 class="text-white mb-1">Module 1</h5>
                                         <h4 class='text-white'>Foundations of Web<br/>Applications</h4>
                                         <p class="text-white opacity-8">Introduction to Internet, HTTP, Web, HTML, CSS, Javascript, DOM, Git</p>
-                                        <button class="btn btn-white btn-sm" type="button" name="button">Download Syllabus</button>
+                                        <button class="btn btn-white bg-white btn-sm" type="button" name="button">Download Syllabus</button>
                                     </div>
                                     <span class="mask bg-curriculam border-radius-xl z-index-2 opacity-7"></span>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4 mt-3">
-                                <div class="card h-100 card-background align-items-start">
+                                <div class="card h-100 card-background align-items-start border-0">
                                 <div class="card-body z-index-3">
                                     <i class="material-icons text-white text-3xl">import_contacts</i>
                                 </div>
@@ -755,7 +755,7 @@
                                 </div>
                                 <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
                                 </div>
-                                <div class="card h-100 card-background mt-4 align-items-start mt-sm-4">
+                                <div class="card h-100 card-background mt-4 align-items-start mt-sm-4 border-0">
                                 <div class="card-body z-index-3">
                                     <i class="material-icons text-white text-3xl">volunteer_activism</i>
                                 </div>
@@ -768,7 +768,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4">
-                                <div class="card card-background align-items-start">
+                                <div class="card card-background align-items-start border-0">
                                 <div class="card-body z-index-3">
                                     <i class="material-icons text-white text-3xl">festival</i>
                                 </div>
@@ -779,7 +779,7 @@
                                 </div>
                                 <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
                                 </div>
-                                <div class="card card-background mt-4 align-items-start">
+                                <div class="card card-background mt-4 align-items-start border-0">
                                 <div class="card-body z-index-3">
                                     <i class="material-icons text-white text-3xl">theater_comedy</i>
                                 </div>
