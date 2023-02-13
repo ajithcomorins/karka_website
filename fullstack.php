@@ -18,6 +18,10 @@
   <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
   <!-- Material Icons -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
+  <!-- owlcarousel cdn link  -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous"/>
   <!-- CSS Files -->
   <link id="pagestyle" href="assets/css/material-kit-pro.css?v=3.0.3" rel="stylesheet" />
   <link id="pagestyle" href="assets/css/style.css" rel="stylesheet" />
@@ -256,36 +260,27 @@
                                 <h3 class="er">Companies our students got placed</h3>
                             </div>
                         </div>
-                        <div class="row m-0">
-                            <div class='col-lg-8 mx-auto'>
-                                <div class='row justify-content-center'>
-                                    <div class="col-lg-2 col-md-4 col-6 mb-4">
-                                        <img class="w-100 opacity-9" src="./assets/img/Amazon-logo.png" alt="logo">
-                                        </div>
-                                        <div class="col-lg-2 col-md-4 col-6 mb-4">
-                                            <img class="w-100 opacity-9" src="./assets/img/hcl-logo.png" alt="logo">
-                                        </div>
-                                        <div class="col-lg-2 col-md-4 col-6 mb-4">
-                                            <img class="w-100 opacity-9" src="./assets/img/alo-logo.png" alt="logo">
-                                        </div>
-                                        <div class="col-lg-2 col-md-4 col-6 mb-4">
-                                            <img class="w-100 opacity-9" src="./assets/img/emis-logo.png" alt="logo">
-                                        </div>
-                                        <div class="col-lg-2 col-md-4 col-6 mb-4">
-                                            <img class="w-100 opacity-9" src="./assets/img/flow-logo.png" alt="logo">
-                                        </div>
-                                        <div class="col-lg-2 col-md-4 col-6 mb-4">
-                                            <img class="w-100 opacity-9" src="./assets/img/matrimony_logo.png" alt="logo">
-                                        </div>
-                                        <div class="col-lg-2 col-md-4 col-6 mb-4">
-                                            <img class="w-100 opacity-9" src="./assets/img/minerva-logo.png" alt="logo">
-                                        </div>
-                                        <div class="col-lg-2 col-md-4 col-6 mb-4">
-                                            <img class="w-100 opacity-9" src="./assets/img/Colan-Infotech-Logo.png" alt="logo">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                        <div class="customer-logos slider">
+                            <div class="slide"><img src="./assets/img/Amazon-logo.png"></div>
+                            <div class="slide"><img src="./assets/img/tcs.png"></div>
+                            <div class="slide"><img src="./assets/img/flow-logo.png"></div>
+                            <div class="slide"><img src="./assets/img/Amadis.png"></div>
+                            <div class="slide"><img src="./assets/img/Amico 2.png"></div>
+                            <div class="slide"><img src="./assets/img/comorins.png"></div>
+                            <div class="slide"><img src="./assets/img/capecom.png"></div>
+                            <div class="slide"><img src="./assets/img/alo-logo.png"></div>
+                            <div class="slide"><img src="./assets/img/Colan-Infotech-Logo.png"></div>
+                            <div class="slide"><img src="./assets/img/DCS-Technology-logo.png"></div>
+                            <div class="slide"><img src="./assets/img/emis-logo.png"></div>
+                            <div class="slide"><img src="./assets/img/hcl-logo.png"></div>
+                            <div class="slide"><img src="./assets/img/revyrie.png"></div>
+                            <div class="slide"><img src="./assets/img/minerva-logo.png"></div>
+                            <div class="slide"><img src="./assets/img/verticurl_logo_.png"></div>
+                            <div class="slide"><img src="./assets/img/matrimony_logo.png"></div>
+                            <div class="slide"><img src="./assets/img/wibits_dwd.png"></div>
+                            <div class="slide"><img src="./assets/img/arokee (1) 1.png"></div>
+                            <div class="slide"><img src="./assets/img/sodisys 1.png"></div>
+                            <div class="slide"><img src="./assets/img/novac 1.png"></div>
                         </div>
                     </div>
                 </div>
@@ -932,6 +927,12 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
      <!-- scroll top link  -->
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"> 
+     <!-- auto move logo cdn link -->
+     <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
     <!-- main script js file  -->
      <script src="./assets/js/main.js"></script>
     <script type="text/javascript">
@@ -947,6 +948,28 @@
         $( '#topheader .full-nav a' ).on( 'click', function () {
             $( '#topheader .full-nav' ).find( 'a.active' ).removeClass( 'active' );
             $( this ).parent( 'a' ).addClass( 'active' );
+        });
+        // company brand-carousel 
+        $(document).ready(function(){
+            $('.customer-logos').slick({
+                slidesToShow: 6,
+                autoplay: true,
+                autoplaySpeed: 1000,
+                arrows: false,
+                dots: false,
+                pauseOnHover: false,
+                responsive: [{
+                    breakpoint: 768,
+                    settings: {
+                        slidesToShow: 4
+                    }
+                }, {
+                    breakpoint: 520,
+                    settings: {
+                        slidesToShow: 2
+                    }
+                }]
+            });
         });
     </script>
 </html>
