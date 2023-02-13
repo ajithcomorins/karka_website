@@ -645,7 +645,7 @@
             <div class="row row-cols-lg-5 row-cols-md-3 row-cols-2 align-items-center justify-content-center px-104 company_tab_space">
               
               <div class="col p-16">
-                <img class="img-fluid " src="./assets/img/Amazon-logo-1.png" alt="Amazon" loading="lazy" style="max-width: 100%; height: auto;">
+                <img class="img-fluid " src="./assets/img/Amazon-logo.png" alt="Amazon" loading="lazy" style="max-width: 100%; height: auto;">
               </div>
               
               <div class="col p-16">
@@ -708,6 +708,15 @@
               </div>
               <div class="col p-16">
                 <img class="img-fluid " src="./assets/img/capecom.png" alt="wibits" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/arokee (1) 1.png" alt="wibits" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/sodisys 1.png" alt="wibits" loading="lazy" style="max-width: 100%; height: auto;">
+              </div>
+              <div class="col p-16">
+                <img class="img-fluid " src="./assets/img/novac 1.png" alt="wibits" loading="lazy" style="max-width: 100%; height: auto;">
               </div>
             </div> 
           </div>

@@ -25,7 +25,7 @@
   }
   .timeline ul li.in-view.first-row {
     margin-top: 0;
-    top: 0px !important;
+    top: 10px !important;
   }
   .timeline ul li.in-view.first-row::before {
     top: -57px;
