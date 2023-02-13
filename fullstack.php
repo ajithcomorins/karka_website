@@ -231,7 +231,8 @@
                                     <div class="card mb-lg-5">
                                     <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
                                         <a class="d-block blur-shadow-image">
-                                        <img src="./assets/img/mask.png" alt="img-colored-shadow" class="img-fluid border-radius-lg w-100">
+                                        <img src="./assets/img/mask.png" alt="img-colored-shadow" class="img-fluid border-radius-lg w-100 position-relative">
+                                        <img src="./assets/img/fullstack-money.png" alt="img-colored-shadow" class="img-fluid w-100 position-absolute" style='left:0'>
                                         </a>
                                     </div>
                                     <div class="card-body">

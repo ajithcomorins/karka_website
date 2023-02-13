@@ -31,7 +31,7 @@
         </div>
             <div class='about-title container'>
                 <div class='mx-auto text-center'>
-                    <h2>We aim to democratise the technology education for all</h2>
+                    <h2>We aim to democratise the technology <br/>education for all</h2>
                     <p class='sub-para p-0'>Since 2018, Karka academy is running intensive bootcamps in our learning labs to provide industry ready engineers to IT companies and make people take right career path.</p>
                 </div>
             </div>
@@ -71,39 +71,110 @@
         </div>
         <div class='about-founder'>
             <div class="container">
-                <h3 class="text-center">FOUNDERS</h3>
-                <div class="row mt-7 justify-content-center">
-                    <div class="col-12 col-lg-4 col-sm-12 d-flex-none align-items-stretch">
-                        <div class="card mb-5 mb-lg-0">
-                            <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
-                                <a class="d-block blur-shadow-image">
-                                    <img src="./assets/img/f-sateesh.jpg" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100" loading="lazy">
-                                </a>
-                                <div class="card-body text-center founder-img">
-                                    <img src='./assets/img/link.png' class='float-start'/>
-                                    <span><h3>Sateesh kumar</h3></span>
-                                    <p class='p-4'>15+ Years, Founder <br/>Ex-Yatra.com</p>
-                                </div>
-                            </div>
+              <h3 class="text-center mb-8">FOUNDERS</h3>
+              <div class="row device-width mx-auto">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-12">
+                  <div class="card card-profile">
+                    <div class="card-header mt-n4 mx-3 p-0 bg-transparent position-relative z-index-2">
+                      <a class="d-block blur-shadow-image">
+                        <img src="./assets/img/f-sateesh.jpg" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100">
+                      </a>
+                    <div class="colored-shadow" style="background-image: url(&quot;../../assets/img/examples/card-profile1.jpg&quot;);"></div></div>
+                    <div class="card-body text-center">
+                        <h3>Sateesh kumar</h3>
+                        <p class='p-4'>15+ Years, Founder <br/>Ex-Yatra.com</p>
+                      <div class="row justify-content-center text-center">
+                        <div class="col-lg-12 col-12 text-center">
+                          <a href="https://www.linkedin.com/in/ssateeshk/">
+                            <img src='./assets/img/link.png' class=''/>
+                          </a>
                         </div>
+                      </div>
                     </div>
-                    <div class="col-12 col-lg-4 col-sm-12 d-flex-none align-items-stretch">
-                        <div class="card mb-5 mb-lg-0">
-                            <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
-                                <a class="d-block blur-shadow-image">
-                                    <img src="./assets/img/f-ramesh.jpg" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100" loading="lazy">
-                                </a>
-                                <div class="card-body text-center founder-img">
-                                    <img src='./assets/img/link.png' class='float-start'/>
-                                    <span><h3>Ramesh Varghese</h3></span>
-                                    <p class='p-4'>11+ Years, Founder <br/>Ex-SMHaack</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                  </div>
                 </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-12 mt-lg-0 mt-md-0 mt-sm-0 mt-5">
+                  <div class="card card-profile">
+                    <div class="card-header mt-n4 mx-3 p-0 bg-transparent position-relative z-index-2">
+                      <a class="d-block blur-shadow-image">
+                        <img src="./assets/img/f-ramesh.jpg" alt="img-blur-shadow" class="img-fluid border-radius-lg w-100">
+                      </a>
+                    <div class="colored-shadow" style="background-image: url(&quot;../../assets/img/examples/card-profile1.jpg&quot;);"></div></div>
+                    <div class="card-body text-center">
+                        <h3>Ramesh Varghese</h3>
+                        <p class='p-4'>11+ Years, Founder <br/>Ex-SMHaack</p>
+                      <div class="row justify-content-center text-center">
+                        <div class="col-lg-12 col-12 text-center">
+                          <a href="https://www.linkedin.com/in/ramesh-varghese/">
+                            <img src='./assets/img/link.png' class=''/>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
         </div>
+      </div>
+        <!-- address section start  -->
+      <div class="py-4 bg-white position-relative address-section">
+        <div class="page-header min-vh-50" style="background: linear-gradient(180deg, #202020 0%, #D587E4 100%);">
+          <span class="mask bg-gradient-dark opacity-4"></span>
+          <div class="container">
+            <div class="row justify-content-center">
+              <div class="col-lg-6 text-center mx-auto">
+                <h1 class="text-white mt-4 mb-1">Got a question?</h1>
+                <p class="lead text-white mb-6">We&#39;d like to talk more about what you need</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row mt-n5 blur border-radius-xl shadow-blur position-relative overflow-hidden">
+            <div class="col-lg-3 col-md-6 col-12 position-relative my-auto">
+              <div class="p-3 text-center">
+                <div class="icon icon-shape icon-md bg-color shadow-primary text-center mx-auto">
+                  <i class="material-icons opacity-10">menu_book</i>
+                </div>
+                <h5 class="mt-3 mb-1">Address</h5>
+                <p class="mb-0">4/5A, Putheri, Main road, Nagercoil</p>
+                
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-12 position-relative my-auto">
+              <div class="p-3 text-center">
+                <div class="icon icon-shape icon-md bg-color shadow-primary text-center mx-auto">
+                  <i class="material-icons opacity-10">email</i>
+                </div>
+                <h5 class="mt-3 mb-1">Email</h5>
+                <p class="mb-0">hi@karka.academy</p>
+              </div>
+              
+            </div>
+            <div class="col-lg-3 col-md-6 col-12 position-relative my-auto">
+              <div class="p-3 text-center">
+                <div class="icon icon-shape icon-md bg-color shadow-primary text-center mx-auto">
+                  <i class="material-icons opacity-10">call</i>
+                </div>
+                <h5 class="mt-3 mb-1">Phone</h5>
+                <p class="mb-0">+91 94875 30243</p>
+              </div>
+              
+            </div>
+            <div class="col-lg-3 col-md-6 col-12 position-relative my-auto">
+              <div class="p-3 text-center">
+                <div class="icon icon-shape icon-md bg-color shadow-primary text-center mx-auto">
+                  <i class="material-icons opacity-10">contacts</i>
+                </div>
+                <h5 class="mt-3 mb-1">Contact</h5>
+                <p class="mb-0">www.karka.academy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- address section end  -->
          <!-- Back to top button -->
          <button
                 type="button"

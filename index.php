@@ -205,7 +205,7 @@
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
                     <a href="https://www.linkedin.com/in/ramesh-varghese/">
                       <div class="instructor-img text-center">
-                        <img class="w-75 border-radius-md position-relative" src="./assets/img/ramesh-1.jpg" alt="image">
+                        <img class="w-75 border-radius-md position-relative" src="./assets/img/ramesh-in.jpg" alt="image">
                         <img class='position-absolute link-position' src='./assets/img/link.png'/>
                       </div>
                     </a>
@@ -225,7 +225,7 @@
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
                     <a href="https://www.linkedin.com/in/ssateeshk/">
                       <div class="instructor-img text-center">
-                        <img class="w-75 border-radius-md position-relative" src="./assets/img/sateesh.jpg" alt="image">
+                        <img class="w-75 border-radius-md position-relative" src="./assets/img/satheesh-in.jpg" alt="image">
                         <img class='position-absolute link-position' src='./assets/img/link.png'/>
                       </div>
                     </a>
@@ -245,7 +245,7 @@
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
                     <a href="https://www.linkedin.com/in/sivanananchaperumal-moorthy-9b334a249/">
                       <div class="instructor-img text-center">
-                         <img class="w-75 border-radius-md position-relative" src="./assets/img/perumal.jpg" alt="image">
+                         <img class="w-75 border-radius-md position-relative" src="./assets/img/perumal-link.jpg" alt="image">
                         <img class='position-absolute link-position' src='./assets/img/link.png'/>
                       </div>
                     </a>
@@ -456,6 +456,64 @@
         </div>
       </div>
       <!-- google review section end  -->
+      <!-- address section start  -->
+      <div class="py-4 bg-white position-relative address-section">
+        <div class="page-header min-vh-50" style="background: linear-gradient(180deg, #202020 0%, #D587E4 100%);">
+          <span class="mask bg-gradient-dark opacity-4"></span>
+          <div class="container">
+            <div class="row justify-content-center">
+              <div class="col-lg-6 text-center mx-auto">
+                <h1 class="text-white mt-4 mb-1">Got a question?</h1>
+                <p class="lead text-white mb-6">We&#39;d like to talk more about what you need</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row mt-n5 blur border-radius-xl shadow-blur position-relative overflow-hidden">
+            <div class="col-lg-3 col-md-6 col-12 position-relative my-auto">
+              <div class="p-3 text-center">
+                <div class="icon icon-shape icon-md bg-color shadow-primary text-center mx-auto">
+                  <i class="material-icons opacity-10">menu_book</i>
+                </div>
+                <h5 class="mt-3 mb-1">Address</h5>
+                <p class="mb-0">4/5A, Putheri, Main road, Nagercoil</p>
+                <hr class="vertical dark">
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-12 position-relative my-auto">
+              <div class="p-3 text-center">
+                <div class="icon icon-shape icon-md bg-color shadow-primary text-center mx-auto">
+                  <i class="material-icons opacity-10">email</i>
+                </div>
+                <h5 class="mt-3 mb-1">Email</h5>
+                <p class="mb-0">hi@karka.academy</p>
+              </div>
+              <hr class="vertical dark">
+            </div>
+            <div class="col-lg-3 col-md-6 col-12 position-relative my-auto">
+              <div class="p-3 text-center">
+                <div class="icon icon-shape icon-md bg-color shadow-primary text-center mx-auto">
+                  <i class="material-icons opacity-10">call</i>
+                </div>
+                <h5 class="mt-3 mb-1">Phone</h5>
+                <p class="mb-0">+91 94875 30243</p>
+              </div>
+              <hr class="vertical dark">
+            </div>
+            <div class="col-lg-3 col-md-6 col-12 position-relative my-auto">
+              <div class="p-3 text-center">
+                <div class="icon icon-shape icon-md bg-color shadow-primary text-center mx-auto">
+                  <i class="material-icons opacity-10">contacts</i>
+                </div>
+                <h5 class="mt-3 mb-1">Contact</h5>
+                <p class="mb-0">www.karka.academy</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- address section end  -->
        <!-- Back to top button -->
        <button
               type="button"
@@ -506,6 +564,8 @@
       });
 
       $owl.owlCarousel({
+        autoplay: true,
+        autoplayTimeout: 4000,
         center: true,
         loop: true,
         items: 3,

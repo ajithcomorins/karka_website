@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+.container-60{
+    max-width: 60% !important;
+}
 .container-85{
     max-width: 85% !important;
 }
@@ -484,6 +487,40 @@
         color: #FFFFFF;
     }
     /* review css end  */
+    /* address section css start  */
+    .address-section h1{
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 58px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    .bg-color{
+        background: linear-gradient(180deg, #92278F 0%, #D587E4 100%);
+        border-radius: 8px;
+      }
+      .address-section h5{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        color: #344767;
+      }
+      .address-section p{
+        margin-top: 13px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: #7B809A;
+      }
+    /* address section css end  */
     /* company-tab css start  */
     .company-tab{
         background: #FFF;
@@ -1514,9 +1551,12 @@
 /* moblie view css start  */
 
 @media (min-width: 320px) {
+    .device-width{
+        width: 100%;
+    }
    .instructor-img .link-position{
         width: 60px !important;
-        left: 35px;
+        left: 11px;
         top: -25px;
         border-radius: 0px !important;
       }
@@ -2352,8 +2392,8 @@
         font-family: 'Roboto' !important;
         font-style: normal;
         font-weight: 400;
-        font-size: 17px;
-        line-height: 27px;
+        font-size: 20px;
+        line-height: 30px;
         color: #000000;
     }
     .about-founder {
@@ -2383,7 +2423,41 @@
         line-height: 38px;
         color: #344767;
     }
-    
+    /* address section css start  */
+    .address-section h1{
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 58px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    .bg-color{
+        background: linear-gradient(180deg, #92278F 0%, #D587E4 100%);
+        border-radius: 8px;
+      }
+      .address-section h5{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        color: #344767 !important;
+      }
+      .address-section p{
+        padding: 0px !important;
+        margin-top: 13px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: #7B809A;
+      }
+    /* address section css end  */
      /* fullstack css end  */
      /* footer css start  */
      footer a {
@@ -3221,8 +3295,8 @@
         font-family: 'Roboto' !important;
         font-style: normal;
         font-weight: 400;
-        font-size: 17px;
-        line-height: 27px;
+        font-size: 25px;
+        line-height: 35px;
         color: #000000;
     }
     .about-founder {
@@ -3248,8 +3322,8 @@
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
-        font-size: 28px;
-        line-height: 38px;
+        font-size: 40px;
+        line-height: 50px;
         color: #344767;
     }
     
@@ -4106,6 +4180,41 @@
         line-height: 30px;
         color: #000000;
     }
+    /* address section css start  */
+    .address-section h1{
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 58px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    .bg-color{
+        background: linear-gradient(180deg, #92278F 0%, #D587E4 100%);
+        border-radius: 8px;
+      }
+      .address-section h5{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        color: #344767 !important;
+      }
+      .address-section p{
+        padding: 0px !important;
+        margin-top: 13px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: #7B809A;
+      }
+    /* address section css end  */
      /* fullstack css end  */
 }
 
@@ -4326,7 +4435,7 @@
     }
     .instructor-img img {
         width: 75% !important;
-        border-radius: 40px !important;
+        border-radius: 20px !important;
     }
     .timeline{
         padding-top: 140px !important;
@@ -4701,8 +4810,48 @@
         color: #000000;
     }
      /* index page css end  */
+     /* about page css start  */
+     /* address section css start  */
+    .address-section h1{
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 58px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    .bg-color{
+        background: linear-gradient(180deg, #92278F 0%, #D587E4 100%);
+        border-radius: 8px;
+      }
+      .address-section h5{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        color: #344767 !important;
+      }
+      .address-section p{
+        padding: 0px !important;
+        margin-top: 13px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: #7B809A;
+      }
+    /* address section css end  */
+     /* about page css end  */
 }
 @media (min-width: 992px) {
+    .device-width{
+        width: 60%;
+    }
    .instructor-img .link-position{
         width: 60px !important;
         left: -15px;
@@ -6108,10 +6257,10 @@
         color: #000000;
     }
     .about-founder{
-        margin-top: 217px;
+        margin-top: 75px;
     }
     .about-founder h3{
-        margin-top: 80px;
+        margin-top: 10px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
@@ -6123,10 +6272,45 @@
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
-        font-size: 32px;
-        line-height: 42px;
+        font-size: 26px;
+        line-height: 36px;
         color: #000000;
     }
+    /* address section css start  */
+    .address-section h1{
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 58px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    .bg-color{
+        background: linear-gradient(180deg, #92278F 0%, #D587E4 100%);
+        border-radius: 8px;
+      }
+      .address-section h5{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        color: #344767 !important;
+      }
+      .address-section p{
+        padding: 0px !important;
+        margin-top: 13px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        text-align: center;
+        color: #7B809A;
+      }
+    /* address section css end  */
     /* about_us end  */
     /* fullstack css end  */
 
