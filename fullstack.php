@@ -37,15 +37,17 @@
     <section class="py-1 overflow-hidden">
         <!-- overview section start  -->
         <div class="pap-header container-100" >
-            <div class='full-content container'>
-                <div class="row justify-content-start">
-                        <div class="col-lg-6 col-sm-12 col-12 pt-3 main-content text-lg-start text-md-start text-sm-center text-center">
-                            <h6><span class='rs'>No</span> Upfront Fee</h6>
-                            <h2>Full Stack Web<br/>Development Bootcamp</h2>
-                            <p><b>A 4 month, full-time(6 hrs per day), learning lab (classroom) based</b> bootcamp that land you as a full stack Developer.</p>
-                            <p>Earn as high as    3 lakhs per year or even more</p>
-                            <h6>Next batch starts mid Feb 2023</h6>
-                            <button onclick="window.open('https://karka.academy/apply/', '_blank')">Apply Now</button>
+            <div class='container-95 mx-auto'>
+                <div class='full-content'>
+                    <div class="row justify-content-start">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12 pt-3 main-content text-lg-start text-md-start text-sm-center text-center">
+                                <h6><span class='rs'>No</span> Upfront Fee</h6>
+                                <h2>Full Stack Web<br/>Development Bootcamp</h2>
+                                <p><b>A 4 month, full-time(6 hrs per day), learning lab (classroom) based</b> bootcamp that land you as a full stack Developer.</p>
+                                <p>Earn as high as    3 lakhs per year or even more</p>
+                                <h6>Next batch starts mid Feb 2023</h6>
+                                <button onclick="window.open('https://karka.academy/apply/', '_blank')">Apply Now</button>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -265,7 +267,7 @@
                             <div class="slide"><img src="./assets/img/tcs.png"></div>
                             <div class="slide"><img src="./assets/img/flow-logo.png"></div>
                             <div class="slide"><img src="./assets/img/Amadis.png"></div>
-                            <div class="slide"><img src="./assets/img/Amico 2.png"></div>
+                            <div class="slide"><img src="./assets/img/Amico.png"></div>
                             <div class="slide"><img src="./assets/img/comorins.png"></div>
                             <div class="slide"><img src="./assets/img/capecom.png"></div>
                             <div class="slide"><img src="./assets/img/alo-logo.png"></div>
@@ -274,7 +276,6 @@
                             <div class="slide"><img src="./assets/img/emis-logo.png"></div>
                             <div class="slide"><img src="./assets/img/hcl-logo.png"></div>
                             <div class="slide"><img src="./assets/img/revyrie.png"></div>
-                            <div class="slide"><img src="./assets/img/minerva-logo.png"></div>
                             <div class="slide"><img src="./assets/img/verticurl_logo_.png"></div>
                             <div class="slide"><img src="./assets/img/matrimony_logo.png"></div>
                             <div class="slide"><img src="./assets/img/wibits_dwd.png"></div>
@@ -338,7 +339,7 @@
                         <div class="col-lg-10">
                             <div class="table-back">
                                 <div class="table-responsive">
-                                    <table class="table align-items-center mb-0">
+                                    <table class="table table-bordered align-items-center mb-0">
                                         <thead>
                                             <tr>
                                             <th class="text-uppercase er">FEATURES</th>
@@ -352,18 +353,18 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                         <div>
-                                                            <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
+                                                            <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 w-100">
                                                         </div>
                                                         <div class="my-auto">
-                                                            <h6 class="mb-0 ">Upfront fee</h6>
+                                                            <h5 class="mb-0 ">Upfront fee</h5>
                                                         </div>
                                                     </div>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">3L - 5L</p>
+                                                    <h5 class="  mb-0">3L - 5L</h5>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">50K - 2L+</p> 
+                                                    <h5 class="  mb-0">50K - 2L+</h5> 
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
@@ -378,18 +379,18 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 w-100">
                                                     </div>
                                                     <div class="my-auto">
-                                                        <h6 class="mb-0 ">Fee if unemployed</h6>
+                                                        <h5 class="mb-0 ">Fee if unemployed</h5>
                                                     </div>
                                                     </div>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">3L - 5L</p>
+                                                    <h5 class="  mb-0">3L - 5L</h5>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">50K - 2L+</p>
+                                                    <h5 class="  mb-0">50K - 2L+</h5>
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
@@ -404,18 +405,18 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 w-100">
                                                     </div>
                                                     <div class="my-auto">
-                                                        <h6 class="mb-0 ">Time investment</h6>
+                                                        <h5 class="mb-0 ">Time investment</h5>
                                                     </div>
                                                     </div>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">3 - 4 Years</p>
+                                                    <h5 class="  mb-0">3 - 4 Years</h5>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">4 - 12 months</p>
+                                                    <h5 class="  mb-0">4 - 12 months</h5>
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
@@ -430,18 +431,18 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 w-100">
                                                     </div>
                                                     <div class="my-auto">
-                                                        <h6 class="mb-0 ">Placement</h6>
+                                                        <h5 class="mb-0 ">Placement</h5>
                                                     </div>
                                                     </div>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">Not guaranteed</p>
+                                                    <h5 class="  mb-0">Not guaranteed</h5>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">Not guaranteed</p>
+                                                    <h5 class="  mb-0">Not guaranteed</h5>
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
@@ -455,18 +456,18 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 w-100">
                                                     </div>
                                                     <div class="my-auto">
-                                                        <h6 class="mb-0 ">Mentor Qualifications</h6>
+                                                        <h5 class="mb-0 ">Mentor</h5>
                                                     </div>
                                                     </div>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">Professors and Ph.D</p>
+                                                    <h5 class="  mb-0">Professors and Ph.D</h5>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">Teaching faculties</p>
+                                                    <h5 class="  mb-0">Teaching faculties</h5>
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
@@ -480,18 +481,18 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 w-100">
                                                     </div>
                                                     <div class="my-auto">
-                                                        <h6 class="mb-0 ">Career Impact</h6>
+                                                        <h5 class="mb-0 ">Career Impact</h5>
                                                     </div>
                                                     </div>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">Degree once you finish</p>
+                                                    <h5 class="  mb-0">Degree once you finish</h5>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">shortterm impact</p>
+                                                    <h5 class="  mb-0">shortterm impact</h5>
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
@@ -505,18 +506,18 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 w-100">
                                                     </div>
                                                     <div class="my-auto">
-                                                        <h6 class="mb-0 ">Skill Development</h6>
+                                                        <h5 class="mb-0 ">Skill Development</h5>
                                                     </div>
                                                     </div>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">Exam oriented</p>
+                                                    <h5 class="  mb-0">Exam oriented</h5>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">Quasi-practical</p>
+                                                    <h5 class="  mb-0">Quasi-practical</h5>
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
@@ -530,18 +531,18 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 w-100">
                                                     </div>
                                                     <div class="my-auto">
-                                                        <h6 class="mb-0 ">Curriculum</h6>
+                                                        <h5 class="mb-0 ">Curriculum</h5>
                                                     </div>
                                                     </div>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">Text book</p>
+                                                    <h5 class="  mb-0">Text book</h5>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">Standard</p>
+                                                    <h5 class="  mb-0">Standard</h5>
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
@@ -555,18 +556,18 @@
                                                 <td>
                                                     <div class="d-flex px-2">
                                                     <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm rounded-circle me-2">
+                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 w-100">
                                                     </div>
                                                     <div class="my-auto">
-                                                        <h6 class="mb-0 ">Level of specialization</h6>
+                                                        <h5 class="mb-0 ">specialization</h5>
                                                     </div>
                                                     </div>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">Not Applicable</p>
+                                                    <h5 class="  mb-0">Not Applicable</h5>
                                                 </td>
                                                 <td>
-                                                    <p class="  mb-0">Medium</p>
+                                                    <h5 class="  mb-0">Medium</h5>
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
@@ -952,7 +953,7 @@
         // company brand-carousel 
         $(document).ready(function(){
             $('.customer-logos').slick({
-                slidesToShow: 6,
+                slidesToShow: 5,
                 autoplay: true,
                 autoplaySpeed: 1000,
                 arrows: false,
