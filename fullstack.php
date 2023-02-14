@@ -752,20 +752,22 @@
                         <div class="row mb-5">
                             <div class="col-lg-4 col-md-6">
                                 <div class="card card-background align-items-start h-100 border-0">
-                                    <div class="card-body text-center z-index-3 curriculam-card mx-auto">
-                                        <i class="material-icons text-white text-3xl mb-3 d-flex">import_contacts</i>
-                                        <h5 class="text-white mb-1">Module 1</h5>
-                                        <h4 class='text-white'>Foundations of Web<br/>Applications</h4>
-                                        <p class="text-white opacity-8">Introduction to Internet, HTTP, Web, HTML, CSS, Javascript, DOM, Git</p>
-                                        <button class="btn btn-white bg-white btn-sm" type="button" name="button">Download Syllabus</button>
-                                    </div>
+                                    <div class="card-body z-index-3 curriculam-card mx-auto">
+                                        <img src='./assets/img/Web_Application (1).png' />
+                                            <div class='text-center'>
+                                                <h5 class="text-white mb-1">Module 1</h5>
+                                                <h4 class='text-white'>Foundations of Web<br/>Applications</h4>
+                                                <p class="text-white opacity-8">Introduction to Internet, HTTP, Web, HTML, CSS, Javascript, DOM, Git</p>
+                                                <button class="btn btn-white bg-white btn-sm" type="button" name="button">Download Syllabus</button>
+                                            </div>
+                                        </div>
                                     <span class="mask bg-curriculam border-radius-xl z-index-2 opacity-7"></span>
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4 mt-3">
                                 <div class="card h-100 card-background align-items-start border-0">
                                 <div class="card-body z-index-3">
-                                    <i class="material-icons text-white text-3xl">import_contacts</i>
+                                <img src='./assets/img/Web_Application (3).png' />
                                 </div>
                                 <div class="card-footer pb-3 pt-2 z-index-3">
                                     <h5 class="text-white mb-1">Module 2</h5>
@@ -776,7 +778,7 @@
                                 </div>
                                 <div class="card h-100 card-background mt-4 align-items-start mt-sm-4 border-0">
                                 <div class="card-body z-index-3">
-                                    <i class="material-icons text-white text-3xl">volunteer_activism</i>
+                                <img src='./assets/img/Web_Application (5).png' />
                                 </div>
                                 <div class="card-footer pb-3 pt-2 z-index-3">
                                     <h5 class='text-white'>Module 3</h5>
@@ -787,11 +789,11 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4">
-                                <div class="card card-background align-items-start border-0">
+                                <div class="card h-100 card-background align-items-start border-0">
                                 <div class="card-body z-index-3">
-                                    <i class="material-icons text-white text-3xl">festival</i>
+                                    <img src='./assets/img/Web_Application (2).png' />
                                 </div>
-                                <div class="card-footer pb-3 pt-2 z-index-3">
+                                <div class="card-footer pb-3 pt-2 z-index-3 w-100">
                                     <h5 class='text-white'>Module 4</h5>
                                     <h4 class="text-white">Foundations of Backend</h4>
                                     <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">Programming, Data Structures,<br/>Algorithms</p>
@@ -800,9 +802,9 @@
                                 </div>
                                 <div class="card card-background mt-4 align-items-start border-0">
                                 <div class="card-body z-index-3">
-                                    <i class="material-icons text-white text-3xl">theater_comedy</i>
+                                    <img src='./assets/img/Web_Application (4).png' />
                                 </div>
-                                <div class="card-footer pb-3 pt-2 z-index-3">
+                                <div class="card-footer pb-3 pt-2 z-index-3 w-100">
                                     <h5 class='text-white'>Module 5</h5>
                                     <h4 class="text-white mb-1">Backend Framework</h4>
                                     <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">Java, Spring Boot, JPA, Transactions,<br/>MySQL</p>

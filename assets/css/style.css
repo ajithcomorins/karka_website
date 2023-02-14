@@ -43,6 +43,10 @@
     height: 36px !important;
     font-size: 0.875rem;
 }
+.card-background{
+    background: linear-gradient(180deg, #3E3D45 0%, #202020 100%);
+    border-radius: 12px;
+}
 /* nav button view end css  */
 /* scroll button css start  */
 #btn-back-to-top {
