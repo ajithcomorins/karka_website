@@ -705,41 +705,6 @@
                 <div class='container'>
                     <h2 class='text-center'>Know your Mentors</h2>
                     <div class='mx-auto'>
-                        <!-- <div  class='row m-0'>
-                            <div class='col-lg-4'>
-                                <div class='row'>
-                                    <div class='col-lg-4 col-6 p-0'>
-                                        <img src='./assets/img/satheesh-in.jpg' class='w-100'/>
-                                    </div>
-                                    <div class='col-lg-8 col-6 p-1 text-sm-center'>
-                                        <h4>Sateesh Kumar</h4>
-                                        <p>15+ Years<br/>Ex-Yatra.com</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class='col-lg-4 p-2'>
-                                <div class='row'>
-                                    <div class='col-lg-4 col-sm-6 col-6 p-0'>
-                                        <img src='./assets/img/ramesh-in.jpg' class='w-100'/>
-                                    </div>
-                                    <div class='col-lg-8 col-sm-6 col-6 p-1 text-sm-center'>
-                                        <h4>RameshVarghese</h4>
-                                        <p>11+ Years<br/>Ex-SMHack</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class='col-lg-4'>
-                                <div class='row'>
-                                    <div class='col-lg-4 col-6 p-0'>
-                                        <img src='./assets/img/perumal-link.jpg' class='w-100'/>
-                                    </div>
-                                    <div class='col-lg-8 col-6 p-2 text-sm-center'>
-                                        <h4>Sivanancha Perumal</h4>
-                                        <p>9+ Years<br/>Ex-SMHack</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
                         <div class="row justify-content-center" style='align-items: stretch'>
                             <div class="col-lg-4 col-sm-6 col-12">
                                 <div class="card card-profile mt-4">
@@ -747,7 +712,7 @@
                                     <div class="col-lg-6 col-12 text-center">
                                     <a href="javascript:;">
                                         <div class="p-3 pe-md-0 card-device-width">
-                                        <img class="w-90 border-radius-md shadow-lg" src="./assets/img/satheesh-in.jpg" alt="image">
+                                        <img class="w-lg-90 border-radius-md shadow-lg" src="./assets/img/satheesh-in.jpg" alt="image">
                                         </div>
                                     </a>
                                     </div>
@@ -766,7 +731,7 @@
                                     <div class="col-lg-6 col-12 text-center">
                                     <a href="javascript:;">
                                         <div class="p-3 pe-md-0 card-device-width">
-                                        <img class="w-90 border-radius-md shadow-lg" src="./assets/img/ramesh-in.jpg" alt="image">
+                                        <img class="w-lg-90 border-radius-md shadow-lg" src="./assets/img/ramesh-in.jpg" alt="image">
                                         </div>
                                     </a>
                                     </div>
@@ -785,7 +750,7 @@
                                     <div class="col-lg-6 col-12 text-center">
                                     <a href="javascript:;">
                                         <div class="p-3 pe-md-0 card-device-width">
-                                        <img class="w-90 border-radius-md shadow-lg" src="./assets/img/perumal-link.jpg" alt="image">
+                                        <img class="w-lg-90 border-radius-md shadow-lg" src="./assets/img/perumal-link.jpg" alt="image">
                                         </div>
                                     </a>
                                     </div>
