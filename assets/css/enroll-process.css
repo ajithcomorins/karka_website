@@ -483,12 +483,13 @@ margin: 30px 0px !important;
 }
 
 .timeline_button button{
+  margin-top: 40px;
   border: none;
-    padding: 24px 59px;
+    padding: 10px 15px;
     border-radius: 8px;
     color: white;
     background-color: #6D416D;
-    font-size: 26px;
+    font-size: 20px;
 }
 
 
@@ -1824,6 +1825,7 @@ margin: 30px 0px !important;
     text-align: center;
   }
   .click-mail {
+    margin-top: 0px;
     border: none;
     padding: 16px 16px !important;
     border-radius: 8px !important;

@@ -205,7 +205,7 @@
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
                     <a href="https://www.linkedin.com/in/ramesh-varghese/">
                       <div class="instructor-img text-center">
-                        <img class="w-75 border-radius-md position-relative" src="./assets/img/ramesh-in.jpg" alt="image">
+                        <img class="w-50 border-radius-md position-relative" src="./assets/img/ramesh-in.jpg" alt="image">
                         <img class='position-absolute link-position' src='./assets/img/link.png'/>
                       </div>
                     </a>
@@ -225,7 +225,7 @@
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
                     <a href="https://www.linkedin.com/in/ssateeshk/">
                       <div class="instructor-img text-center">
-                        <img class="w-75 border-radius-md position-relative" src="./assets/img/satheesh-in.jpg" alt="image">
+                        <img class="w-50 border-radius-md position-relative" src="./assets/img/satheesh-in.jpg" alt="image">
                         <img class='position-absolute link-position' src='./assets/img/link.png'/>
                       </div>
                     </a>
@@ -245,7 +245,7 @@
                   <div class="col-lg-6 col-md-4 col-12 mt-n5">
                     <a href="https://www.linkedin.com/in/sivanananchaperumal-moorthy-9b334a249/">
                       <div class="instructor-img text-center">
-                         <img class="w-75 border-radius-md position-relative" src="./assets/img/perumal-link.jpg" alt="image">
+                         <img class="w-50 border-radius-md position-relative" src="./assets/img/perumal-link.jpg" alt="image">
                         <img class='position-absolute link-position' src='./assets/img/link.png'/>
                       </div>
                     </a>
@@ -349,6 +349,48 @@
         </div>
       </div>
       <!-- company list view end  -->
+      <!-- google review section start  -->
+      <div class="overflow-hidden review-section">
+        <img src="assets/img/pattern-lines.svg" alt="pattern-lines" class="position-absolute w-100 h-100 opacity-6">
+        <div class="container mb-5">
+          <div class="row">
+            <div class="col-md-12 col-lg-12 text-center review-title">
+              <h3 class="text-white">What our students say about us!</h3>
+              <p class="text-white">Find out what people are saying about their experience with Karka Academy. Read testimonials from satisfied readers who have benefited from us.</p>
+            </div>
+          </div>
+        </div>
+        <div class="row m-0 p-3 card-review">
+          <div class="col-lg-4 col-md-12 d-flex align-items-stretch">
+            <div class="card mb-5 mb-lg-0">
+              <div class="card-body text-center">
+                <img src="assets/img/review-1.png" alt="..." class="">
+                <p class="mt-4">I have done my full stack development course in this institution.From the knowledge of learning I gain an very good confidence to be placed in the IT sectors and an decent knowledge in working on real time project in web- development and 100% efficient teaching along with the pratical side project explanation.I am truly thankful to KARKA ACADEMY</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-12 d-flex align-items-stretch">
+            <div class="card mb-5 mb-lg-0">
+              <div class="card-body text-center">
+                <img src="assets/img/review-2.png" alt="..." class="">
+                <p class="mt-4">It is a great place to learn even if you don't have any background knowledge in IT. Better learning happens when working with the projects. Very good experience and a good practical knowledge. We have awesome mentors, they help us every time when we need. I am truly thankful to KARKA ACADEMY, as you have given me the opportunity and to focus in my career. Best of luck!!</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-12 d-flex align-items-stretch">
+            <div class="card mb-5 mb-lg-0">
+              <div class="card-body text-center">
+                <img src="assets/img/review-3.png" alt="..." class="">
+                <p class="mt-4">Karka academy is the best place to learn Full Stack Web development.Very knowledgeable and skilled instructors, they provide wealth of information they clear all our doubts and explain with many real-time examples, they help us to skill up our knowledge and get a strong knowledge on what we are learning.I will recommend karka academy to everyone✌️</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class='text-center more-review'>
+          <a href='https://www.google.com/search?q=karka+software+academy&oq=karka+&aqs=chrome.0.35i39i355j46i39i175i199j69i57j69i60l5.3688j0j9&sourceid=chrome&ie=UTF-8#lrd=0x3b04f15dde0aa367:0xd5eb331016b805d0,1,,,,' target="_blank" class='text-decoration-none icon-move-right'>more review</a><i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
+        </div>
+      </div>
+      <!-- google review section end  -->
       <!-- enroll process start -->
       <div class="enroll-process container">
         <div class="">
@@ -415,7 +457,7 @@
                   <div class="col-lg-6 col-md-6 col-md-6 col-sm-12 timeline_image-2 timeline-card-img"><img src="./assets/img/enroll-1.png"></div>
                 </li> -->
                 <div class="col-md-12 col-lg-12 col-sm-12 col timeline_button text-center ">
-                  <button type="button" class="click-mail" data-toggle="modal" data-target="#exampleModal-2" onclick="window.location.href='https://karka.academy/apply/'">APPLY   <i class="fa fa-arrow-right ml-2" aria-hidden="true"></i></button>
+                  <button type="button" class="click-mail icon-move-right" data-toggle="modal" data-target="#exampleModal-2" onclick="window.location.href='https://karka.academy/apply/'">APPLY <i class="fas fa-arrow-right text-xs ms-1"></i></button>
                 <div>
               </div>
             </div>
@@ -423,48 +465,7 @@
         </div>
       </div>
       <!-- enroll process end  -->
-      <!-- google review section start  -->
-      <div class="overflow-hidden review-section">
-        <img src="assets/img/pattern-lines.svg" alt="pattern-lines" class="position-absolute w-100 h-100 opacity-6">
-        <div class="container mb-5">
-          <div class="row">
-            <div class="col-md-12 col-lg-12 text-center review-title">
-              <h3 class="text-white">What our students say about us!</h3>
-              <p class="text-white">Find out what people are saying about their experience with Karka Academy. Read testimonials from satisfied readers who have benefited from us.</p>
-            </div>
-          </div>
-        </div>
-        <div class="row m-0 p-3 card-review">
-          <div class="col-lg-4 col-md-12 d-flex align-items-stretch">
-            <div class="card mb-5 mb-lg-0">
-              <div class="card-body text-center">
-                <img src="assets/img/review-1.png" alt="..." class="">
-                <p class="mt-4">I have done my full stack development course in this institution.From the knowledge of learning I gain an very good confidence to be placed in the IT sectors and an decent knowledge in working on real time project in web- development and 100% efficient teaching along with the pratical side project explanation.I am truly thankful to KARKA ACADEMY</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-12 d-flex align-items-stretch">
-            <div class="card mb-5 mb-lg-0">
-              <div class="card-body text-center">
-                <img src="assets/img/review-2.png" alt="..." class="">
-                <p class="mt-4">It is a great place to learn even if you don't have any background knowledge in IT. Better learning happens when working with the projects. Very good experience and a good practical knowledge. We have awesome mentors, they help us every time when we need. I am truly thankful to KARKA ACADEMY, as you have given me the opportunity and to focus in my career. Best of luck!!</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-12 d-flex align-items-stretch">
-            <div class="card mb-5 mb-lg-0">
-              <div class="card-body text-center">
-                <img src="assets/img/review-3.png" alt="..." class="">
-                <p class="mt-4">Karka academy is the best place to learn Full Stack Web development.Very knowledgeable and skilled instructors, they provide wealth of information they clear all our doubts and explain with many real-time examples, they help us to skill up our knowledge and get a strong knowledge on what we are learning.I will recommend karka academy to everyone✌️</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class='text-center more-review'>
-          <a href='https://www.google.com/search?q=karka+software+academy&oq=karka+&aqs=chrome.0.35i39i355j46i39i175i199j69i57j69i60l5.3688j0j9&sourceid=chrome&ie=UTF-8#lrd=0x3b04f15dde0aa367:0xd5eb331016b805d0,1,,,,' target="_blank" class='text-decoration-none icon-move-right'>more review</a><i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
-        </div>
-      </div>
-      <!-- google review section end  -->
+      
       <!-- address section start  -->
       <div class="py-4 bg-white position-relative address-section">
         <div class="page-header min-vh-50" style="background: linear-gradient(180deg, #202020 0%, #D587E4 100%);">

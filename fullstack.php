@@ -41,7 +41,7 @@
                 <div class='full-content'>
                     <div class="row justify-content-start">
                             <div class="col-lg-6 col-md-6 col-sm-12 col-12 pt-3 main-content text-lg-start text-md-start text-sm-center text-center">
-                                <h6><span class='rs'>No</span> Upfront Fee</h6>
+                                <h6 class='pt-lg-5 pt-md-5'><span class='rs'>No</span> Upfront Fee</h6>
                                 <h2>Full Stack Web<br/>Development Bootcamp</h2>
                                 <p><b>A 4 month, full-time(6 hrs per day), learning lab (classroom) based</b> bootcamp that land you as a full stack Developer.</p>
                                 <p>Earn as high as    3 lakhs per year or even more</p>
@@ -51,13 +51,13 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>  
         </div>
         <div id="overview" class='container'>
             <div class='header container' id='header'>
                 <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n0 overflow-hidden d-none d-sm-none d-md-block d-lg-block">
                     <div class="container position-relative p-0">
-                        <div class="row justify-content-center align-items-center">
+                        <div class="row justify-content-center align-items-center m-0">
                             <nav class="navbar navbar-expand-lg fullstack-nav">
                                 <div class="container-fluid">
                                     <button class="navbar-toggler d-sm-block d-md-none d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -65,7 +65,7 @@
                                     </button>
                                     <div class="collapse navbar-collapse d-sm-none d-md-block d-lg-block" id="navbarNavAltMarkup topheader">
                                         <div class="full-nav d-flex justify-content-between w-100">
-                                            <a href="#overview" class="nav-link <?= ($activePage == '#overview') ? 'active':''; ?>">Overview</a>
+                                            <a href="#overview" class='nav-link active'>Overview</a>
                                             <a class="nav-link" href="#placement">Placement</a>
                                             <a class="nav-link" href="#fee">Fee</a>
                                             <a class="nav-link" href="#benifit">Benefits</a>
@@ -705,39 +705,99 @@
                 <div class='container'>
                     <h2 class='text-center'>Know your Mentors</h2>
                     <div class='mx-auto'>
-                        <div  class='row m-0'>
+                        <!-- <div  class='row m-0'>
                             <div class='col-lg-4'>
                                 <div class='row'>
-                                    <div class='col-lg-4 p-0'>
+                                    <div class='col-lg-4 col-6 p-0'>
                                         <img src='./assets/img/satheesh-in.jpg' class='w-100'/>
                                     </div>
-                                    <div class='col-lg-8 p-4 text-sm-center'>
+                                    <div class='col-lg-8 col-6 p-1 text-sm-center'>
                                         <h4>Sateesh Kumar</h4>
                                         <p>15+ Years<br/>Ex-Yatra.com</p>
                                     </div>
                                 </div>
                             </div>
-                            <div class='col-lg-4'>
+                            <div class='col-lg-4 p-2'>
                                 <div class='row'>
-                                    <div class='col-lg-4 p-0'>
+                                    <div class='col-lg-4 col-sm-6 col-6 p-0'>
                                         <img src='./assets/img/ramesh-in.jpg' class='w-100'/>
                                     </div>
-                                    <div class='col-lg-8 p-4 text-sm-center'>
-                                        <h4>Ramesh Varghese</h4>
+                                    <div class='col-lg-8 col-sm-6 col-6 p-1 text-sm-center'>
+                                        <h4>RameshVarghese</h4>
                                         <p>11+ Years<br/>Ex-SMHack</p>
                                     </div>
                                 </div>
                             </div>
                             <div class='col-lg-4'>
                                 <div class='row'>
-                                    <div class='col-lg-4 p-0'>
+                                    <div class='col-lg-4 col-6 p-0'>
                                         <img src='./assets/img/perumal-link.jpg' class='w-100'/>
                                     </div>
-                                    <div class='col-lg-8 p-4 text-sm-center'>
+                                    <div class='col-lg-8 col-6 p-2 text-sm-center'>
                                         <h4>Sivanancha Perumal</h4>
                                         <p>9+ Years<br/>Ex-SMHack</p>
                                     </div>
                                 </div>
+                            </div>
+                        </div> -->
+                        <div class="row justify-content-center" style='align-items: stretch'>
+                            <div class="col-lg-4 col-sm-6 col-12">
+                                <div class="card card-profile mt-4">
+                                <div class="row">
+                                    <div class="col-lg-6 col-12 text-center">
+                                    <a href="javascript:;">
+                                        <div class="p-3 pe-md-0 card-device-width">
+                                        <img class="w-90 border-radius-md shadow-lg" src="./assets/img/satheesh-in.jpg" alt="image">
+                                        </div>
+                                    </a>
+                                    </div>
+                                    <div class="col-lg-6 col-12 my-auto">
+                                    <div class="card-body ps-lg-0">
+                                        <h4 class="">Sateesh Kumar</h4>
+                                        <p class="text-info">15+ Years Ex-Yatra.com</p>
+                                    </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 col-12">
+                                <div class="card card-profile mt-4">
+                                <div class="row">
+                                    <div class="col-lg-6 col-12 text-center">
+                                    <a href="javascript:;">
+                                        <div class="p-3 pe-md-0 card-device-width">
+                                        <img class="w-90 border-radius-md shadow-lg" src="./assets/img/ramesh-in.jpg" alt="image">
+                                        </div>
+                                    </a>
+                                    </div>
+                                    <div class="col-lg-6 col-12 my-auto">
+                                    <div class="card-body ps-lg-0">
+                                        <h4 class="">Ramesh Varghese</h4>
+                                        <p class="text-info">11+ Years Ex-SMHack</p>
+                                    </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-sm-6 col-12 d-lg-flex">
+                                <div class="card card-profile mt-4 ">
+                                <div class="row">
+                                    <div class="col-lg-6 col-12 text-center">
+                                    <a href="javascript:;">
+                                        <div class="p-3 pe-md-0 card-device-width">
+                                        <img class="w-90 border-radius-md shadow-lg" src="./assets/img/perumal-link.jpg" alt="image">
+                                        </div>
+                                    </a>
+                                    </div>
+                                    <div class="col-lg-6 col-12 my-auto">
+                                    <div class="card-body ps-lg-0">
+                                        <h4 class="">Sivanancha Perumal</h4>
+                                        <p class="text-info">9+ Years</p>
+                                    </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
                             </div>
                         </div>
                     </div>
@@ -751,7 +811,7 @@
                     <div class='curriculam-top'>
                         <div class="row mb-5">
                             <div class="col-lg-4 col-md-6">
-                                <div class="card card-background align-items-start h-100 border-0">
+                                <div class="card card-background card-look align-items-start h-100 border-0">
                                     <div class="card-body z-index-3 curriculam-card mx-auto">
                                         <img src='./assets/img/Web_Application (1).png' />
                                             <div class='text-center'>
@@ -765,7 +825,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4 mt-3">
-                                <div class="card h-100 card-background align-items-start border-0">
+                                <div class="card h-100 card-background card-look align-items-start border-0">
                                 <div class="card-body z-index-3">
                                 <img src='./assets/img/Web_Application (3).png' />
                                 </div>
@@ -776,7 +836,7 @@
                                 </div>
                                 <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
                                 </div>
-                                <div class="card h-100 card-background mt-4 align-items-start mt-sm-4 border-0">
+                                <div class="card h-100 card-background card-look mt-4 align-items-start mt-sm-4 border-0">
                                 <div class="card-body z-index-3">
                                 <img src='./assets/img/Web_Application (5).png' />
                                 </div>
@@ -789,7 +849,7 @@
                                 </div>
                             </div>
                             <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4">
-                                <div class="card h-100 card-background align-items-start border-0">
+                                <div class="card h-100 card-background card-look align-items-start border-0">
                                 <div class="card-body z-index-3">
                                     <img src='./assets/img/Web_Application (2).png' />
                                 </div>
@@ -800,7 +860,7 @@
                                 </div>
                                 <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
                                 </div>
-                                <div class="card card-background mt-4 align-items-start border-0">
+                                <div class="card card-background card-look mt-4 align-items-start border-0">
                                 <div class="card-body z-index-3">
                                     <img src='./assets/img/Web_Application (4).png' />
                                 </div>
@@ -996,5 +1056,12 @@
                 }]
             });
         });
+
+        $(document).ready(function(){
+  $('.full-nav a').click(function(){
+    $('.full-nav a').removeClass("active");
+    $(this).addClass("active");
+});
+});
     </script>
 </html>

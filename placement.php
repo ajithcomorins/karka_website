@@ -39,7 +39,7 @@
         <h2 class='text-center p-4'>Meet our karka alumni who’ve made it.</h2>
         <div class='container container-95 d-lg-block d-sm-none d-none'>
            <div class='row m-0 align-items-stretch justify-content-center'>
-           <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+           <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/bino 1.png" class="card-img-top" alt="Bino">
                       <div class="card-body text-center">
@@ -49,7 +49,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/varsha-sj 1.png" class="card-img-top" alt="Varsha-sj">
                       <div class="card-body text-center">
@@ -59,7 +59,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/karthick 1.png" class="card-img-top" alt="karthick">
                       <div class="card-body text-center">
@@ -69,7 +69,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/sumesh-bro.png" class="card-img-top" alt="sumesh">
                       <div class="card-body text-center">
@@ -79,7 +79,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/steny 1.png" class="card-img-top" alt="steny">
                       <div class="card-body text-center">
@@ -89,7 +89,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/dhanaleskhmi 1.png" class="card-img-top" alt="Leskhmi">
                       <div class="card-body text-center">
@@ -99,7 +99,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/poothana 1.png" class="card-img-top" alt="Ajith">
                       <div class="card-body text-center">
@@ -109,7 +109,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/manikandan 1.png" class="card-img-top" alt="Ajith">
                       <div class="card-body text-center">
@@ -119,7 +119,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/anusha 1.png" class="card-img-top" alt="anusha">
                       <div class="card-body text-center">
@@ -129,7 +129,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/arunkarthick 1.png" class="card-img-top" alt="arunkarthick">
                       <div class="card-body text-center">
@@ -139,7 +139,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/sakthi 1.png" class="card-img-top" alt="sakthi">
                       <div class="card-body text-center">
@@ -149,7 +149,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/chandru 1.png" class="card-img-top" alt="chandru">
                       <div class="card-body text-center">
@@ -159,7 +159,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/arumugaperumal 1.png" class="card-img-top" alt="arumugaperumal">
                       <div class="card-body text-center">
@@ -169,7 +169,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/Preethika 1.png" class="card-img-top" alt="Preethika">
                       <div class="card-body text-center">
@@ -179,7 +179,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/sivaranjini 1.png" class="card-img-top" alt="sivaranjini">
                       <div class="card-body text-center">
@@ -189,7 +189,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/manoj 1.png" class="card-img-top" alt="manoj">
                       <div class="card-body text-center">
@@ -199,7 +199,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/udhayakumar 1.png" class="card-img-top" alt="udhayakumar">
                       <div class="card-body text-center">
@@ -209,7 +209,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/akash 1.png" class="card-img-top" alt="akash">
                       <div class="card-body text-center">
@@ -219,7 +219,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/sowmiya 1.png" class="card-img-top" alt="sowmiya">
                       <div class="card-body text-center">
@@ -229,7 +229,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/rebisha 1.png" class="card-img-top" alt="rebisha">
                       <div class="card-body text-center">
@@ -239,7 +239,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/abisha 1.png" class="card-img-top" alt="abisha">
                       <div class="card-body text-center">
@@ -249,7 +249,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/nadhika 1.png" class="card-img-top" alt="nadhika">
                       <div class="card-body text-center">
@@ -259,7 +259,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/dhaya 1.png" class="card-img-top" alt="dhaya">
                       <div class="card-body text-center">
@@ -269,7 +269,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/ajith 1.png" class="card-img-top" alt="Ajith">
                       <div class="card-body text-center">
@@ -279,7 +279,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/krishnaveni 1.png" class="card-img-top" alt="krishnaveni">
                       <div class="card-body text-center">
@@ -289,7 +289,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/bibin 1.png" class="card-img-top" alt="bibin">
                       <div class="card-body text-center">
@@ -299,7 +299,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/prakash 1.png" class="card-img-top" alt="prakash">
                       <div class="card-body text-center">
@@ -309,7 +309,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/Nathan 1.png" class="card-img-top" alt="nathan">
                       <div class="card-body text-center">
@@ -319,7 +319,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/shalini 1.png" class="card-img-top" alt="shalini">
                       <div class="card-body text-center">
@@ -329,7 +329,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/pavithra 1.png" class="card-img-top" alt="pavithra">
                       <div class="card-body text-center">
@@ -339,7 +339,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/benish 1.png" class="card-img-top" alt="benish">
                       <div class="card-body text-center">
@@ -349,7 +349,7 @@
                       </div>
                   </div>
               </div>
-              <div class='col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
                       <img src="./assets/img/Chaithanya 1.png" class="card-img-top" alt="chaithanya">
                       <div class="card-body text-center">
@@ -632,7 +632,7 @@
         <div class='container container-85 pb-6 pt-5'>
           <div class="company_cover bg-white company-tab">
             <h1 class="pt-6 mb-6 sm-mb-4 lg-mb-8 text-center  h1">Companies our students got placed</h1>    
-            <div class="row row-cols-lg-5 row-cols-md-3 row-cols-2 align-items-center justify-content-center px-104 company_tab_space">
+            <div class="row row-cols-lg-5 row-cols-md-3 row-cols-2 align-items-center justify-content-center px-104 company_tab_space m-0">
               
               <div class="col p-16">
                 <img class="img-fluid " src="./assets/img/Amazon-logo.png" alt="Amazon" loading="lazy" style="max-width: 100%; height: auto;">
