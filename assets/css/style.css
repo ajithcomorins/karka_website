@@ -11,6 +11,9 @@
 .container-95{
     max-width: 95% !important;
 }
+.container-98{
+    max-width: 98% !important;
+}
 .container-100{
     max-width: 100% !important;
 }
@@ -35,6 +38,11 @@
 .navbar-toggler.collapsed .navbar-toggler-icon .navbar-toggler-bar.bar3 {
     margin-top: 7px !important;
 }
+.avatar-sm {
+    width: 60px !important;
+    height: 36px !important;
+    font-size: 0.875rem;
+}
 /* nav button view end css  */
 /* scroll button css start  */
 #btn-back-to-top {
@@ -53,7 +61,7 @@
   .owl-nav button{
     margin: 10px !important;
     width: 20px !important;
-    height: 12vh !important;
+    height: 5vh !important;
     background-color: #542454 !important;
     color: #FFF !important;
     border-radius: 10px !important;
@@ -484,7 +492,7 @@
     /* instructor css start  */
     .instructor{
         background-color: #6D416D !important;
-        margin-bottom: 128px;
+        margin-bottom: 0px;
     }
     .instructor-title h3{
         margin-top: 71px;
@@ -2540,8 +2548,8 @@
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 700;
-        font-size: 48px;
-        line-height: 58px;
+        font-size: 40px;
+        line-height: 50px;
         text-align: center;
         color: #FFFFFF;
     }
@@ -2564,8 +2572,8 @@
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
-        font-size: 16px;
-        line-height: 26px;
+        font-size: 14px;
+        line-height: 24px;
         text-align: center;
         color: #7B809A;
       }
@@ -5281,7 +5289,7 @@
     /* instructor css start  */
     .instructor{
         background-color: #6D416D !important;
-        margin-bottom: 128px;
+        margin-bottom: 0px;
     }
     .instructor-title h3{
         margin-top: 71px;
