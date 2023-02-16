@@ -361,7 +361,7 @@
               </div>
               <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
-                      <img src="./assets/img/Chaithanya 1.png" class="card-img-top" alt="chaithanya">
+                      <img src="./assets/img/chaithanya 1.png" class="card-img-top" alt="chaithanya">
                       <div class="card-body text-center">
                           <h3 class="card-text">chaithanya</h3>
                           <h4>Batch-9-2022</h4>
@@ -371,7 +371,7 @@
               </div>
               <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
-                      <img src="./assets/img/Nathan 1.png" class="card-img-top" alt="nathan">
+                      <img src="./assets/img/nathan 1.png" class="card-img-top" alt="nathan">
                       <div class="card-body text-center">
                           <h3 class="card-text">nathan</h3>
                           <h4>Batch-9-2022</h4>
@@ -481,7 +481,7 @@
                     </div>
                 </div>
                 <div class="card-view p-0">
-                    <img src="./assets/img/Chaithanya 1.png" class="card-img-top" alt="chaithanya">
+                    <img src="./assets/img/chaithanya 1.png" class="card-img-top" alt="chaithanya">
                     <div class="card-body text-center">
                         <h3 class="card-text">chaithanya</h3>
                         <h4>Batch-9-2022</h4>
@@ -602,7 +602,7 @@
                     </div>
                 </div>
                 <div class="card-view p-0">
-                    <img src="./assets/img/Nathan 1.png" class="card-img-top" alt="nathan">
+                    <img src="./assets/img/nathan 1.png" class="card-img-top" alt="nathan">
                     <div class="card-body text-center">
                         <h3 class="card-text">nathan</h3>
                         <h4>Batch-9-2022</h4>
