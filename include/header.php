@@ -20,7 +20,7 @@
         <ul class="navbar-nav navbar-nav-hover ms-auto nav-page" id='nav-ative-link'>
           <li class='nav-item dropdown list-mar mb-2'>
             <a href="index.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center">
-              <img src='assets/img/home-icon.png' class="me-2"/>
+              <img src='assets/img/home-fav-icon.svg' class="me-2"/>
                 Home
             </a>
             <div class="underline <?= ($activePage == 'index') ? 'active':''; ?>"></div>
@@ -28,35 +28,35 @@
 
           <li class='nav-item dropdown list-mar mb-2'>
             <a href="courses.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center">
-              <img src='assets/img/course-icon.png' class="me-2"/>
+              <img src='assets/img/course-fav-icon.svg' class="me-2"/>
                 Courses
             </a>
             <div class="underline <?= ($activePage == 'courses') ? 'active':''; ?>"></div>
           </li>
           <li class='nav-item dropdown list-mar mb-2'>
             <a href="fees_pap.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center">
-              <img src='assets/img/fees-icon.png' class="me-2"/>
+              <img src='assets/img/fee-fav-icon.svg' class="me-2"/>
                 Fees & PAPP
             </a>
             <div class="underline <?= ($activePage == 'fees_pap') ? 'active':''; ?>"></div>
           </li>
           <li class='nav-item dropdown list-mar mb-2'>
             <a href="fullstack.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center">
-              <img src='assets/img/fullstack-icon.png' class="me-2"/>
+              <img src='assets/img/fullstack-fav-icon.svg' class="me-2"/>
                 Fullstack
             </a>
             <div class="underline <?= ($activePage == 'fullstack') ? 'active':''; ?>"></div>
           </li>
           <li class='nav-item dropdown list-mar mb-2'>
             <a href="placement.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center">
-              <img src='assets/img/placement-icon.png' class="me-2"/>
+              <img src='assets/img/placement-fav-icon.svg' class="me-2"/>
                 Placement
             </a>
             <div class="underline <?= ($activePage == 'placement') ? 'active':''; ?>"></div>
           </li>
           <li class='nav-item dropdown list-mar mb-2'>
             <a href="about.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center">
-              <img src='assets/img/contact-icon.png' class="me-2"/>
+              <img src='assets/img/contact-fav-icon.svg' class="me-2"/>
                 About Us
             </a>
             <div class="underline <?= ($activePage == 'about') ? 'active':''; ?>"></div>
