@@ -36,7 +36,7 @@
     <!-- section start  -->
     <section class='placement' style="background-image: url('./assets/img/company-bg.webp')">
       <div class='pt-5 p-4 container container-85'>
-        <h2 class='text-center p-4'>Meet our karka alumni who’ve made it.</h2>
+        <h2 class='text-center p-4 text-dark fw-bold'>Meet our <span style='color: #92278F'>KARKA</span> alumni who’ve made it.</h2>
         <div class='container container-95 d-lg-block d-sm-none d-none'>
            <div class='row m-0 align-items-stretch justify-content-center'>
            <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
@@ -106,6 +106,16 @@
                           <h3 class="card-text">Poothana</h3>
                           <h4>Batch-2-2018</h4>
                           <img src='./assets/img/colan-logo 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/suburamani 1.png" class="card-img-top" alt="subra">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Subramani </h3>
+                          <h4>Batch-7-2021</h4>
+                          <img src='./assets/img/flow-logo 1.png' class='w-50'/>
                       </div>
                   </div>
               </div>
@@ -311,11 +321,11 @@
               </div>
               <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
                   <div class="card" style="">
-                      <img src="./assets/img/Nathan 1.png" class="card-img-top" alt="nathan">
+                      <img src="./assets/img/mani 1.png" class="card-img-top" alt="Mani">
                       <div class="card-body text-center">
-                          <h3 class="card-text">nathan</h3>
-                          <h4>Batch-9-2022</h4>
-                          <img src='./assets/img/karka-placement.png' class='w-50'/>
+                          <h3 class="card-text">Mani</h3>
+                          <h4>Batch-6-2021</h4>
+                          <img src='./assets/img/arokee (1) 1.png' class='w-50'/>
                       </div>
                   </div>
               </div>
@@ -359,7 +369,16 @@
                       </div>
                   </div>
               </div>
-              
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/Nathan 1.png" class="card-img-top" alt="nathan">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">nathan</h3>
+                          <h4>Batch-9-2022</h4>
+                          <img src='./assets/img/karka-placement.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
           </div>
        </div>
        <div class='container container-95 d-lg-none d-sm-block d-block'>
@@ -470,6 +489,14 @@
                     </div>
                 </div>
                 <div class="card-view p-0">
+                    <img src="./assets/img/mani 1.png" class="card-img-top" alt="Mani">
+                    <div class="card-body text-center">
+                        <h3 class="card-text">Mani</h3>
+                        <h4>Batch-6-2021</h4>
+                        <img src='./assets/img/arokee (1) 1.png' class='w-50 mx-auto p-2'/>
+                    </div>
+                </div>
+                <div class="card-view p-0">
                     <img src="./assets/img/udhayakumar 1.png" class="card-img-top" alt="udhayakumar">
                     <div class="card-body text-center">
                         <h3 class="card-text">Udhai</h3>
@@ -519,11 +546,19 @@
                     </div>
                 </div>
                 <div class="card-view p-0">
-                    <img src="./assets/img/poothana 1.png" class="card-img-top" alt="Ajith">
+                    <img src="./assets/img/poothana 1.png" class="card-img-top" alt="Poothana">
                     <div class="card-body text-center">
                         <h3 class="card-text">Poothana</h3>
                         <h4>Batch-2-2018</h4>
                         <img src='./assets/img/colan-logo 1.png' class='w-50 mx-auto p-2'/>
+                    </div>
+                </div>
+                <div class="card-view p-0">
+                    <img src="./assets/img/suburamani 1.png" class="card-img-top" alt="Subramani">
+                    <div class="card-body text-center">
+                        <h3 class="card-text">Subramani</h3>
+                        <h4>Batch-2-2018</h4>
+                        <img src='./assets/img/flow-logo 1.png' class='w-50 mx-auto p-2'/>
                     </div>
                 </div>
                 <div class="card-view p-0">

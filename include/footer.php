@@ -8,7 +8,7 @@
             <a href="about.php" target="_self" class="text-decoration-none">About</a>            
             <a href="fullstack.php" target="_self" class="text-decoration-none">Fullstack</a>            
             <a href="fees_pap.php" target="_self" class="text-decoration-none">Service</a>            
-            <button type='button' class='get-in mt-3 sm-mt-0' onclick="window.open('https://karka.academy/apply/', '_blank')">GET TOUCH</button>        
+            <button type='button' class='get-in mt-3 sm-mt-0' onclick="window.open('https://karka.academy/apply/', '_blank')">Apply now</button>        
         </div>
     </div>
 </footer>

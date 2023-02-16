@@ -69,7 +69,7 @@
                                             <a class="nav-link" href="#placement">Placement</a>
                                             <a class="nav-link" href="#fee">Fee</a>
                                             <a class="nav-link" href="#benifit">Benefits</a>
-                                            <a class="nav-link" href="#pricinadmission">PricinAdmission Process</a>
+                                            <a class="nav-link" href="#pricinadmission">Admission Process</a>
                                             <a class="nav-link" href="#mentor">Mentors</a>
                                             <a class="nav-link" href="#curriculam">Curriculum</a>
                                             <!-- <a class="nav-link" href="#faq">FAQs</a> -->
@@ -167,7 +167,7 @@
                                 <img class="image-left border-radius-lg img-fluid position-relative top-0 end-0 bg-cover" src="./assets/img/overview-1.png" alt="image" loading="lazy">
                                 </div>
                             <div class="colored-shadow" style="background-image: url(&quot;https://images.unsplash.com/photo-1576425955345-f48eae74fc44?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2378&amp;q=80&quot;);"></div></div>
-                            <ul class="blockquote border border-primary rounded w-lg-50 w-md-75 w-sm-100 w-100 pt-3 pb-3 text-sm text-primary float-md-end mt-4 me-md-n2 mx-auto">
+                            <ul class="blockquote border border-dark rounded w-lg-50 w-md-75 w-sm-100 w-75 pt-3 pb-3 text-sm text-dark float-md-end mt-4 me-md-n2 mx-auto">
                                 <li>Graduates seeking IT professional jobs</li>
                                 <li>Working professionals interested in software development</li>
                             </ul>
@@ -368,7 +368,7 @@
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
-                                                    <i class="bg-success"></i>
+                                                    <i class="" style='background:#92278F'></i>
                                                     <span class="">0 (PAP)</span>
                                                     </span>
                                                 </td> 
@@ -394,7 +394,7 @@
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
-                                                    <i class="bg-danger"></i>
+                                                    <i class="" style='background:#92278F'></i>
                                                     <span class="">0</span>
                                                     </span>
                                                 </td>  
@@ -420,7 +420,7 @@
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
-                                                    <i class="bg-success"></i>
+                                                    <i class="" style='background:#92278F'></i>
                                                     <span class="">4 months</span>
                                                     </span>
                                                 </td>
@@ -446,7 +446,7 @@
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
-                                                    <i class="bg-danger"></i>
+                                                    <i class="" style='background:#92278F'></i>
                                                     <span class="">100% guaranteed</span>
                                                     </span>
                                                 </td>
@@ -471,7 +471,7 @@
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
-                                                    <i class="bg-info"></i>
+                                                    <i class="" style='background:#92278F'></i>
                                                     <span class="">Industry experts with 10+ years experience</span>
                                                     </span>
                                                 </td>
@@ -496,7 +496,7 @@
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
-                                                    <i class="bg-success"></i>
+                                                    <i class="" style='background:#92278F'></i>
                                                     <span class="">Guaranteed job placement</span>
                                                     </span>
                                                 </td>
@@ -521,7 +521,7 @@
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
-                                                    <i class="bg-success"></i>
+                                                    <i class="" style='background:#92278F'></i>
                                                     <span class="">Result oriented practical skills</span>
                                                     </span>
                                                 </td>
@@ -546,7 +546,7 @@
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
-                                                    <i class="bg-success"></i>
+                                                    <i class="" style='background:#92278F'></i>
                                                     <span class="">Industry curated contents</span>
                                                     </span>
                                                 </td>
@@ -571,7 +571,7 @@
                                                 </td>
                                                 <td>
                                                     <span class="badge badge-dot me-4">
-                                                    <i class="bg-success"></i>
+                                                    <i class="" style='background:#92278F'></i>
                                                     <span class="">Very High</span>
                                                     </span>
                                                 </td>
@@ -633,7 +633,7 @@
                                             </div>
                                             <div class="ps-2 col-lg-12 text-center">
                                                 <h4 class="text-sm p-3">Apply through Karka</h4>
-                                                <button class='admission-apply-now ms-3' onclick="window.location.href='https://karka.academy/apply/'">Apply Now</button>
+                                                <button class='admission-apply-now ms-3' onclick="window.open('https://karka.academy/apply/', '_blank')">Apply Now</button>
                                             </div>
                                         </div>
                                         <div class="justify-content-start d-flex px-2 py-1 mb-4 row">

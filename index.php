@@ -356,7 +356,7 @@
           <div class="row">
             <div class="col-md-12 col-lg-12 text-center review-title">
               <h3 class="text-white">What our students say about us!</h3>
-              <p class="text-white">Find out what people are saying about their experience with Karka Academy. Read testimonials from satisfied readers who have benefited from us.</p>
+              <p class="text-white">Find out what people are saying about their experience with Karka Academy.<br/>Read testimonials from satisfied readers who have benefited from us.</p>
             </div>
           </div>
         </div>

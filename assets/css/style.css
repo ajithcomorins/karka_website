@@ -47,6 +47,12 @@
     background: linear-gradient(180deg, #3E3D45 0%, #202020 100%);
     border-radius: 12px;
 }
+.owl-prev{
+    font: initial !important;
+}
+.owl-next{
+    font: initial !important;
+}
 /* nav button view end css  */
 /* scroll button css start  */
 #btn-back-to-top {
@@ -65,7 +71,7 @@
   .owl-nav button{
     margin: 10px !important;
     width: 40px !important;
-    height: 15vh !important;
+    height: 10vh !important;
     background-color: #542454 !important;
     color: #FFF !important;
     border-radius: 10px !important;
@@ -248,8 +254,8 @@
         line-height: 30px;
         color: #000 !important;
     }
-    .nav-page i{
-        color: #000 !important;
+    .nav-page a img{
+        color: #FFF !important;
     }
     .list-mar{
         margin-right: 12px;
@@ -2653,6 +2659,13 @@
         width: 100%;
         background-image: none !important;
     }
+    .nav-page li .underline.active {
+        height: 3px;
+        background-color: #FFF;
+        width: 25%;
+        transition: width 0.2s, background-color 0.5s;
+        margin: 0px 30px;
+    }
     .apply-now {
         padding: 5px !important;
     }
@@ -3516,6 +3529,13 @@
         top: -25px;
         border-radius: 0px !important;
       }
+      .nav-page li .underline.active {
+        height: 3px;
+        background-color: #FFF;
+        width: 20%;
+        transition: width 0.2s, background-color 0.5s;
+        margin: 0px 30px;
+    }
     .pap-header{
         width: 100%;
         background-image: none !important;
@@ -4379,6 +4399,13 @@
         top: -25px;
         border-radius: 0px !important;
       }
+      .nav-page li .underline.active {
+        height: 3px;
+        background-color: #FFF;
+        width: 15%;
+        transition: width 0.2s, background-color 0.5s;
+        margin: 0px 30px;
+    }
     .btn-bg {
         padding: 8px !important;
     }
@@ -5012,7 +5039,6 @@
         top: -25px;
         border-radius: 0px !important;
     }
-    
     .container{
         max-width: 95% !important;
     }
@@ -5043,7 +5069,7 @@
         line-height: 30px;
         color: #000 !important;
     }
-    .nav-page i{
+    .nav-page img{
         color: #000 !important;
     }
     .nav-title{
@@ -5079,10 +5105,11 @@
         margin-right: 12px;
     }
     .apply-now{
+        padding: 6px !important;
         font-family: 'Roboto' !important;
         font-style: normal !important;
         font-weight: 700 !important;
-        font-size: 20px !important;
+        font-size: 16px !important;
         line-height: 30px !important;
         text-align: right !important;
         color: #FFFFFF !important;
@@ -5520,7 +5547,7 @@
         line-height: 30px;
         color: #000 !important;
     }
-    .fee-section .nav-page i{
+    .fee-section .nav-page img{
         color: #000 !important;
     }
     .pap-header{
