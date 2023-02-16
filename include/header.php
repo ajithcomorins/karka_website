@@ -18,42 +18,48 @@
       </button>
       <div class="navbar-collapse w-100 pt-3 pb-2 py-lg-0 collapse" id="navigation" style="">
         <ul class="navbar-nav navbar-nav-hover ms-auto nav-page" id='nav-ative-link'>
-          <li class='nav-item dropdown list-mar'>
-            <a href="index.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center <?= ($activePage == 'index') ? 'active':''; ?>">
-              <i class="material-icons opacity-6 me-2">dashboard</i>
+          <li class='nav-item dropdown list-mar mb-2'>
+            <a href="index.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center">
+              <i class="material-icons opacity-6 me-2 mb-1">dashboard</i>
                 Home
             </a>
+            <div class="underline <?= ($activePage == 'index') ? 'active':''; ?>"></div>
           </li>
 
-          <li class='nav-item dropdown list-mar'>
-            <a href="courses.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center <?= ($activePage == 'courses') ? 'active':''; ?>">
-              <i class="material-icons opacity-6 me-2">dashboard</i>
+          <li class='nav-item dropdown list-mar mb-2'>
+            <a href="courses.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center">
+              <i class="material-icons opacity-6 me-2 mb-1">dashboard</i>
                 Courses
             </a>
+            <div class="underline <?= ($activePage == 'courses') ? 'active':''; ?>"></div>
           </li>
-          <li class='nav-item dropdown list-mar'>
-            <a href="fees_pap.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center <?= ($activePage == 'fees_pap') ? 'active':''; ?>">
-              <i class="material-icons opacity-6 me-2">dashboard</i>
+          <li class='nav-item dropdown list-mar mb-2'>
+            <a href="fees_pap.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center">
+              <i class="material-icons opacity-6 me-2 mb-1">dashboard</i>
                 Fees & PAPP
             </a>
+            <div class="underline <?= ($activePage == 'fees_pap') ? 'active':''; ?>"></div>
           </li>
-          <li class='nav-item dropdown list-mar'>
-            <a href="fullstack.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center <?= ($activePage == 'fullstack') ? 'active':''; ?>">
-              <i class="material-icons opacity-6 me-2">dashboard</i>
+          <li class='nav-item dropdown list-mar mb-2'>
+            <a href="fullstack.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center">
+              <i class="material-icons opacity-6 me-2 mb-1">dashboard</i>
                 Fullstack
             </a>
+            <div class="underline <?= ($activePage == 'fullstack') ? 'active':''; ?>"></div>
           </li>
-          <li class='nav-item dropdown list-mar'>
-            <a href="placement.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center <?= ($activePage == 'placement') ? 'active':''; ?>">
-              <i class="material-icons opacity-6 me-2">dashboard</i>
+          <li class='nav-item dropdown list-mar mb-2'>
+            <a href="placement.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center">
+              <i class="material-icons opacity-6 me-2 mb-1">dashboard</i>
                 Placement
             </a>
+            <div class="underline <?= ($activePage == 'placement') ? 'active':''; ?>"></div>
           </li>
-          <li class='nav-item dropdown list-mar'>
-            <a href="about.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center <?= ($activePage == 'about') ? 'active':''; ?>">
-              <i class="material-icons opacity-6 me-2">dashboard</i>
+          <li class='nav-item dropdown list-mar mb-2'>
+            <a href="about.php" class="nav-link nav-title ps-2 d-flex cursor-pointer align-items-center">
+              <i class="material-icons opacity-6 me-2 mb-1">dashboard</i>
                 About Us
             </a>
+            <div class="underline <?= ($activePage == 'about') ? 'active':''; ?>"></div>
           </li>
         </ul>
         <ul class="navbar-nav d-lg-block d-none">

@@ -473,7 +473,7 @@
           <div class="container">
             <div class="row justify-content-center">
               <div class="col-lg-6 text-center mx-auto">
-                <h1 class="text-white mt-4 mb-1">Got a question?</h1>
+                <h1 class="text-white mt-4 mb-1">Contact Us</h1>
                 <p class="lead text-white mb-6">We&#39;d like to talk more about what you need</p>
               </div>
             </div>

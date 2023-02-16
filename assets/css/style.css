@@ -65,11 +65,14 @@
   .owl-nav button{
     margin: 10px !important;
     width: 40px !important;
-    height: 8vh !important;
+    height: 15vh !important;
     background-color: #542454 !important;
     color: #FFF !important;
     border-radius: 10px !important;
   }
+  .owl-nav button span{
+    font-size: x-large;
+  } 
  .instructor-img .link-position{
     width: 60px !important;
     left: -15px;
@@ -1679,6 +1682,24 @@
 /* moblie view css start  */
 
 @media (min-width: 320px) {
+    .nav-title{
+        padding: 0rem 1rem !important;
+      }
+      .nav-page li a.nav-title::after{
+        content: '';
+        display: block;
+        width: 0px;
+        height: 1.5px;
+        background: #fff;
+        transition: width .3s
+      }
+      .nav-page li .underline.active {
+        height: 3px;
+        background-color: #FFF;
+        width: 30%;
+        transition: width 0.2s, background-color 0.5s;
+        margin: 0px 30px;
+    }
     .device-width{
         width: 100%;
     }
@@ -1691,6 +1712,10 @@
     .pap-header{
         width: 100%;
         background-image:none !important;
+    }
+    .nav-page li a.active {
+        color: #FFF !important;
+        text-decoration: underline;
     }
     .apply-now {
         padding: 5px !important;
@@ -4986,7 +5011,8 @@
         left: -15px;
         top: -25px;
         border-radius: 0px !important;
-      }
+    }
+    
     .container{
         max-width: 95% !important;
     }
@@ -5019,6 +5045,35 @@
     }
     .nav-page i{
         color: #000 !important;
+    }
+    .nav-title{
+        padding: 0rem 1rem !important;
+      }
+      .nav-page li a.nav-title::after{
+        content: '';
+        display: block;
+        width: 0px;
+        height: 1.5px;
+        background: #fff;
+        transition: width .3s
+      }
+      .nav-page li .underline {
+        height: 3px;
+        background-color: #92278f;
+        width: 0%;
+        transition: width 0.2s, background-color 0.5s;
+        margin: 0 auto;
+    }
+      .nav-page li:hover .underline{
+        background-color: #92278f;
+        width: 100%;
+    }
+      .nav-page li .underline.active {
+        height: 3px;
+        background-color: #92278f;
+        width: 100%;
+        transition: width 0.2s, background-color 0.5s;
+        margin: 0 auto;
     }
     .list-mar{
         margin-right: 12px;
