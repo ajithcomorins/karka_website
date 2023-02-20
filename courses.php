@@ -21,7 +21,15 @@
     <!-- CSS Files -->
     <link id="pagestyle" href="assets/css/material-kit-pro.css?v=3.0.3" rel="stylesheet" />
     <link id="pagestyle" href="assets/css/style.css" rel="stylesheet" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-06CQLRKZ50"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
+        gtag('config', 'G-06CQLRKZ50');
+    </script>
 </head>
 <body>
     <!-- header section start -->

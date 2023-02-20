@@ -25,7 +25,15 @@
   <!-- enroll-process css files  -->
   <link id="pagestyle" href="assets/css/enroll-theme.css" rel="stylesheet" /> 
   <link id="pagestyle" href="assets/css/enroll-process.css" rel="stylesheet" />
-  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-06CQLRKZ50"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-06CQLRKZ50');
+  </script>
 
 </head>
   <body>
@@ -264,7 +272,7 @@
       </div>
       <!-- instrcutor section end  -->
       <!-- company list view start -->
-      <div class='mb-4' style="background-image: url('./assets/img/company-bg.webp')">
+      <div class='mb-0' style="background-image: url('./assets/img/company-bg.webp')">
         <div class='container pb-6 pt-5'>
           <div class="company_cover bg-white company-tab">
             <h1 class="pt-6 mb-6 sm-mb-4 lg-mb-8 text-center  h1">Companies our students got placed</h1>    
