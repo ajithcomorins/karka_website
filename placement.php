@@ -202,7 +202,7 @@
                       <img src="./assets/img/sivaranjini 1.png" class="card-img-top" alt="sivaranjini">
                       <div class="card-body text-center">
                           <h3 class="card-text">Sivaranjini</h3>
-                          <h4>Batch-3-2018</h4>
+                          <h4>Batch-3-2020</h4>
                           <img src='./assets/img/flow-logo 1.png' class='w-50'/>
                       </div>
                   </div>
@@ -371,7 +371,7 @@
                   <div class="card" style="">
                       <img src="./assets/img/chaithanya 1.png" class="card-img-top" alt="chaithanya">
                       <div class="card-body text-center">
-                          <h3 class="card-text">chaithanya</h3>
+                          <h3 class="card-text">Chaithanya</h3>
                           <h4>Batch-9-2022</h4>
                           <img src='./assets/img/karka-placement.png' class='w-50'/>
                       </div>
@@ -381,7 +381,7 @@
                   <div class="card" style="">
                       <img src="./assets/img/nathan 1.png" class="card-img-top" alt="nathan">
                       <div class="card-body text-center">
-                          <h3 class="card-text">nathan</h3>
+                          <h3 class="card-text">Nathan</h3>
                           <h4>Batch-9-2022</h4>
                           <img src='./assets/img/karka-placement.png' class='w-50'/>
                       </div>
@@ -491,7 +491,7 @@
                 <div class="card-view p-0">
                     <img src="./assets/img/chaithanya 1.png" class="card-img-top" alt="chaithanya">
                     <div class="card-body text-center">
-                        <h3 class="card-text">chaithanya</h3>
+                        <h3 class="card-text">Chaithanya</h3>
                         <h4>Batch-9-2022</h4>
                         <img src='./assets/img/karka-placement.png' class='w-50 mx-auto p-2'/>
                     </div>
@@ -612,7 +612,7 @@
                 <div class="card-view p-0">
                     <img src="./assets/img/nathan 1.png" class="card-img-top" alt="nathan">
                     <div class="card-body text-center">
-                        <h3 class="card-text">nathan</h3>
+                        <h3 class="card-text">Nathan</h3>
                         <h4>Batch-9-2022</h4>
                         <img src='./assets/img/karka-placement.png' class='w-50 mx-auto p-2'/>
                     </div>
