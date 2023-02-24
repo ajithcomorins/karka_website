@@ -272,15 +272,6 @@
         box-shadow: 0px 2px 6px rgba(109, 65, 109, 0.25) !important;
         border-radius: 8px !important;
     }
-    .apply-now a{
-        font-family: 'Roboto' !important;
-        font-style: normal !important;
-        font-weight: 700 !important;
-        font-size: 20px !important;
-        line-height: 30px !important;
-        text-align: right !important;
-        color: #FFFFFF !important;
-    }
     /* header navbar css end  */
     /* main section css start  */
     /* header carousel section  css start */
@@ -726,14 +717,6 @@
 
     /* fee_app.php css start */
     /* header navbar css start  */
-    .fee-sections .nav-page a{
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 20px !important;
-        line-height: 30px;
-        /* color: #000 !important; */
-    }
     .pap-header{
         padding: 0;
         position: relative;
@@ -1688,6 +1671,19 @@
 /* moblie view css start  */
 
 @media (min-width: 320px) {
+    .nav-page .brochuer{
+        padding: 6px;
+        font-family: 'Roboto' !important;
+        font-style: normal !important;
+        font-weight: 700 !important;
+        font-size: 16px !important;
+        line-height: 30px !important;
+        text-align: right !important;
+        color: #000 !important;
+        background:#FFF !important;
+        box-shadow: 0px 2px 6px rgba(109, 65, 109, 0.25) !important;
+        border-radius: 8px !important;
+    }
     .nav-title{
         padding: 0rem 1rem !important;
       }
@@ -4402,7 +4398,7 @@
       .nav-page li .underline.active {
         height: 3px;
         background-color: #FFF;
-        width: 3%;
+        width: 2.5%;
         transition: width 0.2s, background-color 0.5s;
         margin: 0px 4px;
     }
@@ -5109,8 +5105,8 @@
         font-family: 'Roboto' !important;
         font-style: normal !important;
         font-weight: 700 !important;
-        font-size: 16px !important;
-        line-height: 30px !important;
+        font-size: 18px !important;
+        line-height: 28px !important;
         text-align: right !important;
         color: #FFFFFF !important;
         background: linear-gradient(0deg, #876187 0.08%, #6D416D 100.08%) !important;

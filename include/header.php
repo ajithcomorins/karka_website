@@ -64,7 +64,7 @@
         </ul>
         <ul class="navbar-nav d-lg-block d-none">
           <li class="nav-item">
-            <a href="https://karka.academy/apply/" class="btn btn-sm  apply-now mb-0 me-1" target='_blank'>Apply Now</a>
+            <a href="https://karka.academy/apply/" class="btn btn-sm  apply-now mb-0 me-1" target='_blank'>Apply</a>
           </li>
         </ul>
       </div>

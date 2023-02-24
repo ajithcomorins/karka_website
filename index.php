@@ -83,7 +83,7 @@
                         </div>
                       </div>
                       <div class="col-lg-6">
-                        <img class="w-100 border-radius-lg shadow mt-4" src="assets/img/pap-img.jpg" alt="flower-1" loading="lazy">
+                        <img class="w-100 border-radius-lg shadow mt-4" src="assets/img/pap-img.png" alt="flower-1" loading="lazy">
                       </div>
                     </div>
                   </div>
@@ -532,6 +532,7 @@
         </div>
       </div>
       <!-- address section end  -->
+       <!-- brochure button -->
        <!-- Back to top button -->
        <button
               type="button"
@@ -539,6 +540,13 @@
               id="btn-back-to-top"
               >
         <i class="fas fa-arrow-up"></i>
+      </button>
+       <button
+          type="button"
+          class="btn btn-danger btn-floating btn-lg"
+          id="btn-back-to-top"
+        >
+        <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank'><i class="fa fa-file-pdf-o"></i></a> 
       </button>
     </section>
     <!-- main section end  -->
