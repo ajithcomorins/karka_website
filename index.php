@@ -538,15 +538,21 @@
               type="button"
               class="btn btn-danger btn-floating btn-lg"
               id="btn-back-to-top"
+              title='TOP'
+              
               >
-        <i class="fas fa-arrow-up"></i>
+        <i class="fas fa-arrow-up" ></i>
       </button>
+      <!-- brochure pdf button  -->
        <button
           type="button"
           class="btn btn-danger btn-floating btn-lg"
-          id="btn-back-to-top"
+          id="btn-brochure"
+          title='BROCHURE'
+          onclick="window.open('./assets/pdf/BROCHURE_KARKA.pdf')"
         >
-        <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank'><i class="fa fa-file-pdf-o"></i></a> 
+        <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank'><i class="fa fa-file-pdf-o text-white"></i>
+        </a>
       </button>
     </section>
     <!-- main section end  -->
