@@ -43,7 +43,7 @@
     <!-- heaader section end -->
     <!-- section start  -->
     <section class='placement' style="background-image: url('./assets/img/company-bg.webp')">
-      <div class='pt-5 p-4 container container-85'>
+      <div class='container container-85 placement-top'>
         <h2 class='text-center p-4 text-dark fw-bold'>Meet our <span style='color: #92278F'>KARKA</span> alumni who’ve made it.</h2>
         <div class='container container-95 d-lg-block d-sm-none d-none'>
            <div class='row m-0 align-items-stretch justify-content-center'>
@@ -769,7 +769,7 @@
           type="button"
           class="btn btn-danger btn-floating btn-lg"
           id="btn-brochure"
-          title='BROCHURE'
+          title='DOWNLOAD BROCHURE'
           onclick="window.open('./assets/pdf/BROCHURE_KARKA.pdf')"
         >
          <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank' title='BROCHURE'><i class="fa fa-file-pdf-o text-white"></i></a> 

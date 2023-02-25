@@ -2,7 +2,7 @@
 <?php $activePage = basename($_SERVER['PHP_SELF'], ".php"); ?>
 
 <!-- navbar section start -->
-<nav class="navbar navbar-expand-lg z-index-3 w-100 shadow-none navbar-transparent p-0">
+<nav class="navbar navbar-expand-lg z-index-3 w-100 shadow-none navbar-transparent p-0 position-fixed bg-white">
     <div class="container container-98 p-0">
       <a class="navbar-brand text-dark" href="index.php" rel="tooltip" title="Designed and Coded by Creative Tim" data-placement="bottom">
         <img src='assets/img/karka-logos.png' alt='' class='black-logo'>

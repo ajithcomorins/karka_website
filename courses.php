@@ -74,6 +74,9 @@
                             <h5>Guranteed job as high as 3 LPA or above</h5>
                         </div>
                     </div>
+                    <div class='mx-auto w-50 m-lg-5 m-md-4 m-sm-3  m-4'>
+                        <button class="custom-btn btn-12" onclick="window.open('./assets/pdf/BROCHURE_KARKA.pdf')"><span>CLICK</span><span>BROCHURE DOWNLOAD</span></button>
+                    </div>
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <div class="cursor-pointer">
@@ -221,10 +224,10 @@
           type="button"
           class="btn btn-danger btn-floating btn-lg"
           id="btn-brochure"
-          title='BROCHURE'
+          title='DOWNLOAD BROCHURE'
           onclick="window.open('./assets/pdf/BROCHURE_KARKA.pdf')"
         >
-        <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank' title='BROCHURE'><i class="fa fa-file-pdf-o text-white"></i></a> 
+        <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank'><i class="fa fa-file-pdf-o text-white"></i></a> 
       </button>
     </section>
     <!-- section end  -->

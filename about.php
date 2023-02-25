@@ -35,7 +35,7 @@
      <!-- header section start -->
      <header class='about-us'>
         <?php include 'include/header.php' ?>
-        <div>
+        <div class='about-bg'>
             <img src='./assets/img/about-us.png' class='w-100'/>
         </div>
             <div class='about-title container'>
@@ -197,7 +197,7 @@
           type="button"
           class="btn btn-danger btn-floating btn-lg"
           id="btn-brochure"
-          title='BROCHURE'
+          title='DOWNLOAD BROCHURE'
           onclick="window.open('./assets/pdf/BROCHURE_KARKA.pdf')"
         >
          <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank' title='BROCHURE'><i class="fa fa-file-pdf-o text-white"></i></a> 

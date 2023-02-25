@@ -43,7 +43,7 @@
     </header>
     <!-- header section end  -->
     <!-- section start  -->
-    <section class="py-1 overflow-hidden">
+    <section class="fullstack-top overflow-hidden">
         <!-- overview section start  -->
         <div class="pap-header container-100" >
             <div class='container-95 mx-auto'>
@@ -963,7 +963,7 @@
           type="button"
           class="btn btn-danger btn-floating btn-lg"
           id="btn-brochure"
-          title='BROCHURE'
+          title='DOWNLOAD BROCHURE'
           onclick="window.open('./assets/pdf/BROCHURE_KARKA.pdf')"
         >
         <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank' title='BROCHURE'><i class="fa fa-file-pdf-o text-white"></i></a> 
@@ -1047,5 +1047,24 @@
     $(this).addClass("active");
 });
 });
+
+// $(window).scroll(function() {
+// 		var windscroll = $(window).scrollTop();
+// 		if (windscroll >= 100) {
+// 			$('section').each(function(i) {
+//         // The number at the end of the next line is how pany pixels you from the top you want it to activate.
+// 				if ($(this).position().top <= windscroll - 0) {
+// 					$('nav li.active').removeClass('active');
+// 					$('nav li').eq(i).addClass('active');
+// 				}
+// 			});
+
+// 		} else {
+
+// 			$('nav li.active').removeClass('active');
+// 			$('nav li:first').addClass('active');
+// 		}
+
+// 		}).scroll();
     </script>
 </html>

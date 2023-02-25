@@ -193,7 +193,7 @@
       <div class='master-box container'>
         <h2>Mastery Box</h2>
         <div class='text-center'>
-          <img src='assets/img/mastery-box.png' alt='' class=''/>
+          <img src='assets/img/mastery-box.png' alt='' class='w-100'/>
         </div>
       </div>
       <!-- master box end  -->
@@ -548,7 +548,7 @@
           type="button"
           class="btn btn-danger btn-floating btn-lg"
           id="btn-brochure"
-          title='BROCHURE'
+          title='DOWNLOAD BROCHURE'
           onclick="window.open('./assets/pdf/BROCHURE_KARKA.pdf')"
         >
         <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank'><i class="fa fa-file-pdf-o text-white"></i>

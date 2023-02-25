@@ -66,7 +66,7 @@
   }
   /* scroll button css start  */
 #btn-brochure {
-    display: block !important;
+    /* display: block !important; */
     background-color: #6D416D !important;
     position: fixed;
     bottom: 130px;
@@ -76,6 +76,9 @@
     border-radius: 25px;
   }
   /* placement page owl-carosul button css */
+  .placement-top{
+    padding-top: 90px;
+  }
   .owl-nav{
     text-align: center;
   }
@@ -96,9 +99,16 @@
     top: -25px;
     border-radius: 0px !important;
   }
+  /* about page css  */
+  .about-bg{
+    padding-top: 85px;
+  }
   /* fullstack page company list css start  */
+
+  .fullstack-top{
+    padding-top: 88px;
+  }
   /* Slider */
-  
   .slick-slide {
       margin: 0px 20px;
   }
@@ -292,7 +302,7 @@
         border-radius: 12px;
     }
     .section-karka{
-        margin-top: 40px !important;
+        margin-top: 120px !important;
         padding-bottom: 109px;
     }
     .section-karka h2{
@@ -892,6 +902,7 @@
 
     /* bootcamp css start  */
     .bootcamp-title{
+        padding-top: 85px;
         background: #6D416D !important;
         opacity: 0.8 !important;
     }
@@ -2124,10 +2135,101 @@
     .bootcamp-details {
         margin-top: 50px;
     }
+      /* course page brochure css start */
+      .custom-btn {
+        width: 130px;
+        height: 40px;
+        color: #fff;
+        border-radius: 5px;
+        padding: 10px 25px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 500;
+        background: transparent;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        position: relative;
+        display: inline-block;
+        box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+        7px 7px 20px 0px rgba(0,0,0,.1),
+        4px 4px 5px 0px rgba(0,0,0,.1);
+        outline: none;
+    }
+    .btn-12{
+      position: relative;
+      right: 50%;
+      bottom: 20px;
+      border:none;
+      box-shadow: none;
+      width: 130px;
+      height: 40px;
+      line-height: 42px;
+      -webkit-perspective: 230px;
+      perspective: 230px;
+    }
+    .btn-12 span {
+        background: #344767;
+        display: block;
+        position: absolute;
+        width: 220px;
+        height: 40px;
+        box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+        7px 7px 20px 0px rgba(0,0,0,.1),
+        4px 4px 5px 0px rgba(0,0,0,.1);
+        border-radius: 5px;
+        margin:0;
+        text-align: center;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        -webkit-transition: all .3s;
+        transition: all .3s;
+        font-family: 'Roboto';
+        font-weight: 500;
+    }
+    .btn-12 span:nth-child(1) {
+        box-shadow:
+        -7px -7px 20px 0px #fff9,
+        -4px -4px 5px 0px #fff9,
+        7px 7px 20px 0px #0002,
+        4px 4px 5px 0px #0001;
+        -webkit-transform: rotateX(90deg);
+        -moz-transform: rotateX(90deg);
+        transform: rotateX(90deg);
+        -webkit-transform-origin: 50% 50% -20px;
+        -moz-transform-origin: 50% 50% -20px;
+        transform-origin: 50% 50% -20px;
+    }
+    .btn-12 span:nth-child(2) {
+      -webkit-transform: rotateX(0deg);
+      -moz-transform: rotateX(0deg);
+      transform: rotateX(0deg);
+      -webkit-transform-origin: 50% 50% -20px;
+      -moz-transform-origin: 50% 50% -20px;
+      transform-origin: 50% 50% -20px;
+    }
+    .btn-12:hover span:nth-child(1) {
+      box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+       7px 7px 20px 0px rgba(0,0,0,.1),
+       4px 4px 5px 0px rgba(0,0,0,.1);
+      -webkit-transform: rotateX(0deg);
+      -moz-transform: rotateX(0deg);
+      transform: rotateX(0deg);
+    }
+    .btn-12:hover span:nth-child(2) {
+      box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+       7px 7px 20px 0px rgba(0,0,0,.1),
+       4px 4px 5px 0px rgba(0,0,0,.1);
+      color: transparent;
+      -webkit-transform: rotateX(-90deg);
+      -moz-transform: rotateX(-90deg);
+      transform: rotateX(-90deg);
+    }
+     /* course page brochure css end */
      /* bootcamp css end  */
      /* fee_pap css start  */
      .fee-section{
-        margin-top: 20px;
+        margin-top: 0px;
+        padding-top: 85px;
     }
      .pap-content h2 {
         margin-bottom: 12px;
@@ -2656,6 +2758,18 @@
      /* footer css end  */
 }
 @media (min-width: 420px) {
+    .btn-12{
+        position: relative;
+        right: 10%;
+        bottom: 20px;
+        border:none;
+        box-shadow: none;
+        width: 130px;
+        height: 40px;
+        line-height: 42px;
+        -webkit-perspective: 230px;
+        perspective: 230px;
+      }
    .instructor-img .link-position{
         width: 60px !important;
         left: 90px;
@@ -3046,7 +3160,8 @@
         color: #FFF !important;
      } */
      .fee-section{
-        margin-top: 20px;
+        margin-top: 0px;
+        padding-top: 80px;
     }
      .pap-content h2 {
         margin-bottom: 12px;
@@ -3530,6 +3645,18 @@
      /* footer css end  */
 }
 @media (min-width: 576px) {
+    .btn-12{
+        position: relative;
+        right: -50%;
+        bottom: 20px;
+        border:none;
+        box-shadow: none;
+        width: 130px;
+        height: 40px;
+        line-height: 42px;
+        -webkit-perspective: 230px;
+        perspective: 230px;
+      }
    .instructor-img .link-position{
         width: 60px !important;
         left: 100px;
@@ -3902,7 +4029,8 @@
      /* bootcamp css end  */
      /* fee_pap css start  */
      .fee-section{
-        margin-top: 20px;
+        margin-top: 0px;
+        padding-top: 80px;
     }
      .pap-content h2 {
         margin-bottom: 12px;
@@ -4964,7 +5092,7 @@
     .header.sticky-element {
         position: fixed;
         width: 100%;
-        top: 0px;
+        top: 85px;
         z-index: 999;
         animation: smoothScroll 1s forwards;
         /* max-width: 92% !important; */
@@ -5163,7 +5291,7 @@
         border-radius: 12px;
     }
     .section-karka{
-        margin-top: 50px !important;
+        margin-top: 130px !important;
         padding-bottom: 109px;
     }
     .section-karka h2{
@@ -5543,7 +5671,96 @@
     }
     /* footer css end  */
     /* index.php css end  */
-
+    /* course page brochure css start */
+    .custom-btn {
+        width: 130px;
+        height: 40px;
+        color: #fff;
+        border-radius: 5px;
+        padding: 10px 25px;
+        font-family: 'Lato', sans-serif;
+        font-weight: 500;
+        background: transparent;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        position: relative;
+        display: inline-block;
+        box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+        7px 7px 20px 0px rgba(0,0,0,.1),
+        4px 4px 5px 0px rgba(0,0,0,.1);
+        outline: none;
+    }
+    .btn-12{
+      position: relative;
+      left: 20%;
+      bottom: 20px;
+      border:none;
+      box-shadow: none;
+      width: 130px;
+      height: 40px;
+      line-height: 42px;
+      -webkit-perspective: 230px;
+      perspective: 230px;
+    }
+    .btn-12 span {
+        background: #344767;
+        display: block;
+        position: absolute;
+        width: 220px;
+        height: 40px;
+        box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+        7px 7px 20px 0px rgba(0,0,0,.1),
+        4px 4px 5px 0px rgba(0,0,0,.1);
+        border-radius: 5px;
+        margin:0;
+        text-align: center;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        -webkit-transition: all .3s;
+        transition: all .3s;
+        font-family: 'Roboto';
+        font-weight: 500;
+    }
+    .btn-12 span:nth-child(1) {
+        box-shadow:
+        -7px -7px 20px 0px #fff9,
+        -4px -4px 5px 0px #fff9,
+        7px 7px 20px 0px #0002,
+        4px 4px 5px 0px #0001;
+        -webkit-transform: rotateX(90deg);
+        -moz-transform: rotateX(90deg);
+        transform: rotateX(90deg);
+        -webkit-transform-origin: 50% 50% -20px;
+        -moz-transform-origin: 50% 50% -20px;
+        transform-origin: 50% 50% -20px;
+    }
+    .btn-12 span:nth-child(2) {
+      -webkit-transform: rotateX(0deg);
+      -moz-transform: rotateX(0deg);
+      transform: rotateX(0deg);
+      -webkit-transform-origin: 50% 50% -20px;
+      -moz-transform-origin: 50% 50% -20px;
+      transform-origin: 50% 50% -20px;
+    }
+    .btn-12:hover span:nth-child(1) {
+      box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+       7px 7px 20px 0px rgba(0,0,0,.1),
+       4px 4px 5px 0px rgba(0,0,0,.1);
+      -webkit-transform: rotateX(0deg);
+      -moz-transform: rotateX(0deg);
+      transform: rotateX(0deg);
+    }
+    .btn-12:hover span:nth-child(2) {
+      box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+       7px 7px 20px 0px rgba(0,0,0,.1),
+       4px 4px 5px 0px rgba(0,0,0,.1);
+      color: transparent;
+      -webkit-transform: rotateX(-90deg);
+      -moz-transform: rotateX(-90deg);
+      transform: rotateX(-90deg);
+    }
+     /* course page brochure css end */
     /* fee_app.php css start */
     /* header navbar css start  */
     .fee-section .nav-page a{
@@ -5646,6 +5863,7 @@
     /* section css start  */
     .fee-section{
         margin-top: 0px;
+        padding-top: 65px;
     }
     .fee-step h3{
         margin-bottom: 30px;
@@ -5723,6 +5941,7 @@
 
     /* bootcamp css start  */
     .bootcamp-title{
+        padding-top: 85px;
         background: #6D416D !important;
         opacity: 0.8 !important;
     }
@@ -5912,7 +6131,7 @@
     .header.sticky-element{
         position: fixed;
         width:100%;
-        top: 4px;
+        top: 88px;
         z-index: 999;
         animation: smoothScroll 1s forwards;
         max-width: 92% !important;
@@ -6030,7 +6249,7 @@
     /* overview css end  */
     /* placement css start  */
     .placement-top{
-        margin-top: 163px;
+        margin-top: 0px;
     }
     .place-top{
         margin-top: 200px !important;
