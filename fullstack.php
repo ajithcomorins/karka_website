@@ -62,7 +62,7 @@
                 </div>
             </div>  
         </div>
-        <div id="overview" class='container'>
+        <div class='container'>
             <div class='header container' id='header'>
                 <div class="fullstack position-relative mx-xxl-8 mx-xl-4 mx-lg-3 mx-3 py-1  border-radius-xl mt-n0 overflow-hidden d-none d-sm-none d-md-block d-lg-block">
                     <div class="container position-relative p-0">
@@ -90,173 +90,176 @@
                     </div>
                 </div>
             </div>
-                <div class="row text-center overview-title">
-                    <div class="col-lg-8 mx-auto over-top">
-                        <h3>Zero to Mastery as FullStack Web<br/>Developer in 5 Months</h3>
-                        <p class="font-weight-normal">This bootcamp is designed for anyone with an interest in coding, whether you have zero previous knowledge or experience, or  somewhere in between. In just 20 weeks, our learning lab based bootcamp will take you from the foundations to advanced practical skills.</p>
-                    </div>
-                </div>
-                <div class='overview-top'>
-                    <div class="row m-0 px-3 pt-5 overview-row">
-                        <div class="col-md-4">
-                            <div class="p-3 text-start ps-0">
-                                <img src='./assets/img/overview_1.png' />
-                                <h5 class="mt-3 mb-4 er">
-                                    Your way to the Top
-                                </h5>
-                                <p>Full Stack Developers are the most in-demand Software Developers followed by Back End Developers and Front End developers.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="p-3 text-start ps-0">
-                                <img src='./assets/img/overview_2.png' />
-                                <h5 class="mt-3 mb-4 er">
-                                    Build Great Apps
-                                </h5>
-                                <p>Full-stack web developer creates complete end to end web applications. They work on the front-end, backend, database and debug the applications.</p>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="p-3 text-start ps-0">
-                                <img src='./assets/img/overview_3.png' />
-                                <h5 class="mt-3 mb-4 er">
-                                    The Bigger Picture
-                                </h5>
-                                <p>Big MNC’s pay quite heavy salary to full-stack developers because of their ability of managing multiple tasks at once</p>
-                            </div>
+            <div class='scroll-section'>
+                <!-- over section start  -->
+                <div id='overview' class='scroll-top'>
+                    <div class="row text-center overview-title">
+                        <div class="col-lg-8 mx-auto over-top">
+                            <h3>Zero to Mastery as FullStack Web<br/>Developer in 5 Months</h3>
+                            <p class="font-weight-normal">This bootcamp is designed for anyone with an interest in coding, whether you have zero previous knowledge or experience, or  somewhere in between. In just 20 weeks, our learning lab based bootcamp will take you from the foundations to advanced practical skills.</p>
                         </div>
                     </div>
-                    <div class="row px-3 m-0 overview-row">
-                        <div class="col-md-4">
-                            <div class="p-3 text-start ps-0">
-                                <img src='./assets/img/overview_4.png' />
-                                <h5 class="mt-3 mb-4 er">
-                                    Top Tech You will Learn
-                                </h5>
-                                <p>HTML, CSS, JS, DOM, Git, jQuery, Bootstrap, ECMA ,React JS, Programming & Data Structure, Backend Stack API</p>
+                    <div class='overview-top'>
+                        <div class="row m-0 px-3 pt-5 overview-row">
+                            <div class="col-md-4">
+                                <div class="p-3 text-start ps-0">
+                                    <img src='./assets/img/overview_1.png' />
+                                    <h5 class="mt-3 mb-4 er">
+                                        Your way to the Top
+                                    </h5>
+                                    <p>Full Stack Developers are the most in-demand Software Developers followed by Back End Developers and Front End developers.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="p-3 text-start ps-0">
+                                    <img src='./assets/img/overview_2.png' />
+                                    <h5 class="mt-3 mb-4 er">
+                                        Build Great Apps
+                                    </h5>
+                                    <p>Full-stack web developer creates complete end to end web applications. They work on the front-end, backend, database and debug the applications.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="p-3 text-start ps-0">
+                                    <img src='./assets/img/overview_3.png' />
+                                    <h5 class="mt-3 mb-4 er">
+                                        The Bigger Picture
+                                    </h5>
+                                    <p>Big MNC’s pay quite heavy salary to full-stack developers because of their ability of managing multiple tasks at once</p>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-4">
-                            <div class="p-3 text-start ps-0">
-                                <img src='./assets/img/overview_5.png' />
-                                <h5 class="mt-3 mb-4 er">
-                                    Job Opportunities
-                                </h5>
-                                <ul>
-                                    <li>Full-Stack Developer</li>
-                                    <li>Backend Developer</li>
-                                    <li>Frontend Developer</li>
-                                    <li>UI Developer</li>
+                        <div class="row px-3 m-0 overview-row">
+                            <div class="col-md-4">
+                                <div class="p-3 text-start ps-0">
+                                    <img src='./assets/img/overview_4.png' />
+                                    <h5 class="mt-3 mb-4 er">
+                                        Top Tech You will Learn
+                                    </h5>
+                                    <p>HTML, CSS, JS, DOM, Git, jQuery, Bootstrap, ECMA ,React JS, Programming & Data Structure, Backend Stack API</p>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="p-3 text-start ps-0">
+                                    <img src='./assets/img/overview_5.png' />
+                                    <h5 class="mt-3 mb-4 er">
+                                        Job Opportunities
+                                    </h5>
+                                    <ul>
+                                        <li>Full-Stack Developer</li>
+                                        <li>Backend Developer</li>
+                                        <li>Frontend Developer</li>
+                                        <li>UI Developer</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="p-3 text-start ps-0">
+                                    <img src='./assets/img/overview_6.png' />
+                                    <h5 class="mt-3 mb-4 er">
+                                        Learn It Master It
+                                    </h5>
+                                    <p>Continuous and progressive learning of new skills adds strength to your resume, increases your credibility</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class='overview-bottom'>
+                            <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 ms-auto me-auto text-center overview-apply">
+                                    <h2>Who Should Apply?</h2>
+                                    <p>No prior programming knowledge or work<br/>experience is necessary.</p>
+                                </div>
+                            </div>
+                            <div class="row mt-5">
+                                <div class="col-md-6 position-relative">
+                                <div class="position-relative ms-md-5 me-md-n5">
+                                    <div class="blur-shadow-image">
+                                    <img class="image-left border-radius-lg img-fluid position-relative top-0 end-0 bg-cover w-100" src="./assets/img/overview-1.png" alt="image" loading="lazy">
+                                    </div>
+                                <div class="colored-shadow" style="background-image: url(&quot;https://images.unsplash.com/photo-1576425955345-f48eae74fc44?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2378&amp;q=80&quot;);"></div></div>
+                                <ul class="blockquote border border-dark rounded w-lg-50 w-md-75 w-sm-100 w-75 pt-3 pb-3 text-sm text-dark float-md-end mt-4 me-md-n2 mx-auto">
+                                    <li>Graduates seeking IT professional jobs</li>
+                                    <li>Working professionals interested in software development</li>
                                 </ul>
+                                <!-- Second image on the left side of the article -->
+                                <div class="position-absolute bottom-0 mb-5 ms-n2 me-3 start-0 end-2 d-md-block d-none">
+                                    <div class="blur-shadow-image">
+                                    </div>
+                                <div class="colored-shadow" style="background-image: url(&quot;https://images.unsplash.com/photo-1474039369477-5e74ff1f0e57?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1950&amp;q=80&quot;);"></div></div>
+                                </div>
+                                <div class="col-md-5">
+                                <!-- First image on the right side, above the article -->
+                                <div class="position-relative ms-n4 mb-5 mt-8 d-md-block d-none">
+                                    <div class="blur-shadow-image">
+                                    <img class="image-right border-radius-lg img-fluid position-relative bg-cover" src="./assets/img/overview-2.png" alt="image" loading="lazy">
+                                    </div>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="p-3 text-start ps-0">
-                                <img src='./assets/img/overview_6.png' />
-                                <h5 class="mt-3 mb-4 er">
-                                    Learn It Master It
-                                </h5>
-                                <p>Continuous and progressive learning of new skills adds strength to your resume, increases your credibility</p>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class='overview-bottom'>
-                        <div class="container">
-                        <div class="row">
-                            <div class="col-md-6 ms-auto me-auto text-center overview-apply">
-                                <h2>Who Should Apply?</h2>
-                                <p>No prior programming knowledge or work<br/>experience is necessary.</p>
-                            </div>
-                        </div>
-                        <div class="row mt-5">
-                            <div class="col-md-6 position-relative">
-                            <div class="position-relative ms-md-5 me-md-n5">
-                                <div class="blur-shadow-image">
-                                <img class="image-left border-radius-lg img-fluid position-relative top-0 end-0 bg-cover" src="./assets/img/overview-1.png" alt="image" loading="lazy">
+                </div>            <!-- overview section end  -->
+                <!-- placement section start  -->
+                <div class="placement-top scroll-top" id='placement'>
+                    <div class='place-top'>
+                        <div class="py-10 card-color">
+                            <div class='container'>
+                                <div class='placement-title'>
+                                    <h4>The Ultimate Bootcamp to Do More, Earn More,<br/>and Achieve Dream Job.</h4>
                                 </div>
-                            <div class="colored-shadow" style="background-image: url(&quot;https://images.unsplash.com/photo-1576425955345-f48eae74fc44?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2378&amp;q=80&quot;);"></div></div>
-                            <ul class="blockquote border border-dark rounded w-lg-50 w-md-75 w-sm-100 w-75 pt-3 pb-3 text-sm text-dark float-md-end mt-4 me-md-n2 mx-auto">
-                                <li>Graduates seeking IT professional jobs</li>
-                                <li>Working professionals interested in software development</li>
-                            </ul>
-                            <!-- Second image on the left side of the article -->
-                            <div class="position-absolute bottom-0 mb-5 ms-n2 me-3 start-0 end-2 d-md-block d-none">
-                                <div class="blur-shadow-image">
-                                </div>
-                            <div class="colored-shadow" style="background-image: url(&quot;https://images.unsplash.com/photo-1474039369477-5e74ff1f0e57?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1950&amp;q=80&quot;);"></div></div>
-                            </div>
-                            <div class="col-md-5">
-                            <!-- First image on the right side, above the article -->
-                            <div class="position-relative ms-n4 mb-5 mt-8 d-md-block d-none">
-                                <div class="blur-shadow-image">
-                                <img class="image-right border-radius-lg img-fluid position-relative bg-cover" src="./assets/img/overview-2.png" alt="image" loading="lazy">
-                                </div>
-                            </div>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- overview section end  -->
-            <!-- placement section start  -->
-            <div class="placement-top" id='placement'>
-                <div class='place-top'>
-                    <div class="py-7 card-color">
-                        <div class='container'>
-                            <div class='placement-title'>
-                                <h4>The Ultimate Bootcamp to Do More, Earn More,<br/>and Achieve Dream Job.</h4>
-                            </div>
-                            <div class="row align-items-center m-0">
-                                <div class="col-lg-6 placement-subcontent">
-                                    <div class="row justify-content-start">
-                                    <div class="col-md-6">
-                                        <div class="info">
-                                            <img src= './assets/img/job-1.png' />
-                                            <h5 class="text-white">100% Guaranteed Job</h5>
-                                            <p class="text-white opacity-8">We get insulted by others, lose trust for those We get back freezes</p>
+                                <div class="row align-items-center m-0">
+                                    <div class="col-lg-6 placement-subcontent">
+                                        <div class="row justify-content-start">
+                                        <div class="col-md-6">
+                                            <div class="info">
+                                                <img src= './assets/img/job-1.png' />
+                                                <h5 class="text-white">100% Guaranteed Job</h5>
+                                                <p class="text-white opacity-8">We get insulted by others, lose trust for those We get back freezes</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="info">
+                                                <img src= './assets/img/job-2.png' />
+                                                <h5 class="text-white">99% Placement Rate</h5>
+                                                <p class="text-white opacity-8">We get insulted by others, lose trust for those We get back freezes</p>
+                                            </div>
+                                        </div>
+                                        </div>
+                                        <div class="row justify-content-start mt-4">
+                                        <div class="col-md-6">
+                                            <div class="info">
+                                                <img src= './assets/img/job-3.png' />
+                                                <h5 class="text-white">3 LPA Average Salary</h5>
+                                                <p class="text-white opacity-8">We get insulted by others, lose trust for</p>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6 placement-card">
+                                            <div class="info">
+                                                <img src= './assets/img/job-4.png' /></i>
+                                                <h5 class="text-white">3 L Highest CTC</h5>
+                                                <p class="text-white opacity-8">those We get back freezes</p>
+                                            </div>
+                                        </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
-                                        <div class="info">
-                                            <img src= './assets/img/job-2.png' />
-                                            <h5 class="text-white">99% Placement Rate</h5>
-                                            <p class="text-white opacity-8">We get insulted by others, lose trust for those We get back freezes</p>
+                                    <div class="col-lg-4 ms-auto mt-5">
+                                        <div class="card mb-lg-5">
+                                        <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+                                            <a class="d-block blur-shadow-image">
+                                            <img src="./assets/img/mask.png" alt="img-colored-shadow" class="img-fluid border-radius-lg w-100 position-relative">
+                                            <img src="./assets/img/fullstack-money.png" alt="img-colored-shadow" class="img-fluid w-100 position-absolute" style='left:0'>
+                                            </a>
                                         </div>
-                                    </div>
-                                    </div>
-                                    <div class="row justify-content-start mt-4">
-                                    <div class="col-md-6">
-                                        <div class="info">
-                                            <img src= './assets/img/job-3.png' />
-                                            <h5 class="text-white">3 LPA Average Salary</h5>
-                                            <p class="text-white opacity-8">We get insulted by others, lose trust for</p>
+                                        <div class="card-body">
+                                            <h4>CTC as high as 3 Lakhs</h4>
+                                            <p>Begin your career from scrach and get on the fast track to become an in-demand  Full Stack Web Developer. Karka ensures 100% placements to students with CTC as high as 3 lakhs and more.</p>
+                                            <a href="javascript:;" class="text-primary icon-move-right">More about us
+                                            <i class="fas fa-arrow-right  ms-1"></i>
+                                            </a>
                                         </div>
-                                    </div>
-                                    <div class="col-md-6 placement-card">
-                                        <div class="info">
-                                            <img src= './assets/img/job-4.png' /></i>
-                                            <h5 class="text-white">3 L Highest CTC</h5>
-                                            <p class="text-white opacity-8">those We get back freezes</p>
                                         </div>
-                                    </div>
-                                    </div>
-                                </div>
-                                <div class="col-lg-4 ms-auto mt-5">
-                                    <div class="card mb-lg-5">
-                                    <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
-                                        <a class="d-block blur-shadow-image">
-                                        <img src="./assets/img/mask.png" alt="img-colored-shadow" class="img-fluid border-radius-lg w-100 position-relative">
-                                        <img src="./assets/img/fullstack-money.png" alt="img-colored-shadow" class="img-fluid w-100 position-absolute" style='left:0'>
-                                        </a>
-                                    </div>
-                                    <div class="card-body">
-                                        <h4>CTC as high as 3 Lakhs</h4>
-                                        <p>Begin your career from scrach and get on the fast track to become an in-demand  Full Stack Web Developer. Karka ensures 100% placements to students with CTC as high as 3 lakhs and more.</p>
-                                        <a href="javascript:;" class="text-primary icon-move-right">More about us
-                                        <i class="fas fa-arrow-right  ms-1"></i>
-                                        </a>
-                                    </div>
                                     </div>
                                 </div>
                             </div>
@@ -294,680 +297,681 @@
                         </div>
                     </div>
                 </div>
-            <!-- placemant section end  -->
-            <!-- fee section start  -->
-            <div class='fee-design' id='fee'>
-                <div class='container'>
-                    <div class='fee-titles'>
-                        <h2 class='text-center'>Master the Main concepts of Full Stack Development at no Upfront Fee</h2>
-                        <p class='text-center'>We’re constantly trying to express ourselves and actualize our dreams.<br/>Don't stop.</p>
-                    </div>
-                    <div class="row m-0">
-                    <div class="col-md-4 ms-auto my-auto">
-                        <div class="cursor-pointer">
-                            <div class="card card-background border-0">
-                                <div class="full-background fee-background" style="background-image: url('./assets/img/f.png')" loading="lazy"></div>
-                                <div class="card-body pt-7 text-center fee-title">
-                                    <p class="text-white text-uppercase">START WITH NO FEE</p>
-                                    <h3 class="text-white">The best part of Karka is No Upfront Fees</h3>
-                                    <p class="text-white opacity-8">You only pay for the bootcamp once you've secured a job placement. If for some reason you don't manage to get a job after completing the bootcamp, then it's completely free!</p>
-                                    <button type="button" class="btn btn-white bg-white btn-sm mt-3" onclick="window.location.href='./courses.php'">Get Started</button>
+                <!-- placemant section end  -->
+                <!-- fee section start  -->
+                <div class='fee-design scroll-top' id='fee'>
+                    <div class='container'>
+                        <div class='fee-titles'>
+                            <h2 class='text-center'>Master the Main concepts of Full Stack Development at no Upfront Fee</h2>
+                            <p class='text-center'>We’re constantly trying to express ourselves and actualize our dreams.<br/>Don't stop.</p>
+                        </div>
+                        <div class="row m-0">
+                        <div class="col-md-6 col-lg-4 col-12 ms-auto my-auto">
+                            <div class="cursor-pointer">
+                                <div class="card card-background border-0">
+                                    <div class="full-background fee-background" style="background-image: url('./assets/img/f.png')" loading="lazy"></div>
+                                    <div class="card-body pt-7 text-center fee-title">
+                                        <p class="text-white text-uppercase">START WITH NO FEE</p>
+                                        <h3 class="text-white">The best part of Karka is No Upfront Fees</h3>
+                                        <p class="text-white opacity-8">You only pay for the bootcamp once you've secured a job placement. If for some reason you don't manage to get a job after completing the bootcamp, then it's completely free!</p>
+                                        <button type="button" class="btn btn-white bg-white btn-sm mt-3" onclick="window.location.href='./courses.php'">Get Started</button>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-md-5 me-auto my-auto ms-md-5 fee-steps">
-                        <div class="p-3 info-horizontal d-flex">
-                            <div>
-                                <h5>1. Get started for Free</h5>
-                                <p>Join our bootcamp without paying any fees. Your learning is free until the bootcamp ends.</p>
+                        <div class="col-md-5 me-auto my-auto ms-md-5 fee-steps">
+                            <div class="p-3 info-horizontal d-flex">
+                                <div>
+                                    <h5>1. Get started for Free</h5>
+                                    <p>Join our bootcamp without paying any fees. Your learning is free until the bootcamp ends.</p>
+                                </div>
+                            </div>
+                            <div class="p-3 info-horizontal d-flex">
+                                <div>
+                                    <h5>2. Upskill and Get Hired</h5>
+                                    <p>Learn all the skills for a successful career. We assure you a highest paying job based on your skills.</p>
+                                </div>
+                            </div>
+                            <div class="p-3 info-horizontal d-flex">
+                                <div>
+                                    <h5>3. Pay your fees from your salary</h5>
+                                    <p>Start paying your fees once you start earning. You pay us one-third (33%) of your first year CTC via NBFCs</p>
+                                </div>
                             </div>
                         </div>
-                        <div class="p-3 info-horizontal d-flex">
-                            <div>
-                                <h5>2. Upskill and Get Hired</h5>
-                                <p>Learn all the skills for a successful career. We assure you a highest paying job based on your skills.</p>
-                            </div>
                         </div>
-                        <div class="p-3 info-horizontal d-flex">
-                            <div>
-                                <h5>3. Pay your fees from your salary</h5>
-                                <p>Start paying your fees once you start earning. You pay us one-third (33%) of your first year CTC via NBFCs</p>
-                            </div>
-                        </div>
-                    </div>
                     </div>
                 </div>
-            </div>
-            <!-- fee section end  -->
-            <!-- benifit section start  -->
-            <div class='benifit-section' id='benifit'>
-                <div class="container">
-                    <h2 class='text-center'>What Benefits Do you Get from Karka?</h2>
-                    <div class="row justify-content-center">
-                        <div class="col-lg-10">
-                            <div class="table-back">
-                                <div class="table-responsive">
-                                    <table class="table table-bordered align-items-center mb-0">
-                                        <thead>
-                                            <tr>
-                                            <th class="text-uppercase er">FEATURES</th>
-                                            <th class="text-uppercase er ps-2">GRADUATE DEGREE</th>
-                                            <th class="text-uppercase er ps-2">OTHER SOFTWARE COURSES</th>
-                                            <th class="text-uppercase er ps-2">KARKA</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <tr>
-                                                <td>
-                                                    <div class="d-flex px-2">
+                <!-- fee section end  -->
+                <!-- benifit section start  -->
+                <div class='benifit-section scroll-top' id='benifit'>
+                    <div class="container">
+                        <h2 class='text-center'>What Benefits Do you Get from Karka?</h2>
+                        <div class="row justify-content-center">
+                            <div class="col-lg-10">
+                                <div class="table-back">
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered align-items-center mb-0">
+                                            <thead>
+                                                <tr>
+                                                <th class="text-uppercase er">FEATURES</th>
+                                                <th class="text-uppercase er ps-2">GRADUATE DEGREE</th>
+                                                <th class="text-uppercase er ps-2">OTHER SOFTWARE COURSES</th>
+                                                <th class="text-uppercase er ps-2">KARKA</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <td>
+                                                        <div class="d-flex px-2">
+                                                            <div>
+                                                                <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
+                                                            </div>
+                                                            <div class="my-auto">
+                                                                <h6 class="mb-0 ">Upfront fee</h6>
+                                                            </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">3L - 5L</p>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">50K - 2L+</p> 
+                                                    </td>
+                                                    <td>
+                                                        <span class="badge badge-dot me-4">
+                                                        <i class="" style='background:#92278F'></i>
+                                                        <span class="">0 (PAP)</span>
+                                                        </span>
+                                                    </td> 
+                                                                            
+                                                </tr>
+
+                                                <tr>
+                                                    <td>
+                                                        <div class="d-flex px-2">
                                                         <div>
                                                             <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
                                                         </div>
                                                         <div class="my-auto">
-                                                            <h6 class="mb-0 ">Upfront fee</h6>
+                                                            <h6 class="mb-0 ">Fee if unemployed</h6>
                                                         </div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">3L - 5L</p>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">50K - 2L+</p> 
-                                                </td>
-                                                <td>
-                                                    <span class="badge badge-dot me-4">
-                                                    <i class="" style='background:#92278F'></i>
-                                                    <span class="">0 (PAP)</span>
-                                                    </span>
-                                                </td> 
-                                                                        
-                                            </tr>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">3L - 5L</p>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">50K - 2L+</p>
+                                                    </td>
+                                                    <td>
+                                                        <span class="badge badge-dot me-4">
+                                                        <i class="" style='background:#92278F'></i>
+                                                        <span class="">0</span>
+                                                        </span>
+                                                    </td>  
+                                                    
+                                                </tr>
 
-                                            <tr>
-                                                <td>
-                                                    <div class="d-flex px-2">
-                                                    <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
-                                                    </div>
-                                                    <div class="my-auto">
-                                                        <h6 class="mb-0 ">Fee if unemployed</h6>
-                                                    </div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">3L - 5L</p>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">50K - 2L+</p>
-                                                </td>
-                                                <td>
-                                                    <span class="badge badge-dot me-4">
-                                                    <i class="" style='background:#92278F'></i>
-                                                    <span class="">0</span>
-                                                    </span>
-                                                </td>  
-                                                
-                                            </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div class="d-flex px-2">
+                                                        <div>
+                                                            <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
+                                                        </div>
+                                                        <div class="my-auto">
+                                                            <h6 class="mb-0 ">Time investment</h6>
+                                                        </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">3 - 4 Years</p>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">4 - 12 months</p>
+                                                    </td>
+                                                    <td>
+                                                        <span class="badge badge-dot me-4">
+                                                        <i class="" style='background:#92278F'></i>
+                                                        <span class="">4 months</span>
+                                                        </span>
+                                                    </td>
+                                                    
+                                                </tr>
 
-                                            <tr>
-                                                <td>
-                                                    <div class="d-flex px-2">
-                                                    <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
-                                                    </div>
-                                                    <div class="my-auto">
-                                                        <h6 class="mb-0 ">Time investment</h6>
-                                                    </div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">3 - 4 Years</p>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">4 - 12 months</p>
-                                                </td>
-                                                <td>
-                                                    <span class="badge badge-dot me-4">
-                                                    <i class="" style='background:#92278F'></i>
-                                                    <span class="">4 months</span>
-                                                    </span>
-                                                </td>
-                                                
-                                            </tr>
-
-                                            <tr>
-                                                <td>
-                                                    <div class="d-flex px-2">
-                                                    <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
-                                                    </div>
-                                                    <div class="my-auto">
-                                                        <h6 class="mb-0 ">Placement</h6>
-                                                    </div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">Not guaranteed</p>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">Not guaranteed</p>
-                                                </td>
-                                                <td>
-                                                    <span class="badge badge-dot me-4">
-                                                    <i class="" style='background:#92278F'></i>
-                                                    <span class="">100% guaranteed</span>
-                                                    </span>
-                                                </td>
-                                                
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <div class="d-flex px-2">
-                                                    <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
-                                                    </div>
-                                                    <div class="my-auto">
-                                                        <h6 class="mb-0 ">Mentor Qualifications</h6>
-                                                    </div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">Professors and Ph.D</p>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">Teaching faculties</p>
-                                                </td>
-                                                <td>
-                                                    <span class="badge badge-dot me-4">
-                                                    <i class="" style='background:#92278F'></i>
-                                                    <span class="">Industry experts with 10+ years experience</span>
-                                                    </span>
-                                                </td>
-                                                
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <div class="d-flex px-2">
-                                                    <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
-                                                    </div>
-                                                    <div class="my-auto">
-                                                        <h6 class="mb-0 ">Career Impact</h6>
-                                                    </div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">Degree once you finish</p>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">shortterm impact</p>
-                                                </td>
-                                                <td>
-                                                    <span class="badge badge-dot me-4">
-                                                    <i class="" style='background:#92278F'></i>
-                                                    <span class="">Guaranteed job placement</span>
-                                                    </span>
-                                                </td>
-                                                
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <div class="d-flex px-2">
-                                                    <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
-                                                    </div>
-                                                    <div class="my-auto">
-                                                        <h6 class="mb-0 ">Skill Development</h6>
-                                                    </div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">Exam oriented</p>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">Quasi-practical</p>
-                                                </td>
-                                                <td>
-                                                    <span class="badge badge-dot me-4">
-                                                    <i class="" style='background:#92278F'></i>
-                                                    <span class="">Result oriented practical skills</span>
-                                                    </span>
-                                                </td>
-                                                
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <div class="d-flex px-2">
-                                                    <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
-                                                    </div>
-                                                    <div class="my-auto">
-                                                        <h6 class="mb-0 ">Curriculum</h6>
-                                                    </div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">Text book</p>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">Standard</p>
-                                                </td>
-                                                <td>
-                                                    <span class="badge badge-dot me-4">
-                                                    <i class="" style='background:#92278F'></i>
-                                                    <span class="">Industry curated contents</span>
-                                                    </span>
-                                                </td>
-                                                
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <div class="d-flex px-2">
-                                                    <div>
-                                                        <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
-                                                    </div>
-                                                    <div class="my-auto">
-                                                        <h6 class="mb-0 ">Level of specialization</h6>
-                                                    </div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">Not Applicable</p>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0">Medium</p>
-                                                </td>
-                                                <td>
-                                                    <span class="badge badge-dot me-4">
-                                                    <i class="" style='background:#92278F'></i>
-                                                    <span class="">Very High</span>
-                                                    </span>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <div class="d-flex px-2">
-                                                    <div>
-                                                    </div>
-                                                    <div class="my-auto">
-                                                        <h6 class="mb-0 "></h6>
-                                                    </div>
-                                                    </div>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0"></p>
-                                                </td>
-                                                <td>
-                                                    <p class="  mb-0"></p>
-                                                </td>
-                                                <td>
-                                                    <span class="badge badge-dot me-4">
-                                                    <span class=""></span>
-                                                    </span>
-                                                </td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
+                                                <tr>
+                                                    <td>
+                                                        <div class="d-flex px-2">
+                                                        <div>
+                                                            <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
+                                                        </div>
+                                                        <div class="my-auto">
+                                                            <h6 class="mb-0 ">Placement</h6>
+                                                        </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">Not guaranteed</p>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">Not guaranteed</p>
+                                                    </td>
+                                                    <td>
+                                                        <span class="badge badge-dot me-4">
+                                                        <i class="" style='background:#92278F'></i>
+                                                        <span class="">100% guaranteed</span>
+                                                        </span>
+                                                    </td>
+                                                    
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div class="d-flex px-2">
+                                                        <div>
+                                                            <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
+                                                        </div>
+                                                        <div class="my-auto">
+                                                            <h6 class="mb-0 ">Mentor Qualifications</h6>
+                                                        </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">Professors and Ph.D</p>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">Teaching faculties</p>
+                                                    </td>
+                                                    <td>
+                                                        <span class="badge badge-dot me-4">
+                                                        <i class="" style='background:#92278F'></i>
+                                                        <span class="">Industry experts with 10+ years experience</span>
+                                                        </span>
+                                                    </td>
+                                                    
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div class="d-flex px-2">
+                                                        <div>
+                                                            <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
+                                                        </div>
+                                                        <div class="my-auto">
+                                                            <h6 class="mb-0 ">Career Impact</h6>
+                                                        </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">Degree once you finish</p>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">shortterm impact</p>
+                                                    </td>
+                                                    <td>
+                                                        <span class="badge badge-dot me-4">
+                                                        <i class="" style='background:#92278F'></i>
+                                                        <span class="">Guaranteed job placement</span>
+                                                        </span>
+                                                    </td>
+                                                    
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div class="d-flex px-2">
+                                                        <div>
+                                                            <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
+                                                        </div>
+                                                        <div class="my-auto">
+                                                            <h6 class="mb-0 ">Skill Development</h6>
+                                                        </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">Exam oriented</p>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">Quasi-practical</p>
+                                                    </td>
+                                                    <td>
+                                                        <span class="badge badge-dot me-4">
+                                                        <i class="" style='background:#92278F'></i>
+                                                        <span class="">Result oriented practical skills</span>
+                                                        </span>
+                                                    </td>
+                                                    
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div class="d-flex px-2">
+                                                        <div>
+                                                            <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
+                                                        </div>
+                                                        <div class="my-auto">
+                                                            <h6 class="mb-0 ">Curriculum</h6>
+                                                        </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">Text book</p>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">Standard</p>
+                                                    </td>
+                                                    <td>
+                                                        <span class="badge badge-dot me-4">
+                                                        <i class="" style='background:#92278F'></i>
+                                                        <span class="">Industry curated contents</span>
+                                                        </span>
+                                                    </td>
+                                                    
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div class="d-flex px-2">
+                                                        <div>
+                                                            <img src="./assets/img/karka-logo1.png" class="avatar avatar-sm pe-2 ">
+                                                        </div>
+                                                        <div class="my-auto">
+                                                            <h6 class="mb-0 ">Level of specialization</h6>
+                                                        </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">Not Applicable</p>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0">Medium</p>
+                                                    </td>
+                                                    <td>
+                                                        <span class="badge badge-dot me-4">
+                                                        <i class="" style='background:#92278F'></i>
+                                                        <span class="">Very High</span>
+                                                        </span>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <div class="d-flex px-2">
+                                                        <div>
+                                                        </div>
+                                                        <div class="my-auto">
+                                                            <h6 class="mb-0 "></h6>
+                                                        </div>
+                                                        </div>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0"></p>
+                                                    </td>
+                                                    <td>
+                                                        <p class="  mb-0"></p>
+                                                    </td>
+                                                    <td>
+                                                        <span class="badge badge-dot me-4">
+                                                        <span class=""></span>
+                                                        </span>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <!-- benifit section end  -->
-            <!-- admission process section start  -->
-            <div class="admission-top" id='pricinadmission'>
-                <div class="bg-admission position-relative overflow-hidden ">
-                    <img src="./assets/img/pattern-lines.svg" alt="pattern-lines" class="position-absolute start-0 top-md-0 w-100 opacity-6">
-                    <div class="container pb-lg-9 pb-7 pt-7 postion-relative z-index-2">
-                        <div class="row m-0">
-                            <div class="col-md-8 mx-auto text-center">
-                            <span class="badge bg-gradient-dark mb-2">Admission</span>
-                            <h3 class="text-white">How to Enroll?</h3>
-                            <p class="text-white">We identify graduates who inherently possess the skills to learn and have a strong desire to grow in their career. We hire such handpicked graduates and train them as Industry Ready Junior Engineers. We augment these Industry Ready Engineers to our clients on a 12 month contract.</p>
+                <!-- benifit section end  -->
+                <!-- admission process section start  -->
+                <div class="admission-top scroll-top" id='pricinadmission'>
+                    <div class="bg-admission position-relative overflow-hidden ">
+                        <img src="./assets/img/pattern-lines.svg" alt="pattern-lines" class="position-absolute start-0 top-md-0 w-100 opacity-6">
+                        <div class="container pb-lg-9 pb-7 pt-10 postion-relative z-index-2">
+                            <div class="row m-0">
+                                <div class="col-md-8 mx-auto text-center">
+                                <span class="badge bg-gradient-dark mb-2">Admission</span>
+                                <h3 class="text-white">How to Enroll?</h3>
+                                <p class="text-white">We identify graduates who inherently possess the skills to learn and have a strong desire to grow in their career. We hire such handpicked graduates and train them as Industry Ready Junior Engineers. We augment these Industry Ready Engineers to our clients on a 12 month contract.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-lg-n8 mt-n7">
+                        <div class="container">
+                            <div class="row m-0">
+                                <div class="col-lg-4 p-md-0 mx-auto z-index-2">
+                                    <div class="card">
+                                        <div class="card-body mx-auto text-sm-center text-md-center text-lg-start text-center">
+                                            <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                                <div class='col-lg-0 d-none d-lg-block d-md-block d-lg-block'>
+                                                    <!-- <img src='./assets/img/admission-li.png' /> -->
+                                                </div>
+                                                <div class="ps-2 col-lg-12 text-center">
+                                                    <h4 class="text-sm p-3">Apply through Karka</h4>
+                                                    <button class='admission-apply-now ms-3' onclick="window.open('https://karka.academy/apply/', '_blank')">Apply Now</button>
+                                                </div>
+                                            </div>
+                                            <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                                <div class='col-lg-4'>
+                                                    <img src='./assets/img/2-icon.png' />
+                                                </div>
+                                                <div class="ps-2 col-lg-8">
+                                                    <h4 class="text-sm p-3">Attend the Orientation Session</h4>
+                                                </div>
+                                            </div>
+                                            <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                                <div class='col-lg-4'>
+                                                    <img src='./assets/img/3-icon.png' />
+                                                </div>
+                                                <div class="ps-2 col-lg-8">
+                                                    <h4 class="text-sm p-3">Clear the selection process</h4>
+                                                </div>
+                                            </div>
+                                            <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                                <div class='col-lg-4'>
+                                                    <img src='./assets/img/4-icon.png' />
+                                                </div>
+                                                <div class="ps-2 col-lg-8">
+                                                    <h4 class="text-sm p-3">Sign our ISA Agreement</h4>
+                                                </div>
+                                            </div>
+                                            <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                                <div class='col-lg-4'>
+                                                    <img src='./assets/img/5-icon.png' />
+                                                </div>
+                                                <div class="ps-2 col-lg-8">
+                                                    <h4 class="text-sm p-3">Start your bootcamp paying nothing</h4>
+                                                </div>
+                                            </div>
+                                            <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                                <div class='col-lg-4'>
+                                                    <img src='./assets/img/6-icon.png' />
+                                                </div>
+                                                <div class="ps-2 col-lg-8">
+                                                    <h4 class="text-sm p-3">Get skilled through our bootcamp</h4>
+                                                </div>
+                                            </div>
+                                            <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                                <div class='col-lg-4'>
+                                                    <img src='./assets/img/7-icon.png' />
+                                                </div>
+                                                <div class="ps-2 col-lg-8">
+                                                    <h4 class="text-sm p-3">Get placed for your skills</h4>
+                                                </div>
+                                            </div>
+                                            <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
+                                                <div class='col-lg-4'>
+                                                    <img src='./assets/img/8-icon.png' />
+                                                </div>
+                                                <div class="ps-2 col-lg-8">
+                                                    <h4 class="text-sm p-3">Pay us for bootcamp that hot you job</h4>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="mt-lg-n8 mt-n7">
+                <!-- admission process section end  -->
+                <!-- mentor section start  -->
+                <div class='mentor-section scroll-top' id='mentor'>
+                    <div class='container'>
+                        <h2 class='text-center'>Know your Mentors</h2>
+                        <div class='mx-auto'>
+                            <div class="row justify-content-center" style='align-items: stretch'>
+                                <div class="col-lg-4 col-sm-6 col-12">
+                                    <div class="card card-profile mt-4">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-12 text-center">
+                                        <a href="javascript:;">
+                                            <div class="p-3 pe-md-0 card-device-width">
+                                            <img class="w-lg-90 border-radius-md shadow-lg" src="./assets/img/satheesh-in.jpg" alt="image">
+                                            </div>
+                                        </a>
+                                        </div>
+                                        <div class="col-lg-6 col-12 my-auto">
+                                        <div class="card-body ps-lg-0">
+                                            <h4 class="">Sateesh Kumar</h4>
+                                            <p class="text-info">15+ Years Ex-Yatra.com</p>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-sm-6 col-12">
+                                    <div class="card card-profile mt-4">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-12 text-center">
+                                        <a href="javascript:;">
+                                            <div class="p-3 pe-md-0 card-device-width">
+                                            <img class="w-lg-90 border-radius-md shadow-lg" src="./assets/img/ramesh-in.jpg" alt="image">
+                                            </div>
+                                        </a>
+                                        </div>
+                                        <div class="col-lg-6 col-12 my-auto">
+                                        <div class="card-body ps-lg-0">
+                                            <h4 class="">Ramesh Varghese</h4>
+                                            <p class="text-info">11+ Years Ex-SMHack</p>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-sm-6 col-12 d-lg-flex">
+                                    <div class="card card-profile mt-4 ">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-12 text-center">
+                                        <a href="javascript:;">
+                                            <div class="p-3 pe-md-0 card-device-width">
+                                            <img class="w-lg-90 border-radius-md shadow-lg" src="./assets/img/perumal-link.jpg" alt="image">
+                                            </div>
+                                        </a>
+                                        </div>
+                                        <div class="col-lg-6 col-12 my-auto">
+                                        <div class="card-body ps-lg-0">
+                                            <h4 class="">Sivanancha Perumal</h4>
+                                            <p class="text-info">9+ Years</p>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- mentor section end  -->
+                <!-- Curriculum section start  -->
+                <div class="curriculam-section scroll-top" id='curriculam'>
                     <div class="container">
-                        <div class="row m-0">
-                            <div class="col-lg-4 p-md-0 mx-auto z-index-2">
-                                <div class="card">
-                                    <div class="card-body mx-auto text-sm-center text-md-center text-lg-start text-center">
-                                        <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
-                                            <div class='col-lg-0 d-none d-lg-block d-md-block d-lg-block'>
-                                                <!-- <img src='./assets/img/admission-li.png' /> -->
+                        <h3 class="text-center curriculam-title">Here’s how your next 5 month looks like</h3>
+                        <div class='curriculam-top'>
+                            <div class="row mb-5">
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="card card-background card-look align-items-start h-100 border-0">
+                                        <div class="card-body z-index-3 curriculam-card mx-auto">
+                                            <img src='./assets/img/Web_Application (1).png' />
+                                                <div class='text-center'>
+                                                    <h5 class="text-white mb-1">Module 1</h5>
+                                                    <h4 class='text-white'>Foundations of Web<br/>Applications</h4>
+                                                    <p class="text-white opacity-8">Introduction to Internet, HTTP, Web, HTML, CSS, Javascript, DOM, Git</p>
+                                                    <button class="btn btn-white bg-white btn-sm" type="button" name="button">Download Syllabus</button>
+                                                </div>
                                             </div>
-                                            <div class="ps-2 col-lg-12 text-center">
-                                                <h4 class="text-sm p-3">Apply through Karka</h4>
-                                                <button class='admission-apply-now ms-3' onclick="window.open('https://karka.academy/apply/', '_blank')">Apply Now</button>
-                                            </div>
-                                        </div>
-                                        <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
-                                            <div class='col-lg-4'>
-                                                <img src='./assets/img/2-icon.png' />
-                                            </div>
-                                            <div class="ps-2 col-lg-8">
-                                                <h4 class="text-sm p-3">Attend the Orientation Session</h4>
-                                            </div>
-                                        </div>
-                                        <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
-                                            <div class='col-lg-4'>
-                                                <img src='./assets/img/3-icon.png' />
-                                            </div>
-                                            <div class="ps-2 col-lg-8">
-                                                <h4 class="text-sm p-3">Clear the selection process</h4>
-                                            </div>
-                                        </div>
-                                        <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
-                                            <div class='col-lg-4'>
-                                                <img src='./assets/img/4-icon.png' />
-                                            </div>
-                                            <div class="ps-2 col-lg-8">
-                                                <h4 class="text-sm p-3">Sign our ISA Agreement</h4>
-                                            </div>
-                                        </div>
-                                        <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
-                                            <div class='col-lg-4'>
-                                                <img src='./assets/img/5-icon.png' />
-                                            </div>
-                                            <div class="ps-2 col-lg-8">
-                                                <h4 class="text-sm p-3">Start your bootcamp paying nothing</h4>
-                                            </div>
-                                        </div>
-                                        <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
-                                            <div class='col-lg-4'>
-                                                <img src='./assets/img/6-icon.png' />
-                                            </div>
-                                            <div class="ps-2 col-lg-8">
-                                                <h4 class="text-sm p-3">Get skilled through our bootcamp</h4>
-                                            </div>
-                                        </div>
-                                        <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
-                                            <div class='col-lg-4'>
-                                                <img src='./assets/img/7-icon.png' />
-                                            </div>
-                                            <div class="ps-2 col-lg-8">
-                                                <h4 class="text-sm p-3">Get placed for your skills</h4>
-                                            </div>
-                                        </div>
-                                        <div class="justify-content-start d-flex px-2 py-1 mb-4 row">
-                                            <div class='col-lg-4'>
-                                                <img src='./assets/img/8-icon.png' />
-                                            </div>
-                                            <div class="ps-2 col-lg-8">
-                                                <h4 class="text-sm p-3">Pay us for bootcamp that hot you job</h4>
-                                            </div>
-                                        </div>
+                                        <span class="mask bg-curriculam border-radius-xl z-index-2 opacity-7"></span>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4 mt-3">
+                                    <div class="card h-100 card-background card-look align-items-start border-0">
+                                    <div class="card-body z-index-3">
+                                    <img src='./assets/img/Web_Application (3).png' />
+                                    </div>
+                                    <div class="card-footer pb-3 pt-2 z-index-3">
+                                        <h5 class="text-white mb-1">Module 2</h5>
+                                        <h4 class='text-white'>Advanced Frontend Tech</h4>
+                                        <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">jQuery, ajax, Bootstrap, Mobile Responsive Design, ECMA</p>
+                                    </div>
+                                    <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
+                                    </div>
+                                    <div class="card h-100 card-background card-look mt-4 align-items-start mt-sm-4 border-0">
+                                    <div class="card-body z-index-3">
+                                    <img src='./assets/img/Web_Application (5).png' />
+                                    </div>
+                                    <div class="card-footer pb-3 pt-2 z-index-3">
+                                        <h5 class='text-white'>Module 3</h5>
+                                        <h4 class="text-white">Frontend Framework</h4>
+                                        <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">React, JSX, Components, States, Props, Redux , Routing, axios & APIs </p>
+                                    </div>
+                                    <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4">
+                                    <div class="card h-100 card-background card-look align-items-start border-0">
+                                    <div class="card-body z-index-3">
+                                        <img src='./assets/img/Web_Application (2).png' />
+                                    </div>
+                                    <div class="card-footer pb-3 pt-2 z-index-3 w-100">
+                                        <h5 class='text-white'>Module 4</h5>
+                                        <h4 class="text-white">Foundations of Backend</h4>
+                                        <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">Programming, Data Structures,<br/>Algorithms</p>
+                                    </div>
+                                    <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
+                                    </div>
+                                    <div class="card card-background card-look mt-4 align-items-start border-0">
+                                    <div class="card-body z-index-3">
+                                        <img src='./assets/img/Web_Application (4).png' />
+                                    </div>
+                                    <div class="card-footer pb-3 pt-2 z-index-3 w-100">
+                                        <h5 class='text-white'>Module 5</h5>
+                                        <h4 class="text-white mb-1">Backend Framework</h4>
+                                        <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">Java, Spring Boot, JPA, Transactions,<br/>MySQL</p>
+                                    </div>
+                                    <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- Curriculum section end  -->
+                <!-- FQA section start  -->
+                <!-- <div class="faq-section scroll-top" id='faq'>
+                    <div class="container">
+                    <div class="row">
+                        <div class="col-md-10 mx-auto faq-start">
+                        <div class="card">
+                            <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2 bg-transparent">
+                                <div class="bg-faq shadow-danger border-radius-lg p-4">
+                                    <h4 class="text-white mb-0">FAQ</h4>
+                                    <p class="text-white opacity-8 mb-0">Last modified: Aug 30 2021</p>
+                                </div>
+                            </div>
+                            <div class="accordion p-3" id="accordionPricing">
+                            <div class="accordion-item mb-3">
+                                <h6 class="accordion-header" id="headingOne">
+                                <button class="accordion-button border-bottom font-weight-bold text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                    How do I order?
+                                    <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                                    <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                                </button>
+                                </h6>
+                                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionPricing" style="">
+                                <div class="accordion-body text-sm opacity-8">
+                                    We’re not always in the position that we want to be at. We’re constantly growing. We’re constantly making mistakes. We’re constantly trying to express ourselves and actualize our dreams. If you have the opportunity to play this game of life you need to appreciate every moment. A lot of people don’t appreciate the moment until it’s passed.
+                                    <br><br>
+                                    There’s nothing I really wanted to do in life that I wasn’t able to get good at. That’s my skill. I’m not really specifically talented at anything except for the ability to learn. That’s what I do. That’s what I’m here for. Don’t be afraid to be wrong because you can’t learn anything from a compliment.
+                                </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item mb-3">
+                                <h6 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button border-bottom font-weight-bold text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    How can i make the payment?
+                                    <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                                    <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                                </button>
+                                </h6>
+                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionPricing" style="">
+                                <div class="accordion-body text-sm opacity-8">
+                                    It really matters and then like it really doesn’t matter. What matters is the people who are sparked by it. And the people who are like offended by it, it doesn’t matter. Because it's about motivating the doers. Because I’m here to follow my dreams and inspire other people to follow their dreams, too.
+                                    <br>
+                                    We’re not always in the position that we want to be at. We’re constantly growing. We’re constantly making mistakes. We’re constantly trying to express ourselves and actualize our dreams. If you have the opportunity to play this game of life you need to appreciate every moment. A lot of people don’t appreciate the moment until it’s passed.
+                                </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item mb-3">
+                                <h6 class="accordion-header" id="headingThree">
+                                <button class="accordion-button border-bottom font-weight-bold text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    How much time does it take to receive the order?
+                                    <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                                    <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                                </button>
+                                </h6>
+                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionPricing">
+                                <div class="accordion-body text-sm opacity-8">
+                                    The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out. But the time is now to be okay to be the greatest you. Would you believe in what you believe in, if you were the only one who believed it?
+                                    If everything I did failed - which it doesn't, it actually succeeds - just the fact that I'm willing to fail is an inspiration. People are so scared to lose that they don't even try. Like, one thing people can't say is that I'm not trying, and I'm not trying my hardest, and I'm not trying to do the best way I know how.
+                                </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item mb-3">
+                                <h6 class="accordion-header" id="headingFour">
+                                <button class="accordion-button border-bottom font-weight-bold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Can I resell the products?
+                                    <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                                    <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                                </button>
+                                </h6>
+                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionPricing">
+                                <div class="accordion-body text-sm opacity-8">
+                                    I always felt like I could do anything. That’s the main thing people are controlled by! Thoughts- their perception of themselves! They're slowed down by their perception of themselves. If you're taught you can’t do anything, you won’t do anything. I was taught I could do everything.
+                                    <br><br>
+                                    If everything I did failed - which it doesn't, it actually succeeds - just the fact that I'm willing to fail is an inspiration. People are so scared to lose that they don't even try. Like, one thing people can't say is that I'm not trying, and I'm not trying my hardest, and I'm not trying to do the best way I know how.
+                                </div>
+                                </div>
+                            </div>
+                            <div class="accordion-item mb-3">
+                                <h6 class="accordion-header" id="headingFifth">
+                                <button class="accordion-button border-bottom font-weight-bold text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFifth" aria-expanded="false" aria-controls="collapseFifth">
+                                    Where do I find the shipping details?
+                                    <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                                    <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
+                                </button>
+                                </h6>
+                                <div id="collapseFifth" class="accordion-collapse collapse" aria-labelledby="headingFifth" data-bs-parent="#accordionPricing">
+                                <div class="accordion-body text-sm opacity-8">
+                                    There’s nothing I really wanted to do in life that I wasn’t able to get good at. That’s my skill. I’m not really specifically talented at anything except for the ability to learn. That’s what I do. That’s what I’m here for. Don’t be afraid to be wrong because you can’t learn anything from a compliment.
+                                    I always felt like I could do anything. That’s the main thing people are controlled by! Thoughts- their perception of themselves! They're slowed down by their perception of themselves. If you're taught you can’t do anything, you won’t do anything. I was taught I could do everything.
+                                </div>
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                </div> -->
+                <!-- FQA section end  -->
+                <!-- Back to top button -->
+                <button
+                        type="button"
+                        class="btn btn-danger btn-floating btn-lg"
+                        id="btn-back-to-top"
+                        >
+                    <i class="fas fa-arrow-up"></i>
+                </button>
+                <!-- brochure pdf button  -->
+                <button
+                    type="button"
+                    class="btn btn-danger btn-floating btn-lg"
+                    id="btn-brochure"
+                    title='DOWNLOAD BROCHURE'
+                    onclick="window.open('./assets/pdf/BROCHURE_KARKA.pdf')"
+                    >
+                    <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank' title='BROCHURE'><i class="fa fa-file-pdf-o text-white"></i></a> 
+                </button>
             </div>
-            <!-- admission process section end  -->
-            <!-- mentor section start  -->
-            <div class='mentor-section' id='mentor'>
-                <div class='container'>
-                    <h2 class='text-center'>Know your Mentors</h2>
-                    <div class='mx-auto'>
-                        <div class="row justify-content-center" style='align-items: stretch'>
-                            <div class="col-lg-4 col-sm-6 col-12">
-                                <div class="card card-profile mt-4">
-                                <div class="row">
-                                    <div class="col-lg-6 col-12 text-center">
-                                    <a href="javascript:;">
-                                        <div class="p-3 pe-md-0 card-device-width">
-                                        <img class="w-lg-90 border-radius-md shadow-lg" src="./assets/img/satheesh-in.jpg" alt="image">
-                                        </div>
-                                    </a>
-                                    </div>
-                                    <div class="col-lg-6 col-12 my-auto">
-                                    <div class="card-body ps-lg-0">
-                                        <h4 class="">Sateesh Kumar</h4>
-                                        <p class="text-info">15+ Years Ex-Yatra.com</p>
-                                    </div>
-                                    </div>
-                                </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-sm-6 col-12">
-                                <div class="card card-profile mt-4">
-                                <div class="row">
-                                    <div class="col-lg-6 col-12 text-center">
-                                    <a href="javascript:;">
-                                        <div class="p-3 pe-md-0 card-device-width">
-                                        <img class="w-lg-90 border-radius-md shadow-lg" src="./assets/img/ramesh-in.jpg" alt="image">
-                                        </div>
-                                    </a>
-                                    </div>
-                                    <div class="col-lg-6 col-12 my-auto">
-                                    <div class="card-body ps-lg-0">
-                                        <h4 class="">Ramesh Varghese</h4>
-                                        <p class="text-info">11+ Years Ex-SMHack</p>
-                                    </div>
-                                    </div>
-                                </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-sm-6 col-12 d-lg-flex">
-                                <div class="card card-profile mt-4 ">
-                                <div class="row">
-                                    <div class="col-lg-6 col-12 text-center">
-                                    <a href="javascript:;">
-                                        <div class="p-3 pe-md-0 card-device-width">
-                                        <img class="w-lg-90 border-radius-md shadow-lg" src="./assets/img/perumal-link.jpg" alt="image">
-                                        </div>
-                                    </a>
-                                    </div>
-                                    <div class="col-lg-6 col-12 my-auto">
-                                    <div class="card-body ps-lg-0">
-                                        <h4 class="">Sivanancha Perumal</h4>
-                                        <p class="text-info">9+ Years</p>
-                                    </div>
-                                    </div>
-                                </div>
-                                </div>
-                            </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- mentor section end  -->
-            <!-- Curriculum section start  -->
-            <div class="curriculam-section" id='curriculam'>
-                <div class="container">
-                    <h3 class="text-center curriculam-title">Here’s how your next 5 month looks like</h3>
-                    <div class='curriculam-top'>
-                        <div class="row mb-5">
-                            <div class="col-lg-4 col-md-6">
-                                <div class="card card-background card-look align-items-start h-100 border-0">
-                                    <div class="card-body z-index-3 curriculam-card mx-auto">
-                                        <img src='./assets/img/Web_Application (1).png' />
-                                            <div class='text-center'>
-                                                <h5 class="text-white mb-1">Module 1</h5>
-                                                <h4 class='text-white'>Foundations of Web<br/>Applications</h4>
-                                                <p class="text-white opacity-8">Introduction to Internet, HTTP, Web, HTML, CSS, Javascript, DOM, Git</p>
-                                                <button class="btn btn-white bg-white btn-sm" type="button" name="button">Download Syllabus</button>
-                                            </div>
-                                        </div>
-                                    <span class="mask bg-curriculam border-radius-xl z-index-2 opacity-7"></span>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4 mt-3">
-                                <div class="card h-100 card-background card-look align-items-start border-0">
-                                <div class="card-body z-index-3">
-                                <img src='./assets/img/Web_Application (3).png' />
-                                </div>
-                                <div class="card-footer pb-3 pt-2 z-index-3">
-                                    <h5 class="text-white mb-1">Module 2</h5>
-                                    <h4 class='text-white'>Advanced Frontend Tech</h4>
-                                    <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">jQuery, ajax, Bootstrap, Mobile Responsive Design, ECMA</p>
-                                </div>
-                                <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
-                                </div>
-                                <div class="card h-100 card-background card-look mt-4 align-items-start mt-sm-4 border-0">
-                                <div class="card-body z-index-3">
-                                <img src='./assets/img/Web_Application (5).png' />
-                                </div>
-                                <div class="card-footer pb-3 pt-2 z-index-3">
-                                    <h5 class='text-white'>Module 3</h5>
-                                    <h4 class="text-white">Frontend Framework</h4>
-                                    <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">React, JSX, Components, States, Props, Redux , Routing, axios & APIs </p>
-                                </div>
-                                <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4">
-                                <div class="card h-100 card-background card-look align-items-start border-0">
-                                <div class="card-body z-index-3">
-                                    <img src='./assets/img/Web_Application (2).png' />
-                                </div>
-                                <div class="card-footer pb-3 pt-2 z-index-3 w-100">
-                                    <h5 class='text-white'>Module 4</h5>
-                                    <h4 class="text-white">Foundations of Backend</h4>
-                                    <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">Programming, Data Structures,<br/>Algorithms</p>
-                                </div>
-                                <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
-                                </div>
-                                <div class="card card-background card-look mt-4 align-items-start border-0">
-                                <div class="card-body z-index-3">
-                                    <img src='./assets/img/Web_Application (4).png' />
-                                </div>
-                                <div class="card-footer pb-3 pt-2 z-index-3 w-100">
-                                    <h5 class='text-white'>Module 5</h5>
-                                    <h4 class="text-white mb-1">Backend Framework</h4>
-                                    <p class="text-white text-xs font-weight-bolder text-uppercase opacity-7">Java, Spring Boot, JPA, Transactions,<br/>MySQL</p>
-                                </div>
-                                <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Curriculum section end  -->
-            <!-- FQA section start  -->
-            <!-- <div class="faq-section" id='faq'>
-                <div class="container">
-                <div class="row">
-                    <div class="col-md-10 mx-auto faq-start">
-                    <div class="card">
-                        <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2 bg-transparent">
-                            <div class="bg-faq shadow-danger border-radius-lg p-4">
-                                <h4 class="text-white mb-0">FAQ</h4>
-                                <p class="text-white opacity-8 mb-0">Last modified: Aug 30 2021</p>
-                            </div>
-                        </div>
-                        <div class="accordion p-3" id="accordionPricing">
-                        <div class="accordion-item mb-3">
-                            <h6 class="accordion-header" id="headingOne">
-                            <button class="accordion-button border-bottom font-weight-bold text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                How do I order?
-                                <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
-                                <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
-                            </button>
-                            </h6>
-                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionPricing" style="">
-                            <div class="accordion-body text-sm opacity-8">
-                                We’re not always in the position that we want to be at. We’re constantly growing. We’re constantly making mistakes. We’re constantly trying to express ourselves and actualize our dreams. If you have the opportunity to play this game of life you need to appreciate every moment. A lot of people don’t appreciate the moment until it’s passed.
-                                <br><br>
-                                There’s nothing I really wanted to do in life that I wasn’t able to get good at. That’s my skill. I’m not really specifically talented at anything except for the ability to learn. That’s what I do. That’s what I’m here for. Don’t be afraid to be wrong because you can’t learn anything from a compliment.
-                            </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item mb-3">
-                            <h6 class="accordion-header" id="headingTwo">
-                            <button class="accordion-button border-bottom font-weight-bold text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                How can i make the payment?
-                                <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
-                                <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
-                            </button>
-                            </h6>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionPricing" style="">
-                            <div class="accordion-body text-sm opacity-8">
-                                It really matters and then like it really doesn’t matter. What matters is the people who are sparked by it. And the people who are like offended by it, it doesn’t matter. Because it's about motivating the doers. Because I’m here to follow my dreams and inspire other people to follow their dreams, too.
-                                <br>
-                                We’re not always in the position that we want to be at. We’re constantly growing. We’re constantly making mistakes. We’re constantly trying to express ourselves and actualize our dreams. If you have the opportunity to play this game of life you need to appreciate every moment. A lot of people don’t appreciate the moment until it’s passed.
-                            </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item mb-3">
-                            <h6 class="accordion-header" id="headingThree">
-                            <button class="accordion-button border-bottom font-weight-bold text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                How much time does it take to receive the order?
-                                <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
-                                <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
-                            </button>
-                            </h6>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionPricing">
-                            <div class="accordion-body text-sm opacity-8">
-                                The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out. But the time is now to be okay to be the greatest you. Would you believe in what you believe in, if you were the only one who believed it?
-                                If everything I did failed - which it doesn't, it actually succeeds - just the fact that I'm willing to fail is an inspiration. People are so scared to lose that they don't even try. Like, one thing people can't say is that I'm not trying, and I'm not trying my hardest, and I'm not trying to do the best way I know how.
-                            </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item mb-3">
-                            <h6 class="accordion-header" id="headingFour">
-                            <button class="accordion-button border-bottom font-weight-bold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                Can I resell the products?
-                                <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
-                                <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
-                            </button>
-                            </h6>
-                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionPricing">
-                            <div class="accordion-body text-sm opacity-8">
-                                I always felt like I could do anything. That’s the main thing people are controlled by! Thoughts- their perception of themselves! They're slowed down by their perception of themselves. If you're taught you can’t do anything, you won’t do anything. I was taught I could do everything.
-                                <br><br>
-                                If everything I did failed - which it doesn't, it actually succeeds - just the fact that I'm willing to fail is an inspiration. People are so scared to lose that they don't even try. Like, one thing people can't say is that I'm not trying, and I'm not trying my hardest, and I'm not trying to do the best way I know how.
-                            </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item mb-3">
-                            <h6 class="accordion-header" id="headingFifth">
-                            <button class="accordion-button border-bottom font-weight-bold text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFifth" aria-expanded="false" aria-controls="collapseFifth">
-                                Where do I find the shipping details?
-                                <i class="collapse-close fa fa-plus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
-                                <i class="collapse-open fa fa-minus text-xs pt-1 position-absolute end-0" aria-hidden="true"></i>
-                            </button>
-                            </h6>
-                            <div id="collapseFifth" class="accordion-collapse collapse" aria-labelledby="headingFifth" data-bs-parent="#accordionPricing">
-                            <div class="accordion-body text-sm opacity-8">
-                                There’s nothing I really wanted to do in life that I wasn’t able to get good at. That’s my skill. I’m not really specifically talented at anything except for the ability to learn. That’s what I do. That’s what I’m here for. Don’t be afraid to be wrong because you can’t learn anything from a compliment.
-                                I always felt like I could do anything. That’s the main thing people are controlled by! Thoughts- their perception of themselves! They're slowed down by their perception of themselves. If you're taught you can’t do anything, you won’t do anything. I was taught I could do everything.
-                            </div>
-                            </div>
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-                </div>
-            </div> -->
-            <!-- FQA section end  -->
         </div>
-         <!-- Back to top button -->
-         <button
-                type="button"
-                class="btn btn-danger btn-floating btn-lg"
-                id="btn-back-to-top"
-                >
-            <i class="fas fa-arrow-up"></i>
-        </button>
-        <!-- brochure pdf button  -->
-       <button
-          type="button"
-          class="btn btn-danger btn-floating btn-lg"
-          id="btn-brochure"
-          title='DOWNLOAD BROCHURE'
-          onclick="window.open('./assets/pdf/BROCHURE_KARKA.pdf')"
-        >
-        <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank' title='BROCHURE'><i class="fa fa-file-pdf-o text-white"></i></a> 
-      </button>
     </section>
     <!-- section end  -->
     <!-- footer section start  -->
@@ -1048,23 +1052,36 @@
 });
 });
 
-// $(window).scroll(function() {
-// 		var windscroll = $(window).scrollTop();
-// 		if (windscroll >= 100) {
-// 			$('section').each(function(i) {
-//         // The number at the end of the next line is how pany pixels you from the top you want it to activate.
-// 				if ($(this).position().top <= windscroll - 0) {
-// 					$('nav li.active').removeClass('active');
-// 					$('nav li').eq(i).addClass('active');
-// 				}
-// 			});
+var sections = $('.scroll-top');
+var nav = $('.full-nav');
+var nav_height = nav.outerHeight();
 
-// 		} else {
+$(window).on('scroll', function () {
+  var cur_pos = $(this).scrollTop();
+  
+  sections.each(function() {
+    var top = $(this).offset().top - nav_height,
+        bottom = top + $(this).outerHeight();
+        console.log(top);
+    if (cur_pos >= top && cur_pos <= bottom) {
+      nav.find('a').removeClass('active');
+      sections.removeClass('active');
+      
+      $(this).addClass('active');
+      nav.find('a[href="#'+$(this).attr('id')+'"]').addClass('active');
+    }
+  });
+});
 
-// 			$('nav li.active').removeClass('active');
-// 			$('nav li:first').addClass('active');
-// 		}
-
-// 		}).scroll();
+// nav.find('a').on('click', function () {
+//   var $el = $(this);
+//     var id = $el.attr('href');
+  
+//   $('html, body').animate({
+//     scrollTop: $(id).offset().top - nav_height
+//   }, 500);
+  
+//   return false;
+// });
     </script>
 </html>
