@@ -825,7 +825,7 @@
                                     <span class="mask bg-gradient-dark border-radius-xl z-index-2 opacity-6"></span>
                                     </div>
                                 </div>
-                                <div class="col-lg-4 col-md-6 d-flex flex-column mb-2 mt-lg-0 mt-sm-4">
+                                <div class="col-lg-4 col-md-12 d-flex flex-column mb-2 mt-lg-0 mt-sm-4">
                                     <div class="card h-100 card-background card-look align-items-start border-0">
                                     <div class="card-body z-index-3">
                                         <img src='./assets/img/Web_Application (2).png' />
