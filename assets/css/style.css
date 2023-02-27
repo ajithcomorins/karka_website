@@ -77,7 +77,7 @@
   }
   /* placement page owl-carosul button css */
   .placement-top{
-    padding-top: 0px;
+    padding-top: 125px;
   }
   .owl-nav{
     text-align: center;
@@ -6297,6 +6297,7 @@
     /* placement css start  */
     .placement-top{
         margin-top: 0px;
+        padding-top: 125px !important;
     }
     .place-top{
         margin-top: 0px !important;
