@@ -176,9 +176,10 @@
                                 <div class="col-md-6 position-relative">
                                 <div class="position-relative ms-md-5 me-md-n5">
                                     <div class="blur-shadow-image">
-                                    <img class="image-left border-radius-lg img-fluid position-relative top-0 end-0 bg-cover w-100" src="./assets/img/overview-1.png" alt="image" loading="lazy">
+                                        <img class="image-left border-radius-lg img-fluid position-relative top-0 end-0 bg-cover" src="./assets/img/overview-1.png" alt="image" loading="lazy">
                                     </div>
-                                <div class="colored-shadow" style="background-image: url(&quot;https://images.unsplash.com/photo-1576425955345-f48eae74fc44?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2378&amp;q=80&quot;);"></div></div>
+                                    <div class="colored-shadow" style="background-image: url(&quot;https://images.unsplash.com/photo-1576425955345-f48eae74fc44?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=2378&amp;q=80&quot;);"></div>
+                                </div>
                                 <ul class="blockquote border border-dark rounded w-lg-50 w-md-75 w-sm-100 w-75 pt-3 pb-3 text-sm text-dark float-md-end mt-4 me-md-n2 mx-auto">
                                     <li>Graduates seeking IT professional jobs</li>
                                     <li>Working professionals interested in software development</li>
