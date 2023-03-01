@@ -618,23 +618,23 @@
         center: true,
         loop: true,
         items: 3,
+        nav: true,
+        dots: false,
         responsiveClass: true,
         responsive: {
             0:{
               items: 1,
-              dots: true
             },
             400:{
               items:1,
-              dots: true
             },
             768:{
               items:3,
-              dots:false
+              nav: false,
             },
             1200:{
               items: 3,
-              dots: false
+              nav: false,
             }
         }
         
