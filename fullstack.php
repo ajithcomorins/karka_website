@@ -1011,7 +1011,7 @@
      <script src="./assets/js/main.js"></script>
     <script type="text/javascript">
         $(window).scroll(function(){
-            if ($(window).scrollTop() >= 600) {
+            if ($(window).scrollTop() >= 750) {
                 $('.header').addClass('sticky-element');
             }
             else {
@@ -1074,15 +1074,5 @@ $(window).on('scroll', function () {
   });
 });
 
-// nav.find('a').on('click', function () {
-//   var $el = $(this);
-//     var id = $el.attr('href');
-  
-//   $('html, body').animate({
-//     scrollTop: $(id).offset().top - nav_height
-//   }, 500);
-  
-//   return false;
-// });
     </script>
 </html>

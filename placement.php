@@ -202,8 +202,18 @@
                       <img src="./assets/img/sivaranjini 1.png" class="card-img-top" alt="sivaranjini">
                       <div class="card-body text-center">
                           <h3 class="card-text">Sivaranjini</h3>
-                          <h4>Batch-3-2020</h4>
+                          <h4>Batch-6-2020</h4>
                           <img src='./assets/img/flow-logo 1.png' class='w-50'/>
+                      </div>
+                  </div>
+              </div>
+              <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
+                  <div class="card" style="">
+                      <img src="./assets/img/sriram (1).jpg" class="card-img-top" alt="sriram">
+                      <div class="card-body text-center">
+                          <h3 class="card-text">Sriram</h3>
+                          <h4>Batch-6-2020</h4>
+                          <img src='./assets/img/novac 1.png' class='w-50'/>
                       </div>
                   </div>
               </div>
@@ -632,6 +642,14 @@
                         <h3 class="card-text">Pavithra</h3>
                         <h4>Batch-9-2022</h4>
                         <img src='./assets/img/comorins 1.png' class='w-50 mx-auto p-2'/>
+                    </div>
+                </div>
+                <div class="card-view p-0">
+                    <img src="./assets/img/sriram (1).jpg" class="card-img-top" alt="sriram">
+                    <div class="card-body text-center">
+                        <h3 class="card-text">Sriram</h3>
+                        <h4>Batch-6-2021</h4>
+                        <img src='./assets/img/novac 1.png' class='w-50 mx-auto p-2'/>
                     </div>
                 </div>
                 <div class="card-view p-0">

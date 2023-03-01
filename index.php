@@ -354,11 +354,11 @@
               </div>
             </div> 
           </div>
-        </div>
+        </div> 
       </div>
       <!-- company list view end  -->
       <!-- google review section start  -->
-      <div class="overflow-hidden review-section">
+      <div class='overflow-hidden review-section'>
         <img src="assets/img/pattern-lines.svg" alt="pattern-lines" class="position-absolute w-100 h-100 opacity-6">
         <div class="container mb-5">
           <div class="row">
@@ -368,34 +368,51 @@
             </div>
           </div>
         </div>
-        <div class="row m-0 p-3 card-review">
-          <div class="col-lg-4 col-md-12 d-flex align-items-stretch">
-            <div class="card mb-5 mb-lg-0">
-              <div class="card-body text-center">
-                <img src="assets/img/review-1.png" alt="..." class="">
-                <p class="mt-4">I have done my full stack development course in this institution.From the knowledge of learning I gain an very good confidence to be placed in the IT sectors and an decent knowledge in working on real time project in web- development and 100% efficient teaching along with the pratical side project explanation.I am truly thankful to KARKA ACADEMY</p>
+        <div class=''>
+          <div class="container">
+            <div class="owl-carousel card-review">
+              <div class="card-view">
+                <div class="post-content">
+                  <img src='./assets/img/review-1.jpg' />
+                  <p class="mt-4">I have done my full stack development course in this institution.From the knowledge of learning I gain an very good confidence to be placed in the IT sectors and an decent knowledge in working on real time project in web- development and 100% efficient teaching along with the pratical side project explanation.I am truly thankful to KARKA ACADEMY</p>
+                </div>
+              </div>
+              <div>
+              <div class="card-view">
+                <div class="post-content">
+                  <img src='./assets/img/review-2.jpg' />
+                  <p class="mt-4">It is a great place to learn even if you don't have any background knowledge in IT. Better learning happens when working with the projects. Very good experience and a good practical knowledge. We have awesome mentors, they help us every time when we need. I am truly thankful to KARKA ACADEMY, as you have given me the opportunity and to focus in my career. Best of luck!!</p>
+                </div>
+              </div>
+              </div>
+              <div>
+              <div class="card-view">
+                <div class="post-content">
+                  <img src='./assets/img/review-3.jpg' />
+                  <p class="mt-4">Karka academy is the best place to learn Full Stack Web development.Very knowledgeable and skilled instructors, they provide wealth of information they clear all our doubts and explain with many real-time examples, they help us to skill up our knowledge and get a strong knowledge on what we are learning.I will recommend karka academy to everyone✌️</p>
+                </div>
+              </div>
+              </div>
+              <div>
+              <div class="card-view">
+                <div class="post-content">
+                  <img src='./assets/img/review-4.jpg' />
+                  <p class="mt-4">A good platform for those who are '0' in software field to become a software Developer, They are following their own methods of teaching to improve our skills and to make us engage in coding during training period. The course was very useful to me.</p>
+                </div>
+              </div>
+              </div>
+              <div class="card-view">
+                <div class="post-content">
+                  <img src='./assets/img/review-5.jpg' />
+                  <p class="mt-4">I had a 5 years of career gap and I was unable to pay fee for learning, After completing degree I had no ideas to enter in a software industry, Recently my friend suggested me to join in this company and here I got the chance to learn full stack development course, They gave a good training and guidance to attain a good job in IT industry.</p>
+                </div>
+              </div>
               </div>
             </div>
-          </div>
-          <div class="col-lg-4 col-md-12 d-flex align-items-stretch">
-            <div class="card mb-5 mb-lg-0">
-              <div class="card-body text-center">
-                <img src="assets/img/review-2.png" alt="..." class="">
-                <p class="mt-4">It is a great place to learn even if you don't have any background knowledge in IT. Better learning happens when working with the projects. Very good experience and a good practical knowledge. We have awesome mentors, they help us every time when we need. I am truly thankful to KARKA ACADEMY, as you have given me the opportunity and to focus in my career. Best of luck!!</p>
-              </div>
+            <div class='text-center more-review'>
+              <a href='https://www.google.com/search?q=karka+software+academy&oq=karka+&aqs=chrome.0.35i39i355j46i39i175i199j69i57j69i60l5.3688j0j9&sourceid=chrome&ie=UTF-8#lrd=0x3b04f15dde0aa367:0xd5eb331016b805d0,1,,,,' target="_blank" class='text-decoration-none icon-move-right hover-overlay hover-zoom text-white'>more review</a><i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
             </div>
           </div>
-          <div class="col-lg-4 col-md-12 d-flex align-items-stretch">
-            <div class="card mb-5 mb-lg-0">
-              <div class="card-body text-center">
-                <img src="assets/img/review-3.png" alt="..." class="">
-                <p class="mt-4">Karka academy is the best place to learn Full Stack Web development.Very knowledgeable and skilled instructors, they provide wealth of information they clear all our doubts and explain with many real-time examples, they help us to skill up our knowledge and get a strong knowledge on what we are learning.I will recommend karka academy to everyone✌️</p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class='text-center more-review'>
-          <a href='https://www.google.com/search?q=karka+software+academy&oq=karka+&aqs=chrome.0.35i39i355j46i39i175i199j69i57j69i60l5.3688j0j9&sourceid=chrome&ie=UTF-8#lrd=0x3b04f15dde0aa367:0xd5eb331016b805d0,1,,,,' target="_blank" class='text-decoration-none icon-move-right'>more review</a><i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
         </div>
       </div>
       <!-- google review section end  -->
