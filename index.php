@@ -199,69 +199,70 @@
       <!-- master box end  -->
         <!-- instructor section start  -->
         <div class="pb-5 position-relative instructor">
-        <div class="container">
-          <div class="row mb-5">
-            <div class="col-md-12 col-lg-12 text-start mb-5 mt-4 instructor-title">
-              <h3 class="text-white z-index-1 position-relative">Know Your Instructors</h3>
-              <p class="text-white opacity-8 mb-0 px-lg-7">Your instructors who are industry practitioners help you reach your full potential and achieve your goals. They provide guidance & support for your career, and they provide mentorship and insight whenever you need it. Know them now !</p>
+          <div class="container">
+            <div class="row mb-5">
+              <div class="col-md-12 col-lg-12 text-start mb-5 mt-4 instructor-title">
+                <h3 class="text-white z-index-1 position-relative">Know Your Instructors</h3>
+                <p class="text-white opacity-8 mb-0 px-lg-7">Your instructors who are industry practitioners help you reach your full potential and achieve your goals. They provide guidance & support for your career, and they provide mentorship and insight whenever you need it. Know them now !</p>
+              </div>
             </div>
-          </div>
-          <div class="row justify-content-center">
-            <div class="col-lg-5 col-12">
-              <div class="card card-profile mt-4 mx-lg-3">
-                <div class="row">
-                  <div class="col-lg-6 col-md-4 col-12 mt-n5">
-                    <a href="https://www.linkedin.com/in/ramesh-varghese/">
-                      <div class="instructor-img text-center">
-                        <img class="w-50 border-radius-md position-relative" src="./assets/img/ramesh-in.jpg" alt="image">
-                        <img class='position-absolute link-position' src='./assets/img/link.png'/>
+            <div class="row justify-content-center">
+              <div class="col-lg-5 col-12">
+                <div class="card card-profile mt-4 mx-lg-3">
+                  <div class="row">
+                    <div class="col-lg-6 col-md-4 col-12 mt-n5">
+                      <a href="https://www.linkedin.com/in/ramesh-varghese/">
+                        <div class="instructor-img text-center">
+                          <img class="w-50 border-radius-md position-relative" src="./assets/img/ramesh-in.jpg" alt="image">
+                          <img class='position-absolute link-position' src='./assets/img/link.png'/>
+                        </div>
+                      </a>
+                    </div>
+                    <div class="col-lg-6 col-md-8 col-12">
+                      <div class="card-body p-0 text-center">
+                        <h5 class="instructor-img">Ramesh Varghese</h5>
+                        <h6 class="text-info">11+ Years<br/>Ex-SMHack</h6>
                       </div>
-                    </a>
-                  </div>
-                  <div class="col-lg-6 col-md-8 col-12">
-                    <div class="card-body p-0 text-center">
-                      <h5 class="instructor-img">Ramesh Varghese</h5>
-                      <h6 class="text-info">11+ Years<br/>Ex-SMHack</h6>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
-            <div class="col-lg-5 col-12">
-              <div class="card card-profile mt-lg-4 mt-6 mx-lg-3">
-                <div class="row">
-                  <div class="col-lg-6 col-md-4 col-12 mt-n5">
-                    <a href="https://www.linkedin.com/in/ssateeshk/">
-                      <div class="instructor-img text-center">
-                        <img class="w-50 border-radius-md position-relative" src="./assets/img/satheesh-in.jpg" alt="image">
-                        <img class='position-absolute link-position' src='./assets/img/link.png'/>
+              <div class="col-lg-5 col-12">
+                <div class="card card-profile mt-lg-4 mt-6 mx-lg-3">
+                  <div class="row">
+                    <div class="col-lg-6 col-md-4 col-12 mt-n5">
+                      <a href="https://www.linkedin.com/in/ssateeshk/">
+                        <div class="instructor-img text-center">
+                          <img class="w-50 border-radius-md position-relative" src="./assets/img/satheesh-in.jpg" alt="image">
+                          <img class='position-absolute link-position' src='./assets/img/link.png'/>
+                        </div>
+                      </a>
+                    </div>
+                    <div class="col-lg-6 col-md-8 col-12">
+                      <div class="card-body p-0 text-center">
+                        <h5 class="instructor-img">Sateesh Kumar</h5>
+                        <h6 class="text-info">15+ Years<br/>Ex-Yatra.com</h6>
                       </div>
-                    </a>
-                  </div>
-                  <div class="col-lg-6 col-md-8 col-12">
-                    <div class="card-body p-0 text-center">
-                      <h5 class="instructor-img">Sateesh Kumar</h5>
-                      <h6 class="text-info">15+ Years<br/>Ex-Yatra.com</h6>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
-            <div class="col-lg-5 col-12 mt-lg-5 mt-md-5 mt-5 ">
-              <div class="card card-profile mt-lg-4 mt-4 mx-lg-3">
-                <div class="row">
-                  <div class="col-lg-6 col-md-4 col-12 mt-n5">
-                    <a href="https://www.linkedin.com/in/sivanananchaperumal-moorthy-9b334a249/">
-                      <div class="instructor-img text-center">
-                         <img class="w-50 border-radius-md position-relative" src="./assets/img/perumal-link.jpg" alt="image">
-                        <img class='position-absolute link-position' src='./assets/img/link.png'/>
+              <div class="col-lg-5 col-12 mt-lg-5 mt-md-5 mt-5 ">
+                <div class="card card-profile mt-lg-4 mt-4 mx-lg-3">
+                  <div class="row">
+                    <div class="col-lg-6 col-md-4 col-12 mt-n5">
+                      <a href="https://www.linkedin.com/in/sivanananchaperumal-moorthy-9b334a249/">
+                        <div class="instructor-img text-center">
+                          <img class="w-50 border-radius-md position-relative" src="./assets/img/perumal-link.jpg" alt="image">
+                          <img class='position-absolute link-position' src='./assets/img/link.png'/>
+                        </div>
+                      </a>
+                    </div>
+                    <div class="col-lg-6 col-md-8 col-12">
+                      <div class="card-body p-0 text-center">
+                        <h5 class="instructor-img">Sivanancha Perumal</h5>
+                        <h6 class="text-info">9+ Years</h6>
                       </div>
-                    </a>
-                  </div>
-                  <div class="col-lg-6 col-md-8 col-12">
-                    <div class="card-body p-0 text-center">
-                      <h5 class="instructor-img">Sivanancha Perumal</h5>
-                      <h6 class="text-info">9+ Years</h6>
                     </div>
                   </div>
                 </div>
@@ -269,7 +270,6 @@
             </div>
           </div>
         </div>
-      </div>
       <!-- instrcutor section end  -->
       <!-- company list view start -->
       <div class='mb-0' style="background-image: url('./assets/img/company-bg.webp')">
@@ -368,8 +368,8 @@
             </div>
           </div>
         </div>
-        <div class=''>
-          <div class="container">
+        <div class='d-flex flex-nowrap'>
+          <div class="container ">
             <div class="owl-carousel card-review">
               <div class="card-view">
                 <div class="post-content">
@@ -377,36 +377,23 @@
                   <p class="mt-4">I have done my full stack development course in this institution.From the knowledge of learning I gain an very good confidence to be placed in the IT sectors and an decent knowledge in working on real time project in web- development and 100% efficient teaching along with the pratical side project explanation.I am truly thankful to KARKA ACADEMY</p>
                 </div>
               </div>
-              <div>
               <div class="card-view">
                 <div class="post-content">
                   <img src='./assets/img/review-2.jpg' />
                   <p class="mt-4">It is a great place to learn even if you don't have any background knowledge in IT. Better learning happens when working with the projects. Very good experience and a good practical knowledge. We have awesome mentors, they help us every time when we need. I am truly thankful to KARKA ACADEMY, as you have given me the opportunity and to focus in my career. Best of luck!!</p>
                 </div>
               </div>
-              </div>
-              <div>
               <div class="card-view">
                 <div class="post-content">
                   <img src='./assets/img/review-3.jpg' />
                   <p class="mt-4">Karka academy is the best place to learn Full Stack Web development.Very knowledgeable and skilled instructors, they provide wealth of information they clear all our doubts and explain with many real-time examples, they help us to skill up our knowledge and get a strong knowledge on what we are learning.I will recommend karka academy to everyone✌️</p>
                 </div>
               </div>
-              </div>
-              <div>
-              <div class="card-view">
-                <div class="post-content">
-                  <img src='./assets/img/review-4.jpg' />
-                  <p class="mt-4">A good platform for those who are '0' in software field to become a software Developer, They are following their own methods of teaching to improve our skills and to make us engage in coding during training period. The course was very useful to me.</p>
-                </div>
-              </div>
-              </div>
               <div class="card-view">
                 <div class="post-content">
                   <img src='./assets/img/review-5.jpg' />
                   <p class="mt-4">I had a 5 years of career gap and I was unable to pay fee for learning, After completing degree I had no ideas to enter in a software industry, Recently my friend suggested me to join in this company and here I got the chance to learn full stack development course, They gave a good training and guidance to attain a good job in IT industry.</p>
                 </div>
-              </div>
               </div>
             </div>
             <div class='text-center more-review'>
