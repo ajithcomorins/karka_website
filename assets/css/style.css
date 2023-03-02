@@ -21,6 +21,9 @@
 .btn-bg{
     background-color: #6D416D !important;
 }
+.bg-review{
+    background: none !important;
+}
 .navbar-toggler.collapsed .navbar-toggler-icon .navbar-toggler-bar.bar1 {
     margin-top: 5px !important;
 }
@@ -2016,8 +2019,8 @@
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 400;
-        font-size: 16px;
-        line-height: 26px;
+        font-size: 12px;
+        line-height: 22px;
         text-align: center;
         color: #000000;
     }
@@ -3037,8 +3040,8 @@
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 400;
-        font-size: 16px;
-        line-height: 26px;
+        font-size: 14px;
+        line-height: 24px;
         text-align: center;
         color: #000000;
     }
@@ -4781,8 +4784,8 @@
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 400;
-        font-size: 18px;
-        line-height: 28px;
+        font-size: 12px;
+        line-height: 22px;
         text-align: center;
         color: #000000;
     }
@@ -5657,8 +5660,8 @@
         font-family: 'Roboto Slab';
         font-style: normal;
         font-weight: 400;
-        font-size: 20px;
-        line-height: 30px;
+        font-size: 14px;
+        line-height: 24px;
         text-align: center;
         color: #000000;
     }
