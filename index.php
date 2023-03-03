@@ -110,9 +110,26 @@
       </div>
       <!-- why-karka section end  -->
       <!-- blog section start  -->
-      <div class='blog-section container'>
+      <div class='blog-section container pb-5'>
         <h2>Our Mission</h2>
         <p>To Identify unemployed graduates and up-skill them through our practice oriented intensive “bootcamps” for tech industry without the burden of paying hefty fees and there by democratize the growth of students career & their economy</p>
+        <div class='mt-4 mission-section'>
+          <hr class='m-0'/>
+          <div class='our-mission text-center position-relative'> 
+            <img src='./assets/img/mission.png' class='w-25'/>
+            <img src='./assets/img/mission-1.png' class='position-absolute mission-1' />
+            <img src='./assets/img/mission-2.png' class='position-absolute mission-2' />
+            <img src='./assets/img/mission-3.png' class='position-absolute mission-3' />
+            <img src='./assets/img/mission-4.png' class='position-absolute mission-4' />
+            <img src='./assets/img/mission-5.png' class='position-absolute mission-5' />
+            <span class='position-absolute text-mission-1'>Pay only when<br/>you start earning</span>
+            <span class='position-absolute text-mission-2'>100% guaranteed job</span>
+            <span class='position-absolute text-mission-3'>Learn from<br/>industry experts</span>
+            <span class='position-absolute text-mission-4'>No upfront fee</span>
+            <span class='position-absolute text-mission-5'>4 months full<br/>time bootcamp</span>
+          </div>
+          <h1 class='text-center mt-8'>Reasons to learn with <span>KARKA</span></h1>
+        </div>
       </div>
       <!-- blog section end  -->
       <!-- course section start  -->
