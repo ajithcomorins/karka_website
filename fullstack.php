@@ -969,7 +969,7 @@
                     title='DOWNLOAD BROCHURE'
                     onclick="window.open('./assets/pdf/BROCHURE_KARKA.pdf')"
                     >
-                    <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank' title='BROCHURE'><i class="fa fa-file-pdf-o text-white"></i></a> 
+                    <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank'><i class="fa fa-file-pdf-o text-white"></i></a> 
                 </button>
             </div>
         </div>

@@ -44,7 +44,7 @@
     <!-- section start  -->
     <section class='placement' style="background-image: url('./assets/img/company-bg.webp')">
       <div class='container container-85 placement-top'>
-        <h2 class='text-center p-4 text-dark fw-bold'>Meet our <span style='color: #92278F'>KARKA</span> alumni who’ve made it.</h2>
+        <h2 class='text-center p-4 text-dark fw-bold' style='font-size: 22px;'>Meet our <span style='color: #92278F'>KARKA</span> alumni who’ve made it.</h2>
         <div class='container container-95 d-lg-block d-sm-none d-none'>
            <div class='row m-0 align-items-stretch justify-content-center'>
            <div class='d-flex col-lg-3 col-md-4 col-sm-6 col-12 p-4 '>
@@ -790,7 +790,7 @@
           title='DOWNLOAD BROCHURE'
           onclick="window.open('./assets/pdf/BROCHURE_KARKA.pdf')"
         >
-         <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank' title='BROCHURE'><i class="fa fa-file-pdf-o text-white"></i></a> 
+         <a href='./assets/pdf/BROCHURE_KARKA.pdf' target='_blank''><i class="fa fa-file-pdf-o text-white"></i></a> 
         </button>
     </section>
     <!-- section end  -->

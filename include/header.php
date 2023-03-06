@@ -8,7 +8,7 @@
         <img src='assets/img/karka-logos.png' alt='' class='black-logo'>
         <img src='assets/img/karka-white.png' class='white-logo'/>
       </a>
-      <a href="https://karka.academy/apply/" class="btn btn-sm apply-now mb-0 ms-auto d-lg-none d-block">Apply Now</a>
+      <a href="https://karka.academy/apply/" target='_blank' class="btn btn-sm apply-now mb-0 ms-auto d-lg-none d-block">Apply Now</a>
       <button class="navbar-toggler shadow-none ms-2 collapsed btn-bg" type="button" data-bs-toggle="collapse" data-bs-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon">
           <span class="navbar-toggler-bar bar1 text-dark"></span>

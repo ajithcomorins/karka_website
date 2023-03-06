@@ -113,7 +113,7 @@
       <div class='blog-section container pb-5'>
         <h2>Our Mission</h2>
         <p>To Identify unemployed graduates and up-skill them through our practice oriented intensive “bootcamps” for tech industry without the burden of paying hefty fees and there by democratize the growth of students career & their economy</p>
-        <div class='mt-4 mission-section'>
+        <div class='mt-4 mission-section d-none d-lg-block d-md-block'>
           <hr class='m-0'/>
           <div class='our-mission text-center position-relative'> 
             <img src='./assets/img/mission.png' class='w-25'/>
@@ -122,13 +122,54 @@
             <img src='./assets/img/mission-3.png' class='position-absolute mission-3' />
             <img src='./assets/img/mission-4.png' class='position-absolute mission-4' />
             <img src='./assets/img/mission-5.png' class='position-absolute mission-5' />
-            <span class='position-absolute text-mission-1'>Pay only when<br/>you start earning</span>
+            <span class='position-absolute text-mission-1'>Pay only when<br/>you start learning</span>
             <span class='position-absolute text-mission-2'>100% guaranteed job</span>
             <span class='position-absolute text-mission-3'>Learn from<br/>industry experts</span>
             <span class='position-absolute text-mission-4'>No upfront fee</span>
             <span class='position-absolute text-mission-5'>4 months full<br/>time bootcamp</span>
           </div>
           <h1 class='text-center mt-8'>Reasons to learn with <span>KARKA</span></h1>
+        </div>
+        <div class='mt-4 mission-section d-block d-lg-none d-md-none '>
+          <div class="row position-relative">
+            <div class="large-8 large-centered">
+              <div class="wrapper">
+                <span class='position-absolute mobile-text-mission-1'>No upfront fee</span>
+                <div class="circle">
+                  <img src='./assets/img/mission-4.png' class='w-50 position-absolute mobile-mission'/>
+                </div>
+                <div class="vertical-line"></div> 
+              </div>
+              <div class="wrapper">
+                <span class='position-absolute mobile-text-mission-2'>4 months full time bootcamp</span>
+                <div class="circle">
+                  <img src='./assets/img/mission-5.png' class='w-50 position-absolute mobile-mission'/>
+                </div>
+                <div class="vertical-line"></div> 
+              </div>
+              <div class="wrapper">
+                <span class='position-absolute mobile-text-mission-3'>Learn from industry experts</span>
+                <div class="circle">
+                  <img src='./assets/img/mission-3.png' class='w-50 position-absolute mobile-mission'/>
+                </div>
+                <div class="vertical-line"></div> 
+              </div>
+              <div class="wrapper">
+                <span class='position-absolute mobile-text-mission-4'>100% guaranteed job</span>
+                <div class="circle">
+                  <img src='./assets/img/mission-2.png' class='w-50 position-absolute mobile-mission'/>
+                </div>
+                <div class="vertical-line"></div> 
+              </div>
+              <div class="wrapper">
+                <span class='position-absolute mobile-text-mission-5'>Pay only when you start learning</span>
+                <div class="circle">
+                  <img src='./assets/img/mission-3.png' class='w-50 position-absolute mobile-mission'/>
+                </div>
+              </div>
+            </div>
+          </div>
+          <h1 class='text-center mt-5 text-dark'>Reasons to learn with <span>KARKA</span></h1>
         </div>
       </div>
       <!-- blog section end  -->
@@ -409,8 +450,8 @@
                   <div class='col-lg-4 col-md-6 col-sm-12 col-12'>
                     <div class="card-view item h-100">
                       <div class="post-content">
-                        <img src='./assets/img/review-3.jpg' class='w-100'/>
-                        <p class="mt-4">Karka academy is the best place to learn Full Stack Web development.Very knowledgeable and skilled instructors, they provide wealth of information they clear all our doubts and explain with many real-time examples, they help us to skill up our knowledge and get a strong knowledge on what we are learning.I will recommend karka academy to everyone✌️</p>
+                        <img src='./assets/img/review-6.jpg' class='w-100' alt='dhaya'/>
+                        <p class="mt-4">I have studied “Full stack development “ course here,  Which is a life changing part in my career.Those who are eager to learn Software course as a fresher or even if a person who has a career gap can join here, For them it is a best place to jump into the software industry.Here they gave good guidence and ideas for all of us even if you are a non IT student. To join here only interest is enough. I thank karka software academy for giving me this opportunity.....🔥🔥🔥</p>
                       </div>
                     </div>
                   </div>
@@ -422,15 +463,7 @@
                     <div class="card-view item h-100">
                       <div class="post-content">
                         <img src='./assets/img/review-5.jpg' class='w-100'/>
-                        <p class="mt-4">I had a 5 years of career gap and I was unable to pay fee for learning, After completing degree I had no ideas to enter in a software industry, Recently my friend suggested me to join in this company and here I got the chance to learn full stack development course, They gave a good training and guidance to attain a good job in IT industry.</p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class='col-lg-4 col-md-6 col-sm-12 col-12'>
-                    <div class="card-view item h-100">
-                      <div class="post-content">
-                        <img src='./assets/img/review-2.jpg' class='w-100'/>
-                        <p class="mt-4">It is a great place to learn even if you don't have any background knowledge in IT. Better learning happens when working with the projects. Very good experience and a good practical knowledge. We have awesome mentors, they help us every time when we need. I am truly thankful to KARKA ACADEMY, as you have given me the opportunity and to focus in my career. Best of luck!!</p>
+                        <p class="mt-4">I had a 5 years of career gap and I was unable to pay fee for learning, After completing degree I had no ideas to enter in a software industry, Recently my friend suggested me to join in this company and here I got the chance to learn full stack development course, They gave a good training and guidance to attain a good job in IT industry.This institute was very useful for poor people and they treat everybody as equal. The tasks and practices which they gave was very helpful for me. Thank you Karka Software Academy.</p>
                       </div>
                     </div>
                   </div>
@@ -439,6 +472,14 @@
                       <div class="post-content">
                         <img src='./assets/img/review-3.jpg' class='w-100'/>
                         <p class="mt-4">Karka academy is the best place to learn Full Stack Web development.Very knowledgeable and skilled instructors, they provide wealth of information they clear all our doubts and explain with many real-time examples, they help us to skill up our knowledge and get a strong knowledge on what we are learning.I will recommend karka academy to everyone✌️</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class='col-lg-4 col-md-6 col-sm-12 col-12'>
+                    <div class="card-view item h-100">
+                      <div class="post-content">
+                        <img src='./assets/img/review-7.jpg' class='w-100' alt='steny'/>
+                        <p class="mt-4">Chosen the Karka software academy was an excellent decision for me. The instructors were knowledgeable, supportive and engaging, and the curriculum was well-designed and fully practical which has helped me gain a strong foundation in software development. I highly recommend this academy to anyone who is seeking to enhance their skills in software development and looking to advance their career in this field.</p>
                       </div>
                     </div>
                   </div>
