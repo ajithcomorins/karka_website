@@ -41,6 +41,8 @@
         <?php include 'include/header.php' ?>
     </header>
     <!-- heaader section end -->
+     <!-- You need to insert the Div-Tag with the ID "progressbar" -->
+     <div id="progressbar"></div>
     <!-- section start  -->
     <section class='placement' style="background-image: url('./assets/img/company-bg.webp')">
       <div class='container container-85 placement-top'>

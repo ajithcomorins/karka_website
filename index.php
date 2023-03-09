@@ -40,6 +40,8 @@
     <!-- header section start -->
     <header class='home'>
         <?php include 'include/header.php' ?>
+          <!-- You need to insert the Div-Tag with the ID "progressbar" -->
+          <div id="progressbar"></div>
           <div id="carouselExampleControls" class="carousel slide carousel-mar" data-bs-ride="carousel">
             <div class="carousel-inner">
               <div class='carousel-item active'>
@@ -754,5 +756,15 @@
         var $speed = 300;  // in ms
         $owl.trigger('to.owl.carousel', [$(this).data( 'position' ), $speed] );
       });
+
+      // function progressBarScroll() {
+      //     let winScroll = document.body.scrollTop || document.documentElement.scrollTop,
+      //         height = document.documentElement.scrollHeight - document.documentElement.clientHeight,
+      //         scrolled = (winScroll / height) * 100;
+      //     document.getElementById("progressBar").style.width = scrolled + "%";
+      // }
+      // window.onscroll = function () {
+      //   progressBarScroll();
+      // };
   </script>
 </html>

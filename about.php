@@ -35,6 +35,8 @@
      <!-- header section start -->
      <header class='about-us'>
         <?php include 'include/header.php' ?>
+         <!-- You need to insert the Div-Tag with the ID "progressbar" -->
+         <div id="progressbar"></div>
         <div class='about-bg'>
             <img src='./assets/img/about-us.png' class='w-100'/>
         </div>

@@ -40,6 +40,8 @@
         </div>
     </header>
     <!-- heaader section end -->
+     <!-- You need to insert the Div-Tag with the ID "progressbar" -->
+     <div id="progressbar"></div>   
     <!-- section start  -->
     <section class='container'>
         <!-- bootcamp content start -->

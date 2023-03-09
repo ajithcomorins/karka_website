@@ -24,6 +24,16 @@
 .bg-review{
     background: none !important;
 }
+#progressbar {
+	position: fixed;
+	height: 5px;
+	z-index: 999;
+	top: 82px;
+	left: 0;
+	right: calc( 100% );
+	background-color: #6D416D !important;
+	transition: right .5s linear 0s;
+}
 .navbar-toggler.collapsed .navbar-toggler-icon .navbar-toggler-bar.bar1 {
     margin-top: 5px !important;
 }
