@@ -3216,7 +3216,7 @@
         height: auto;
     }
     .circle {
-        width: 80px;
+        width: 60px;
         height: 60px;
         background: #FFF;
         border-radius: 100px;
@@ -3228,15 +3228,15 @@
         height: 0px;
         background: #000;
         border: 2px solid #000;
-        margin: 0px 8%;
+        margin: 0px 6%;
     }
     .mobile-mission{
-        top:18%;
+        top:25%;
         left: 25%;
     }
     .mobile-text-mission-1{
         top: 5%;
-        left: 25%;
+        left: 20%;
         font-family: 'Roboto Slab';
         font-style: normal;
         font-size: 20px;
@@ -3246,7 +3246,7 @@
     }
     .mobile-text-mission-2{
         top: 25%;
-        left: 25%;
+        left: 20%;
         font-family: 'Roboto Slab';
         font-style: normal;
         font-size: 20px;
@@ -3256,7 +3256,7 @@
     }
     .mobile-text-mission-3{
         top: 45%;
-        left: 25%;
+        left: 20%;
         font-family: 'Roboto Slab';
         font-style: normal;
         font-size: 20px;
@@ -3266,7 +3266,7 @@
     }
     .mobile-text-mission-4{
         top: 66%;
-        left: 25%;
+        left: 20%;
         font-family: 'Roboto Slab';
         font-style: normal;
         font-size: 20px;
@@ -3276,7 +3276,7 @@
     }
     .mobile-text-mission-5{
         top: 84%;
-        left: 25%;
+        left: 20%;
         font-family: 'Roboto Slab';
         font-style: normal;
         font-size: 20px;
